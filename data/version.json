@@ -1,0 +1,10 @@
+{
+  "data_version": "2026.09.30-r2",
+  "released_at": "2026-09-30T12:34:31Z",
+  "changelog": [
+    "2026.09.30 — Workstream B: verification pipeline added (tools/verify.py) resolving official legislative.gov.in Act PDFs with per-act provenance in data/provenance/; 7 pre-code stub acts added (Payment of Wages 1936, Minimum Wages 1948, Payment of Bonus 1965, Maternity Benefit 1961, EPF & MP 1952, Contract Labour (R&A) 1970, Employees' Compensation 1923); live-update manifest (data/version.json) and updater (tools/update.py) added. All provision text remains 'ai_drafted' pending official-text verification — only source URLs/metadata are confirmed.",
+    "2026.09.30-r2 — re-ran verification pipeline; no act metadata changes since last run."
+  ],
+  "manifest_url": "https://raw.githubusercontent.com/athulsaji367-dot/lexsync/main/data/version.json",
+  "_publish_note": "GitHub username (athulsaji367-dot) filled from project records; confirm the username and repo name (lexsync) at publish time before relying on manifest_url."
+}
