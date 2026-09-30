@@ -1,0 +1,177 @@
+[
+ {
+  "id": "recruitment",
+  "icon": "👥",
+  "name": "Recruitment & Hiring",
+  "keywords": [
+   "registration of an establishment",
+   "registering an establishment",
+   "vacanc",
+   "career centre",
+   "employment of women",
+   "employment of, or work by, women",
+   "young workers",
+   "young persons",
+   "child",
+   "apprentice",
+   "licence",
+   "licensing",
+   "common licence",
+   "contract labour",
+   "contractor",
+   "audio-visual worker"
+  ]
+ },
+ {
+  "id": "payroll",
+  "icon": "💰",
+  "name": "Payroll & Wages",
+  "keywords": [
+   "minimum wage",
+   "wages",
+   "overtime",
+   "bonus",
+   "deduction",
+   "wage period",
+   "mode of payment",
+   "equal remuneration",
+   "pay equity",
+   "fines",
+   "floor wage",
+   "payment of gratuity",
+   "gratuity"
+  ]
+ },
+ {
+  "id": "leave_attendance",
+  "icon": "📅",
+  "name": "Leave & Attendance",
+  "keywords": [
+   "annual leave",
+   "weekly holiday",
+   "compensatory holiday",
+   "working hours",
+   "hours of work",
+   "night shift",
+   "overlapping shift",
+   "double employment",
+   "muster roll",
+   "spread over",
+   "rest interval"
+  ]
+ },
+ {
+  "id": "benefits",
+  "icon": "🏥",
+  "name": "Benefits & Social Security",
+  "keywords": [
+   "provident fund",
+   "employees’ state insurance",
+   "esi",
+   "medical benefit",
+   "sickness benefit",
+   "disablement",
+   "dependant",
+   "maternity",
+   "crèche",
+   "creche",
+   "nursing break",
+   "gratuity",
+   "pension",
+   "insurance",
+   "compensation for employment injury",
+   "employee’s compensation"
+  ]
+ },
+ {
+  "id": "health_safety",
+  "icon": "⚕️",
+  "name": "Health & Safety",
+  "keywords": [
+   "safety",
+   "health",
+   "welfare facilities",
+   "first aid",
+   "fire",
+   "fencing of machinery",
+   "hazardous process",
+   "accident",
+   "dangerous occurrence",
+   "occupational disease",
+   "safety committee",
+   "welfare officer",
+   "canteen",
+   "drinking water",
+   "ventilation"
+  ]
+ },
+ {
+  "id": "industrial_relations",
+  "icon": "⚖️",
+  "name": "Industrial Relations & Disputes",
+  "keywords": [
+   "trade union",
+   "negotiating union",
+   "standing order",
+   "strike",
+   "lock-out",
+   "conciliation",
+   "tribunal",
+   "labour court",
+   "grievance",
+   "unfair labour practice",
+   "dispute",
+   "arbitrat",
+   "award",
+   "settlement"
+  ]
+ },
+ {
+  "id": "termination",
+  "icon": "🚪",
+  "name": "Termination & Exit",
+  "keywords": [
+   "retrenchment",
+   "lay-off",
+   "laid-off",
+   "closure",
+   "closing down",
+   "discharge",
+   "dismissal",
+   "notice pay",
+   "full and final",
+   "resignation"
+  ]
+ },
+ {
+  "id": "compliance",
+  "icon": "📋",
+  "name": "Compliance & Recordkeeping",
+  "keywords": [
+   "register",
+   "returns",
+   "notices",
+   "inspector",
+   "penalt",
+   "offence",
+   "records",
+   "display of notices",
+   "cognizance",
+   "recovery of"
+  ]
+ },
+ {
+  "id": "gig_contract",
+  "icon": "📱",
+  "name": "Contract & Gig Workforce",
+  "keywords": [
+   "contract labour",
+   "contractor",
+   "inter-state migrant",
+   "gig worker",
+   "platform worker",
+   "unorganised worker",
+   "aggregator"
+  ]
+ }
+]

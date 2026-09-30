@@ -1,0 +1,28 @@
+{
+ "SHORT_NAMES": {
+  "factories": "Factories Act, 1948",
+  "wages_code": "Code on Wages",
+  "osh_code": "OSH Code",
+  "ir_code": "Industrial Relations Code",
+  "ss_code": "Social Security Code",
+  "id_act_1947": "Industrial Disputes Act",
+  "tu_act_1926": "Trade Unions Act",
+  "so_act_1946": "Standing Orders Act",
+  "gratuity_act_1972": "Payment of Gratuity Act",
+  "esi_act_1948": "ESI Act",
+  "pf_act_1925": "Provident Funds Act, 1925"
+ },
+ "ASST_SHORT_NAMES": {
+  "factories": "Factories Act, 1948",
+  "wages_code": "Code on Wages",
+  "osh_code": "OSH Code",
+  "ir_code": "Industrial Relations Code",
+  "ss_code": "Social Security Code",
+  "id_act_1947": "Industrial Disputes Act",
+  "tu_act_1926": "Trade Unions Act",
+  "so_act_1946": "Standing Orders Act",
+  "gratuity_act_1972": "Payment of Gratuity Act",
+  "esi_act_1948": "ESI Act",
+  "pf_act_1925": "Provident Funds Act, 1925"
+ }
+}

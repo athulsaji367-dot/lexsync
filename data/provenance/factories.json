@@ -1,0 +1,11 @@
+{
+ "slug": "factories",
+ "source_url": "https://dgfasli.gov.in/public/Admin/Cms/AllPdf/65005a0c1ebde0.67745153.pdf",
+ "source_title": "dgfasli.gov.in — Factories Act, 1948 PDF (linked from dgfasli.gov.in/other-acts) — official Act PDF",
+ "fetched_at": "2026-09-30T12:33:07Z",
+ "http_status": 200,
+ "content_hash": "sha256:0253953018f06d1444fa67bad11ea44cc83e47df372aec216ca477f61ecceced",
+ "content_bytes": 506705,
+ "notes": "HTTP 200; Content-Type: application/pdf; 506705 bytes; no robots.txt / fetch failed (proceeding) | PDF magic OK, 506705 bytes. Title-keyword check: 1/1 title words found: ['factories']. Text layer present. Content is NOT text-verified against the statute; lite notes remain ai_drafted.",
+ "verification_status": "source_url_confirmed"
+}

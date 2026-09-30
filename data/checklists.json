@@ -1,0 +1,265 @@
+[
+ {
+  "desc": "Statutory touchpoints when you bring someone on board — coverage, registration, and offer documentation.",
+  "icon": "🧲",
+  "id": "hiring",
+  "items": [
+   {
+    "act": "factories",
+    "section": "6",
+    "task": "Check whether the establishment is covered by the Factories Act (10+ workers with power, 20+ without) and complete approval/licensing/registration if so."
+   },
+   {
+    "act": "osh_code",
+    "section": "3",
+    "task": "Register the establishment under the OSH Code where required."
+   },
+   {
+    "act": "ss_code",
+    "section": "3",
+    "task": "Register the establishment for social security (PF/ESI) coverage."
+   },
+   {
+    "act": "esi_act_1948",
+    "section": "39",
+    "task": "Confirm ESI applicability and contribution liability for new joiners."
+   },
+   {
+    "act": "wages_code",
+    "section": "6",
+    "task": "Fix wages at or above the applicable minimum wage before making an offer."
+   },
+   {
+    "act": "osh_code",
+    "section": "54",
+    "task": "For contract-labour hiring, use only licensed contractors and understand the effect of engaging through a non-licensed contractor."
+   },
+   {
+    "act": "osh_code",
+    "section": "60",
+    "task": "If hiring inter-state migrant workers, note the principal employer's facility and registration duties."
+   },
+   {
+    "act": "factories",
+    "section": "69",
+    "task": "For child/adolescent engagement, check age-based restrictions and fitness certificates."
+   }
+  ],
+  "name": "Hiring & Recruitment"
+ },
+ {
+  "desc": "Day-one to day-thirty: standing orders, registers, and statutory communication to the new employee.",
+  "icon": "📋",
+  "id": "onboarding",
+  "items": [
+   {
+    "act": "so_act_1946",
+    "section": "3",
+    "task": "Submit draft standing orders for certification where the establishment has 100+ workmen."
+   },
+   {
+    "act": "so_act_1946",
+    "section": "8",
+    "task": "Communicate certified standing orders to every workman (they govern conduct, leave, termination)."
+   },
+   {
+    "act": "factories",
+    "section": "62",
+    "task": "Add the employee to statutory registers (e.g. register of adult workers)."
+   },
+   {
+    "act": "osh_code",
+    "section": "5",
+    "task": "Notify the occupier/establishment commencement details where required."
+   },
+   {
+    "act": "ss_code",
+    "section": "17",
+    "task": "Enrol the employee for PF contributions and explain the employer/employee split."
+   },
+   {
+    "act": "ss_code",
+    "section": "60",
+    "task": "Explain maternity benefit rights to eligible women employees at onboarding."
+   },
+   {
+    "act": "osh_code",
+    "section": "24",
+    "task": "Cover safety duties, welfare facilities and emergency procedures during induction."
+   }
+  ],
+  "name": "Onboarding & Induction"
+ },
+ {
+  "desc": "Monthly payroll compliance — wages, deductions, contributions, bonus and gratuity accruals.",
+  "icon": "💰",
+  "id": "payroll",
+  "items": [
+   {
+    "act": "wages_code",
+    "section": "17",
+    "task": "Pay wages on time and in the permitted mode; respect the wage-period rules."
+   },
+   {
+    "act": "wages_code",
+    "section": "18",
+    "task": "Apply only authorised deductions (fines, absence, etc.) within statutory limits."
+   },
+   {
+    "act": "factories",
+    "section": "59",
+    "task": "Compute overtime at double the ordinary rate where applicable."
+   },
+   {
+    "act": "ss_code",
+    "section": "17",
+    "task": "Deposit PF contributions (employer + employee) on time."
+   },
+   {
+    "act": "esi_act_1948",
+    "section": "40",
+    "task": "Deposit ESI contributions where the establishment is covered."
+   },
+   {
+    "act": "wages_code",
+    "section": "26",
+    "task": "Check annual bonus eligibility for each employee (20+ persons establishment)."
+   },
+   {
+    "act": "gratuity_act_1972",
+    "section": "4",
+    "task": "Track continuous service for gratuity accrual (5 years, with exceptions)."
+   },
+   {
+    "act": "wages_code",
+    "section": "50",
+    "task": "Maintain wage registers and file required returns/notices."
+   }
+  ],
+  "name": "Payroll & Compensation"
+ },
+ {
+  "desc": "Resignation, retrenchment, dismissal or closure — the exit is where disputes start.",
+  "icon": "🚪",
+  "id": "separation",
+  "items": [
+   {
+    "act": "id_act_1947",
+    "section": "25F",
+    "task": "For retrenchment of workmen, satisfy the conditions precedent (notice, compensation, government intimation)."
+   },
+   {
+    "act": "ir_code",
+    "section": "71",
+    "task": "Under the IR Code, follow the retrenchment procedure and timelines for covered establishments."
+   },
+   {
+    "act": "ir_code",
+    "section": "38",
+    "task": "Complete disciplinary proceedings within the statutory time limit before dismissal for misconduct."
+   },
+   {
+    "act": "gratuity_act_1972",
+    "section": "7",
+    "task": "Pay gratuity as soon as it becomes payable; determine the amount per the statutory formula."
+   },
+   {
+    "act": "esi_act_1948",
+    "section": "72A",
+    "task": "Ensure no dismissal or punishment during an employee's sickness/maternity benefit period."
+   },
+   {
+    "act": "ir_code",
+    "section": "74",
+    "task": "For closure of an undertaking, give the required 60 days' notice of intention."
+   },
+   {
+    "act": "wages_code",
+    "section": "17",
+    "task": "Settle full and final dues including wages, leave encashment and bonus within timelines."
+   }
+  ],
+  "name": "Separation & Termination"
+ },
+ {
+  "desc": "Principal-employer duties when work is done through contractors.",
+  "icon": "🤝",
+  "id": "contract_labour",
+  "items": [
+   {
+    "act": "osh_code",
+    "section": "45",
+    "task": "Confirm whether the contract-labour Part applies (50+ contract labour on any day)."
+   },
+   {
+    "act": "osh_code",
+    "section": "48",
+    "task": "Obtain/renew the contractor licence through the prescribed procedure."
+   },
+   {
+    "act": "osh_code",
+    "section": "54",
+    "task": "Never engage contract labour through a non-licensed contractor — know the legal effect."
+   },
+   {
+    "act": "osh_code",
+    "section": "57",
+    "task": "Check whether contract labour is prohibited in the specific process/operation."
+   },
+   {
+    "act": "osh_code",
+    "section": "53",
+    "task": "As principal employer, ensure welfare facilities for contract workers."
+   },
+   {
+    "act": "esi_act_1948",
+    "section": "41",
+    "task": "Ensure PF/ESI contributions are paid for contract employees (recover from contractor if needed)."
+   }
+  ],
+  "name": "Contract Labour Management"
+ },
+ {
+  "desc": "Ongoing duties for a safe, lawful workplace — committees, facilities, accident reporting.",
+  "icon": "🦺",
+  "id": "workplace_safety",
+  "items": [
+   {
+    "act": "osh_code",
+    "section": "22",
+    "task": "Constitute a Safety Committee and appoint safety officers where thresholds apply."
+   },
+   {
+    "act": "osh_code",
+    "section": "24",
+    "task": "Provide statutory welfare facilities (washing, canteen, rest rooms, first aid)."
+   },
+   {
+    "act": "factories",
+    "section": "47",
+    "task": "Provide crèche facilities where the worker threshold is met."
+   },
+   {
+    "act": "osh_code",
+    "section": "10",
+    "task": "Report accidents and dangerous occurrences to the authorities within timelines."
+   },
+   {
+    "act": "osh_code",
+    "section": "33",
+    "task": "Maintain safety records, registers and file returns."
+   },
+   {
+    "act": "osh_code",
+    "section": "35",
+    "task": "Cooperate with Inspector-cum-Facilitators; know their powers."
+   },
+   {
+    "act": "osh_code",
+    "section": "94",
+    "task": "Review the general penalty provisions so the cost of non-compliance is visible to management."
+   }
+  ],
+  "name": "Workplace Safety & Welfare"
+ }
+]

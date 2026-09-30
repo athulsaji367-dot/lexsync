@@ -1,0 +1,27 @@
+[
+ {
+  "id": "labour_codes",
+  "label": "Labour Codes",
+  "sub": "4 codes · 2019–2020",
+  "ids": [
+   "wages_code",
+   "osh_code",
+   "ir_code",
+   "ss_code"
+  ]
+ },
+ {
+  "id": "other_laws",
+  "label": "Other Laws",
+  "sub": "7 laws · pre-code era",
+  "ids": [
+   "factories",
+   "id_act_1947",
+   "tu_act_1926",
+   "so_act_1946",
+   "gratuity_act_1972",
+   "esi_act_1948",
+   "pf_act_1925"
+  ]
+ }
+]

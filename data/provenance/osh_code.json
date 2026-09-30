@@ -1,0 +1,11 @@
+{
+ "slug": "osh_code",
+ "source_url": "https://dgfasli.gov.in/public/Admin/Cms/AllPdf/OSH_Gazette.pdf",
+ "source_title": "dgfasli.gov.in — OSH & Working Conditions Code, 2020 gazette PDF — official Act PDF",
+ "fetched_at": "2026-09-30T12:33:07Z",
+ "http_status": 200,
+ "content_hash": "sha256:9ce8f68b88f725fbce4fadfb45d9ddc3ed7a5f59d92a2ebd3d5bd7ebb1c83891",
+ "content_bytes": 531293,
+ "notes": "HTTP 200; Content-Type: application/pdf; 531293 bytes; no robots.txt / fetch failed (proceeding) | PDF magic OK, 531293 bytes. Title-keyword check: 5/5 title words found: ['occupational', 'safety', 'health', 'working', 'conditions']. Text layer present. Content is NOT text-verified against the statute; lite notes remain ai_drafted.",
+ "verification_status": "source_url_confirmed"
+}

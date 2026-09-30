@@ -1,0 +1,44 @@
+[
+ {
+  "id": "define",
+  "icon": "📖",
+  "name": "Define It",
+  "desc": "Riddles built from the most important defined terms.",
+  "questionCount": 10
+ },
+ {
+  "id": "detective",
+  "icon": "🔍",
+  "name": "Section Detective",
+  "desc": "A cryptic clue from a high-impact provision — name the section.",
+  "questionCount": 10
+ },
+ {
+  "id": "blank",
+  "icon": "✏️",
+  "name": "Fill the Blank",
+  "desc": "The exact numbers — notice periods, rates, thresholds — that HR actually needs to know.",
+  "questionCount": 10
+ },
+ {
+  "id": "chapter",
+  "icon": "🗂️",
+  "name": "Chapter Sort",
+  "desc": "Figure out which chapter a section belongs to.",
+  "questionCount": 10
+ },
+ {
+  "id": "thennow",
+  "icon": "🔄",
+  "name": "Then vs Now",
+  "desc": "What changed when the new Labour Codes replaced the old Acts.",
+  "questionCount": 8
+ },
+ {
+  "id": "speed",
+  "icon": "⚡",
+  "name": "Speed Round",
+  "desc": "60 seconds, everything mixed, chase your best streak.",
+  "questionCount": 20
+ }
+]
