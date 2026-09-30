@@ -1,0 +1,76 @@
+{
+ "slug": "ir_code",
+ "title": "The Industrial Relations Code, 2020",
+ "year": 2020,
+ "type": "code",
+ "status": "pending_verification",
+ "source_url": null,
+ "retrieved_at": "2026-09-30T12:18:50Z",
+ "verification_status": "ai_drafted",
+ "lite_reviewed_flag": false,
+ "chapters": [
+  {
+   "num": "I",
+   "name": "PRELIMINARY"
+  },
+  {
+   "num": "II",
+   "name": "BI-PARTITE FORUMS"
+  },
+  {
+   "num": "III",
+   "name": "TRADE UNIONS"
+  },
+  {
+   "num": "IV",
+   "name": "STANDING ORDERS"
+  },
+  {
+   "num": "V",
+   "name": "NOTICE OF CHANGE"
+  },
+  {
+   "num": "VI",
+   "name": "VOLUNTARY REFERENCE OF DISPUTES TO ARBITRATION"
+  },
+  {
+   "num": "VII",
+   "name": "MECHANISM FOR RESOLUTION OF INDUSTRIAL DISPUTES"
+  },
+  {
+   "num": "VIII",
+   "name": "STRIKES AND LOCK-OUTS"
+  },
+  {
+   "num": "IX",
+   "name": "LAY-OFF, RETRENCHMENT AND CLOSURE"
+  },
+  {
+   "num": "X",
+   "name": "SPECIAL PROVISIONS RELATING TO LAY-OFF, RETRENCHMENT AND CLOSURE IN CERTAIN ESTABLISHMENTS"
+  },
+  {
+   "num": "XI",
+   "name": "WORKER RE-SKILLING FUND"
+  },
+  {
+   "num": "XII",
+   "name": "UNFAIR LABOUR PRACTICES"
+  },
+  {
+   "num": "XIII",
+   "name": "OFFENCES AND PENALTIES"
+  },
+  {
+   "num": "XIV",
+   "name": "MISCELLANEOUS"
+  }
+ ],
+ "provisions": [],
+ "parts": [
+  "ir_code.p1.json",
+  "ir_code.p2.json",
+  "ir_code.p3.json",
+  "ir_code.p4.json"
+ ]
+}
