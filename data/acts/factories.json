@@ -1,0 +1,3045 @@
+{
+ "slug": "factories",
+ "title": "The Factories Act, 1948",
+ "year": 1948,
+ "type": "act",
+ "status": "source_located",
+ "source_url": "https://dgfasli.gov.in/public/Admin/Cms/AllPdf/65005a0c1ebde0.67745153.pdf",
+ "retrieved_at": "2026-09-30T12:33:07Z",
+ "verification_status": "ai_drafted",
+ "lite_reviewed_flag": true,
+ "chapters": [
+  {
+   "num": "I",
+   "name": "PRELIMINARY"
+  },
+  {
+   "num": "II",
+   "name": "INSPECTING STAFF"
+  },
+  {
+   "num": "III",
+   "name": "HEALTH"
+  },
+  {
+   "num": "IV",
+   "name": "SAFETY"
+  },
+  {
+   "num": "V",
+   "name": "WELFARE"
+  },
+  {
+   "num": "VI",
+   "name": "WORKING HOURS OF ADULTS"
+  },
+  {
+   "num": "VI",
+   "name": "WORKING HOURS OF ADULTS (CONTINUED)"
+  },
+  {
+   "num": "VII",
+   "name": "EMPLOYMENT OF YOUNG PERSONS"
+  },
+  {
+   "num": "VIII",
+   "name": "ANNUAL LEAVE WITH WAGES"
+  },
+  {
+   "num": "IX",
+   "name": "SPECIAL PROVISIONS"
+  },
+  {
+   "num": "X",
+   "name": "PENALTIES AND PROCEDURE"
+  },
+  {
+   "num": "XI",
+   "name": "SUPPLEMENTAL"
+  }
+ ],
+ "provisions": [
+  {
+   "number": "1",
+   "title": "Short Title, Extent and Commencement",
+   "chapter_num": "I",
+   "chapter": "PRELIMINARY",
+   "fields": {
+    "Legal Provision": [
+     "This Act is called the Factories Act, 1948.",
+     "It extends to the whole of India.",
+     "It came into force on 1st April 1949."
+    ],
+    "Objective": [
+     "To provide a uniform legal framework regulating working conditions in factories across India."
+    ],
+    "Explanation": [
+     "This section establishes:",
+     "The name of the Act",
+     "Its territorial applicability",
+     "Its enforcement date",
+     "It ensures that all factories across India are governed by the same statutory framework."
+    ],
+    "HR / Industrial Relations Significance": [
+     "Ensures uniform compliance for HR departments nationwide.",
+     "Forms the legal base for all factory-related HR policies."
+    ],
+    "Exam Points": [
+     "Short title = Factories Act, 1948",
+     "Enforcement date = 1 April 1949",
+     "Extent = Whole of India"
+    ]
+   },
+   "activities": [
+    "Registering a factory",
+    "Getting a factory license",
+    "Classifying employees",
+    "Determining who counts as a worker"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "2",
+   "title": "Definitions",
+   "chapter_num": "I",
+   "chapter": "PRELIMINARY",
+   "fields": {
+    "Legal Provision": [
+     "Defines key terms used throughout the Act."
+    ],
+    "Important Definitions": [
+     "Factory",
+     "10+ workers with power OR",
+     "20+ workers without power",
+     "Engaged in manufacturing process",
+     "Worker",
+     "Any person employed directly or indirectly in manufacturing or related work",
+     "Occupier",
+     "Person with ultimate control over factory affairs",
+     "Manufacturing Process",
+     "Includes:",
+     "Making, altering, repairing, finishing, packing, washing, or otherwise treating an article"
+    ],
+    "Objective": [
+     "To clearly define legal terms so that applicability of the Act is precise."
+    ],
+    "Explanation": [
+     "This is the most important section of the Act, as every compliance depends on these definitions.",
+     "For example:",
+     "If a person is not a “worker”, he is not protected under the Act.",
+     "If an establishment is not a “factory”, the Act does not apply."
+    ],
+    "HR Significance": [
+     "Determines applicability of labour laws",
+     "Impacts payroll, compliance, safety, and inspections",
+     "Helps HR classify employees correctly"
+    ],
+    "Exam Points": [
+     "Factory definition = 10/20 rule",
+     "Occupier = ultimate control person",
+     "Manufacturing process = wide interpretation"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker"
+   ],
+   "definitions": [
+    {
+     "term": "Factory",
+     "definition": "10+ workers with power OR 20+ workers without power, engaged in a manufacturing process."
+    },
+    {
+     "term": "Worker",
+     "definition": "Any person employed directly or indirectly in manufacturing or related work."
+    },
+    {
+     "term": "Occupier",
+     "definition": "Person with ultimate control over factory affairs."
+    },
+    {
+     "term": "Manufacturing Process",
+     "definition": "Includes making, altering, repairing, finishing, packing, washing, or otherwise treating an article."
+    }
+   ],
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "3",
+   "title": "References to Time of Day",
+   "chapter_num": "I",
+   "chapter": "PRELIMINARY",
+   "fields": {
+    "Legal Provision": [
+     "All time references are based on Indian Standard Time (IST)."
+    ],
+    "Objective": [
+     "To maintain uniformity in working hours across all factories."
+    ],
+    "Explanation": [
+     "Factories must follow IST for:",
+     "Shifts",
+     "Overtime calculation",
+     "Attendance tracking"
+    ],
+    "HR Significance": [
+     "Ensures accurate payroll processing",
+     "Prevents disputes in shift timings"
+    ],
+    "Exam Point": [
+     "Always IST is considered in factories law"
+    ]
+   },
+   "activities": [
+    "Setting shift timings",
+    "Paying overtime wages"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "4",
+   "title": "Power to Declare Different Departments to be Separate Factories",
+   "chapter_num": "I",
+   "chapter": "PRELIMINARY",
+   "fields": {
+    "Legal Provision": [
+     "Government may treat separate departments of a single establishment as different factories."
+    ],
+    "Explanation": [
+     "If one establishment has:",
+     "Separate units",
+     "Different processes",
+     "Independent management",
+     "They may be treated as separate factories for legal compliance."
+    ],
+    "HR Significance": [
+     "Separate compliance required for each unit",
+     "Separate licensing may apply"
+    ]
+   },
+   "activities": [
+    "Registering a factory",
+    "Getting a factory license",
+    "Structuring multi-department operations"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "5",
+   "title": "Power to Exempt During Public Emergency",
+   "chapter_num": "I",
+   "chapter": "PRELIMINARY",
+   "fields": {
+    "Legal Provision": [
+     "State government can exempt factories from certain provisions during emergencies."
+    ],
+    "Examples": [
+     "War",
+     "Natural disasters",
+     "National emergencies"
+    ],
+    "HR Significance": [
+     "Temporary relaxation of working hour rules",
+     "Emergency production flexibility"
+    ]
+   },
+   "activities": [
+    "Handling public emergencies"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "6",
+   "title": "Approval, Licensing and Registration",
+   "chapter_num": "I",
+   "chapter": "PRELIMINARY",
+   "fields": {
+    "Legal Provision": [
+     "No factory can operate without:",
+     "Approval of site plan",
+     "License",
+     "Registration"
+    ],
+    "Explanation": [
+     "Before starting operations:",
+     "Factory layout must be approved",
+     "License must be obtained",
+     "Registration number is issued"
+    ],
+    "HR Significance": [
+     "HR/compliance teams must ensure legal setup before hiring",
+     "Non-compliance leads to closure or penalties"
+    ],
+    "Exam Point": [
+     "Licensing is mandatory before operation"
+    ]
+   },
+   "activities": [
+    "Registering a factory",
+    "Getting a factory license",
+    "Classifying employees",
+    "Determining who counts as a worker"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "7",
+   "title": "Notice by Occupier",
+   "chapter_num": "I",
+   "chapter": "PRELIMINARY",
+   "fields": {
+    "Legal Provision": [
+     "Occupier must inform authorities before:",
+     "Starting a factory",
+     "Changing ownership",
+     "Expanding operations"
+    ],
+    "Objective": [
+     "To ensure government has updated factory records."
+    ],
+    "HR Significance": [
+     "Compliance documentation responsibility",
+     "Avoids legal penalties"
+    ]
+   },
+   "activities": [
+    "Registering a factory",
+    "Getting a factory license",
+    "Classifying employees",
+    "Determining who counts as a worker"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "8",
+   "title": "Inspectors",
+   "chapter_num": "II",
+   "chapter": "INSPECTING STAFF",
+   "fields": {
+    "Legal Provision": [
+     "Government appoints Inspectors for enforcement."
+    ],
+    "Explanation": [
+     "Inspectors ensure:",
+     "Safety compliance",
+     "Health standards",
+     "Welfare provisions"
+    ],
+    "HR Significance": [
+     "HR must coordinate with inspectors",
+     "Maintain records for inspection"
+    ]
+   },
+   "activities": [
+    "Preparing for a factory inspection",
+    "Dealing with inspectors"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "9",
+   "title": "Powers of Inspectors",
+   "chapter_num": "II",
+   "chapter": "INSPECTING STAFF",
+   "fields": {
+    "Powers Include": [
+     "Enter factory premises",
+     "Examine workers and records",
+     "Take samples",
+     "Inspect machinery"
+    ],
+    "Objective": [
+     "To ensure strict enforcement of the Act."
+    ],
+    "HR Significance": [
+     "Compliance readiness is essential",
+     "Non-cooperation leads to penalties"
+    ],
+    "Exam Point": [
+     "Inspectors have wide entry and examination powers"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Preparing for a factory inspection",
+    "Dealing with inspectors"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "10",
+   "title": "Certifying Surgeons",
+   "chapter_num": "II",
+   "chapter": "INSPECTING STAFF",
+   "fields": {
+    "Legal Provision": [
+     "Medical professionals appointed for:",
+     "Health checkups of workers",
+     "Fitness certification of young workers"
+    ],
+    "HR Significance": [
+     "Ensures worker health suitability",
+     "Mandatory medical fitness records"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Getting workers medically certified"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "11",
+   "title": "Cleanliness",
+   "chapter_num": "III",
+   "chapter": "HEALTH",
+   "fields": {
+    "Legal Provision": [
+     "Factories must maintain cleanliness through:",
+     "Regular cleaning of floors",
+     "Proper waste disposal",
+     "Whitewashing/painting of walls"
+    ],
+    "Objective": [
+     "To maintain hygienic working conditions."
+    ],
+    "HR Significance": [
+     "Reduces sickness and absenteeism",
+     "Improves productivity"
+    ],
+    "Exam Point": [
+     "Cleanliness is a statutory requirement"
+    ]
+   },
+   "activities": [
+    "Maintaining factory cleanliness",
+    "Disposing of industrial waste"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "12",
+   "title": "Disposal of Wastes and Effluents",
+   "chapter_num": "III",
+   "chapter": "HEALTH",
+   "fields": {
+    "Legal Provision": [
+     "Proper treatment and disposal of industrial waste is mandatory."
+    ],
+    "Explanation": [
+     "Factories must ensure:",
+     "No pollution discharge",
+     "Safe waste disposal systems"
+    ],
+    "HR Significance": [
+     "Environmental compliance",
+     "CSR alignment"
+    ]
+   },
+   "activities": [
+    "Disposing of industrial waste",
+    "Controlling dust and fumes"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "13",
+   "title": "Ventilation and Temperature",
+   "chapter_num": "III",
+   "chapter": "HEALTH",
+   "fields": {
+    "Legal Provision": [
+     "Adequate airflow and controlled temperature must be maintained."
+    ],
+    "Explanation": [
+     "Prevents heat stress",
+     "Ensures worker comfort"
+    ],
+    "HR Significance": [
+     "Improves efficiency and reduces fatigue"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Controlling workplace temperature"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "14",
+   "title": "Dust and Fume Control",
+   "chapter_num": "III",
+   "chapter": "HEALTH",
+   "fields": {
+    "Legal Provision": [
+     "Measures must be taken to control harmful dust and fumes."
+    ],
+    "Explanation": [
+     "Includes:",
+     "Exhaust systems",
+     "Protective equipment"
+    ]
+   },
+   "activities": [
+    "Controlling dust and fumes"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "15",
+   "title": "Artificial Humidification",
+   "chapter_num": "III",
+   "chapter": "HEALTH",
+   "fields": {
+    "Legal Provision": [
+     "Humidity must be regulated in factories using artificial systems."
+    ],
+    "Objective": [
+     "Prevents respiratory issues and discomfort."
+    ]
+   },
+   "activities": [
+    "Regulating humidity"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "16",
+   "title": "Overcrowding",
+   "chapter_num": "III",
+   "chapter": "HEALTH",
+   "fields": {
+    "Legal Provision": [
+     "Factories must not be overcrowded."
+    ],
+    "Explanation": [
+     "Minimum space per worker must be maintained."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Managing floor space and crowding"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "17",
+   "title": "Lighting",
+   "chapter_num": "III",
+   "chapter": "HEALTH",
+   "fields": {
+    "Legal Provision": [
+     "Adequate natural and artificial lighting must be provided."
+    ],
+    "HR Significance": [
+     "Prevents accidents",
+     "Improves productivity"
+    ]
+   },
+   "activities": [
+    "Providing adequate lighting",
+    "Reporting workplace accidents"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "18",
+   "title": "Drinking Water",
+   "chapter_num": "III",
+   "chapter": "HEALTH",
+   "fields": {
+    "Legal Provision": [
+     "Safe and clean drinking water must be provided."
+    ],
+    "Explanation": [
+     "Separate drinking points",
+     "Marked “Drinking Water”"
+    ]
+   },
+   "activities": [
+    "Providing drinking water"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "19",
+   "title": "Latrines and Urinals",
+   "chapter_num": "III",
+   "chapter": "HEALTH",
+   "fields": {
+    "Legal Provision": [
+     "Sanitary toilet facilities must be provided."
+    ],
+    "HR Significance": [
+     "Essential for hygiene and dignity"
+    ]
+   },
+   "activities": [
+    "Providing toilet facilities"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "20",
+   "title": "Spittoons",
+   "chapter_num": "III",
+   "chapter": "HEALTH",
+   "fields": {
+    "Legal Provision": [
+     "Spittoons must be provided and maintained."
+    ],
+    "Objective": [
+     "Maintains cleanliness in factory premises.",
+     "This is one of the most important chapters in the Act because it deals directly with:",
+     "Accident prevention",
+     "Machine safety",
+     "Worker protection",
+     "Industrial hazards"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Maintaining factory cleanliness",
+    "Controlling dust and fumes"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "21",
+   "title": "Fencing of Machinery",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "All dangerous parts of machinery must be securely fenced."
+    ],
+    "Objective": [
+     "To prevent accidental contact with moving machinery parts."
+    ],
+    "Explanation": [
+     "The occupier must ensure protection for:",
+     "Rotating shafts",
+     "Belts and pulleys",
+     "Gears and wheels",
+     "Cutting or crushing machines",
+     "Even if machinery is in motion, guards must be in place."
+    ],
+    "HR / Safety Significance": [
+     "Reduces workplace accidents",
+     "Mandatory under safety audits",
+     "Non-compliance leads to prosecution"
+    ],
+    "Exam Point": [
+     "“Fencing of machinery is compulsory for dangerous parts.”"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Fencing dangerous machinery",
+    "Reporting workplace accidents"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "22",
+   "title": "Work on or Near Machinery in Motion",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Only trained adult workers may work near moving machinery under strict conditions."
+    ],
+    "Conditions": [
+     "Special training required",
+     "Only authorized persons allowed",
+     "Protective gear mandatory"
+    ],
+    "Objective": [
+     "To minimize risk of injury while machinery is operating."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Working near moving machinery"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "23",
+   "title": "Employment of Young Persons on Dangerous Machines",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Young workers (below 18) cannot work on dangerous machines unless:",
+     "Fully trained",
+     "Supervised",
+     "Certified safe"
+    ],
+    "HR Significance": [
+     "Strict child protection rule",
+     "Compliance monitored heavily by inspectors"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Preparing for a factory inspection",
+    "Dealing with inspectors"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "24",
+   "title": "Striking Gear and Devices for Cutting off Power",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Machines must have devices to:",
+     "Quickly stop machinery",
+     "Disconnect power supply in emergencies"
+    ],
+    "Objective": [
+     "To prevent escalation of accidents."
+    ]
+   },
+   "activities": [
+    "Installing machine safety controls",
+    "Reporting workplace accidents"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "25",
+   "title": "Self-Acting Machines",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Machines that move automatically must be placed safely to avoid injury."
+    ],
+    "Explanation": [
+     "Adequate clearance must be maintained",
+     "No worker should be in danger zone"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Operating self-acting machines"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "26",
+   "title": "Casing of New Machinery",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "New machines must be properly enclosed or guarded."
+    ],
+    "HR Significance": [
+     "Applies during installation of new equipment",
+     "Mandatory safety certification required"
+    ]
+   },
+   "activities": [
+    "Installing new machinery"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "27",
+   "title": "Prohibition of Employment of Women and Children Near Cotton Openers",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Women and children cannot be employed near cotton-opening machinery."
+    ],
+    "Objective": [
+     "Prevents high-risk exposure to hazardous machines."
+    ]
+   },
+   "activities": [
+    "Operating cotton openers",
+    "Employing women workers",
+    "Employing child or young workers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "28",
+   "title": "Hoists and Lifts",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "All hoists and lifts must:",
+     "Be structurally safe",
+     "Be tested regularly",
+     "Have proper maintenance records"
+    ],
+    "Objective": [
+     "To prevent collapse or malfunction accidents."
+    ]
+   },
+   "activities": [
+    "Setting shift timings",
+    "Operating hoists and lifts",
+    "Reporting workplace accidents"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "29",
+   "title": "Lifting Machines, Chains, Ropes and Lifting Tackles",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "All lifting equipment must be:",
+     "Strong",
+     "Tested periodically",
+     "Properly maintained"
+    ],
+    "HR Significance": [
+     "Critical in construction and heavy industries."
+    ]
+   },
+   "activities": [
+    "Controlling dust and fumes",
+    "Operating hoists and lifts",
+    "Using lifting equipment"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "30",
+   "title": "Revolving Machinery",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Safe operating speed must be displayed on machines."
+    ],
+    "Objective": [
+     "To prevent machine breakdown or explosion due to over-speeding."
+    ]
+   },
+   "activities": [
+    "Operating revolving machinery"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "31",
+   "title": "Pressure Plants",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Machines operating under pressure must be:",
+     "Tested",
+     "Certified safe",
+     "Properly maintained"
+    ],
+    "Examples": [
+     "Boilers",
+     "Compressors",
+     "Gas cylinders"
+    ]
+   },
+   "activities": [
+    "Operating pressure plants"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "32",
+   "title": "Floors, Stairs and Means of Access",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "All workplaces must have:",
+     "Safe floors",
+     "Non-slippery surfaces",
+     "Safe staircases",
+     "Proper handrails"
+    ],
+    "HR Significance": [
+     "Prevents slips, falls, and workplace injuries."
+    ]
+   },
+   "activities": [
+    "Maintaining floors and walkways"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "33",
+   "title": "Pits, Sumps, Openings in Floors",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "All floor openings must be:",
+     "Covered",
+     "Fenced",
+     "Clearly marked"
+    ],
+    "Objective": [
+     "To prevent falling accidents."
+    ]
+   },
+   "activities": [
+    "Covering pits and floor openings",
+    "Reporting workplace accidents"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "34",
+   "title": "Excessive Weights",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Workers must not be made to lift excessive loads."
+    ],
+    "Explanation": [
+     "Load limits must be defined",
+     "Women/young workers extra protection"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Operating hoists and lifts",
+    "Assigning manual lifting tasks"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "35",
+   "title": "Protection of Eyes",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Protective goggles must be provided in:",
+     "Welding",
+     "Grinding",
+     "Chemical handling"
+    ],
+    "HR Significance": [
+     "Reduces long-term eye injuries and compensation claims."
+    ]
+   },
+   "activities": [
+    "Providing eye protection"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "36",
+   "title": "Precautions Against Dangerous Fumes",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Workers must not enter confined spaces with toxic gases unless safe."
+    ],
+    "Objective": [
+     "Prevent suffocation and poisoning."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Controlling dust and fumes",
+    "Working with dangerous fumes"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "36A",
+   "title": "Explosive or Inflammable Gas/Fumes",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Special precautions must be taken in explosive environments."
+    ],
+    "Examples": [
+     "Chemical factories",
+     "Oil refineries"
+    ]
+   },
+   "activities": [
+    "Controlling dust and fumes",
+    "Handling explosive or flammable gas"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "37",
+   "title": "Precautions in Case of Fire",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Factories must have:",
+     "Fire extinguishers",
+     "Emergency exits",
+     "Fire drills"
+    ],
+    "HR Significance": [
+     "Mandatory safety training for employees."
+    ]
+   },
+   "activities": [
+    "Handling public emergencies",
+    "Fire safety and evacuation"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "38",
+   "title": "Safety of Buildings and Machinery",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Buildings must be structurally safe and regularly inspected."
+    ],
+    "Objective": [
+     "Prevent collapse or structural failure."
+    ]
+   },
+   "activities": [
+    "Maintaining building safety"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "39",
+   "title": "Maintenance of Safety Records",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Factories must maintain records of:",
+     "Accidents",
+     "Inspections",
+     "Maintenance work"
+    ],
+    "HR Significance": [
+     "Used during audits and legal investigations."
+    ]
+   },
+   "activities": [
+    "Maintaining safety records",
+    "Reporting workplace accidents"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "40",
+   "title": "Safety Officers",
+   "chapter_num": "IV",
+   "chapter": "SAFETY",
+   "fields": {
+    "Legal Provision": [
+     "Factories with high risk must appoint Safety Officers."
+    ],
+    "Role of Safety Officer": [
+     "Monitor safety compliance",
+     "Conduct training",
+     "Investigate accidents",
+     "Maintain safety reports"
+    ],
+    "HR Significance": [
+     "Key role in industrial safety management system."
+    ]
+   },
+   "activities": [
+    "Controlling dust and fumes",
+    "Appointing a safety officer",
+    "Reporting workplace accidents"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "41",
+   "title": "Washing Facilities",
+   "chapter_num": "V",
+   "chapter": "WELFARE",
+   "fields": {
+    "Legal Provision": [
+     "Factories must provide adequate and suitable washing facilities."
+    ],
+    "Objective": [
+     "To ensure hygiene and dignity of workers."
+    ],
+    "Explanation": [
+     "Separate facilities for men and women",
+     "Clean and accessible washing points",
+     "Soap and cleaning arrangements where necessary"
+    ],
+    "HR Significance": [
+     "Reduces illness and absenteeism",
+     "Improves workplace hygiene standards"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Providing washing facilities"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "42",
+   "title": "Facilities for Storing and Drying Clothing",
+   "chapter_num": "V",
+   "chapter": "WELFARE",
+   "fields": {
+    "Legal Provision": [
+     "Workers must be provided:",
+     "Lockers for clothes",
+     "Drying spaces for wet clothing"
+    ],
+    "Objective": [
+     "To maintain safety and hygiene at workplace."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Providing clothing storage"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "43",
+   "title": "Facilities for Sitting",
+   "chapter_num": "V",
+   "chapter": "WELFARE",
+   "fields": {
+    "Legal Provision": [
+     "Workers who work standing must be provided seating arrangements."
+    ],
+    "Objective": [
+     "To reduce fatigue and improve efficiency."
+    ],
+    "HR Significance": [
+     "Improves productivity",
+     "Reduces physical strain injuries"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Providing seating for workers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "44",
+   "title": "First Aid Appliances",
+   "chapter_num": "V",
+   "chapter": "WELFARE",
+   "fields": {
+    "Legal Provision": [
+     "Every factory must provide:",
+     "First aid boxes",
+     "Adequate medical supplies",
+     "Trained first-aid personnel"
+    ],
+    "Exam Point": [
+     "Minimum first aid facilities are mandatory in every factory."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Providing first aid"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "45",
+   "title": "Canteens",
+   "chapter_num": "V",
+   "chapter": "WELFARE",
+   "fields": {
+    "Legal Provision": [
+     "Factories with more than 250 workers must provide a canteen."
+    ],
+    "Objective": [
+     "To ensure affordable and hygienic food for workers."
+    ],
+    "HR Significance": [
+     "Improves employee satisfaction",
+     "Reduces long breaks outside workplace"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Running a factory canteen"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "46",
+   "title": "Shelters, Rest Rooms and Lunch Rooms",
+   "chapter_num": "V",
+   "chapter": "WELFARE",
+   "fields": {
+    "Legal Provision": [
+     "Factories with more than 150 workers must provide:",
+     "Rest rooms",
+     "Lunch rooms",
+     "Shelters"
+    ],
+    "Objective": [
+     "To ensure proper rest during working hours."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Providing rest and lunch rooms"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "47",
+   "title": "Crèches",
+   "chapter_num": "V",
+   "chapter": "WELFARE",
+   "fields": {
+    "Legal Provision": [
+     "Factories with 30 or more women workers must provide a crèche facility."
+    ],
+    "Objective": [
+     "To support women workers with childcare facilities."
+    ],
+    "HR Significance": [
+     "Promotes women employment",
+     "Improves work-life balance"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Providing childcare / crèche"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "48",
+   "title": "Welfare Officers",
+   "chapter_num": "V",
+   "chapter": "WELFARE",
+   "fields": {
+    "Legal Provision": [
+     "Factories employing a prescribed number of workers must appoint Welfare Officers."
+    ],
+    "Role": [
+     "Employee welfare",
+     "Grievance handling",
+     "Communication bridge between workers and management"
+    ],
+    "HR Significance": [
+     "Core HR welfare function in industrial setups."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Controlling dust and fumes",
+    "Appointing a welfare officer"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "51",
+   "title": "Weekly Hours",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS",
+   "fields": {
+    "Legal Provision": [
+     "No adult worker shall work more than:",
+     "48 hours per week"
+    ],
+    "Objective": [
+     "To prevent overwork and exploitation."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Setting weekly working hours"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "52",
+   "title": "Weekly Holidays",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS",
+   "fields": {
+    "Legal Provision": [
+     "Every worker must get at least:",
+     "One full holiday per week"
+    ],
+    "HR Significance": [
+     "Ensures work-life balance and recovery time."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Scheduling weekly holidays"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "53",
+   "title": "Compensatory Holidays",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS",
+   "fields": {
+    "Legal Provision": [
+     "If a worker works on a weekly holiday, a compensatory holiday must be given."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Scheduling weekly holidays",
+    "Granting compensatory holidays"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "54",
+   "title": "Daily Hours",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS",
+   "fields": {
+    "Legal Provision": [
+     "No worker shall work more than:",
+     "9 hours per day"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Setting daily working hours"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "55",
+   "title": "Intervals for Rest",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS",
+   "fields": {
+    "Legal Provision": [
+     "Workers must get:",
+     "Rest interval after 5 hours of continuous work"
+    ],
+    "Objective": [
+     "To prevent fatigue and accidents."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Scheduling rest breaks",
+    "Reporting workplace accidents"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "56",
+   "title": "Spread Over",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS",
+   "fields": {
+    "Legal Provision": [
+     "Total working day (including breaks) cannot exceed:",
+     "10.5 hours"
+    ]
+   },
+   "activities": [
+    "Calculating spread-over hours"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "57",
+   "title": "Night Shifts",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS",
+   "fields": {
+    "Legal Provision": [
+     "Special rules apply for night shifts to ensure safety."
+    ]
+   },
+   "activities": [
+    "Running night shifts"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "58",
+   "title": "Prohibition of Overlapping Shifts",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS",
+   "fields": {
+    "Legal Provision": [
+     "Shifts must not overlap; clear shift system must be maintained."
+    ]
+   },
+   "activities": [
+    "Scheduling shift systems"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "59",
+   "title": "Extra Wages for Overtime",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS",
+   "fields": {
+    "Legal Provision": [
+     "Overtime must be paid at:",
+     "Double the ordinary wage rate"
+    ],
+    "HR Significance": [
+     "Very important for payroll compliance."
+    ],
+    "Exam Point": [
+     "Overtime = double wages"
+    ]
+   },
+   "activities": [
+    "Paying overtime wages"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "60",
+   "title": "Restriction on Double Employment",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS",
+   "fields": {
+    "Legal Provision": [
+     "A worker cannot be employed in more than one factory if it exceeds legal working hours."
+    ],
+    "Objective": [
+     "To prevent overwork and health risks."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Preventing double employment"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "61",
+   "title": "Notice of Periods of Work for Adults",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS (CONTINUED)",
+   "fields": {
+    "Legal Provision": [
+     "Factories must display a notice showing:",
+     "Shift timings",
+     "Work periods",
+     "Rest intervals"
+    ],
+    "Objective": [
+     "To ensure transparency in working schedules."
+    ],
+    "Explanation": [
+     "Every worker must clearly know:",
+     "When work starts",
+     "When it ends",
+     "Break timings"
+    ],
+    "HR Significance": [
+     "Avoids disputes",
+     "Improves shift discipline",
+     "Mandatory display in workplace"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Scheduling rest breaks",
+    "Maintaining worker registers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "62",
+   "title": "Register of Adult Workers",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS (CONTINUED)",
+   "fields": {
+    "Legal Provision": [
+     "Factories must maintain a register containing:",
+     "Name of workers",
+     "Nature of work",
+     "Shift timing"
+    ],
+    "HR Significance": [
+     "Essential for compliance audits",
+     "Helps in wage and attendance verification"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Setting shift timings",
+    "Maintaining worker registers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "63",
+   "title": "Hours of Work to Correspond with Notice",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS (CONTINUED)",
+   "fields": {
+    "Legal Provision": [
+     "Workers cannot be made to work outside the displayed notice."
+    ],
+    "Objective": [
+     "To prevent arbitrary shift changes."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "64",
+   "title": "Power to Make Exempting Rules",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS (CONTINUED)",
+   "fields": {
+    "Legal Provision": [
+     "Government may exempt certain factories from working hour rules."
+    ],
+    "Examples": [
+     "Continuous process industries",
+     "Emergency production units"
+    ]
+   },
+   "activities": [
+    "Handling public emergencies",
+    "Controlling dust and fumes",
+    "Applying for exemptions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "65",
+   "title": "Power to Exempt in Case of Emergency",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS (CONTINUED)",
+   "fields": {
+    "Legal Provision": [
+     "In emergencies, working hour restrictions may be relaxed temporarily."
+    ],
+    "HR Significance": [
+     "Used during:",
+     "Natural disasters",
+     "National emergencies",
+     "Industrial crises"
+    ]
+   },
+   "activities": [
+    "Handling public emergencies",
+    "Controlling dust and fumes"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "66",
+   "title": "Restrictions on Employment of Women",
+   "chapter_num": "VI",
+   "chapter": "WORKING HOURS OF ADULTS (CONTINUED)",
+   "fields": {
+    "Legal Provision": [
+     "Women cannot be employed between:",
+     "7 PM to 6 AM (as per state variations)"
+    ],
+    "Objective": [
+     "To ensure safety and protection of women workers."
+    ],
+    "HR Significance": [
+     "Shift planning must comply strictly",
+     "Gender-sensitive work scheduling required"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Employing women workers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "67",
+   "title": "Prohibition of Employment of Young Children",
+   "chapter_num": "VII",
+   "chapter": "EMPLOYMENT OF YOUNG PERSONS",
+   "fields": {
+    "Legal Provision": [
+     "Children below 14 years cannot be employed in factories."
+    ],
+    "Objective": [
+     "To eliminate child labour."
+    ],
+    "Exam Point": [
+     "Below 14 = completely prohibited"
+    ]
+   },
+   "activities": [
+    "Employing child or young workers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "68",
+   "title": "Non-Adult Workers to Carry Tokens",
+   "chapter_num": "VII",
+   "chapter": "EMPLOYMENT OF YOUNG PERSONS",
+   "fields": {
+    "Legal Provision": [
+     "Young workers must carry:",
+     "Age certificate/token",
+     "Identification proof"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Issuing worker identity tokens"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "69",
+   "title": "Certificate of Fitness",
+   "chapter_num": "VII",
+   "chapter": "EMPLOYMENT OF YOUNG PERSONS",
+   "fields": {
+    "Legal Provision": [
+     "A certifying surgeon must issue fitness certificate for adolescent workers."
+    ],
+    "HR Significance": [
+     "Ensures physical capability for work",
+     "Mandatory before employment"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Getting workers medically certified",
+    "Certifying young worker fitness"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "70",
+   "title": "Effect of Certificate of Fitness",
+   "chapter_num": "VII",
+   "chapter": "EMPLOYMENT OF YOUNG PERSONS",
+   "fields": {
+    "Legal Provision": [
+     "Only medically fit adolescents can be employed."
+    ]
+   },
+   "activities": [
+    "Getting workers medically certified",
+    "Certifying young worker fitness"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "71",
+   "title": "Working Hours for Children",
+   "chapter_num": "VII",
+   "chapter": "EMPLOYMENT OF YOUNG PERSONS",
+   "fields": {
+    "Legal Provision": [
+     "Children (14–18 years):",
+     "Max 4.5 hours per day",
+     "No night shift"
+    ]
+   },
+   "activities": [
+    "Running night shifts",
+    "Employing child or young workers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "72",
+   "title": "Notice of Periods of Work for Children",
+   "chapter_num": "VII",
+   "chapter": "EMPLOYMENT OF YOUNG PERSONS",
+   "fields": {
+    "Legal Provision": [
+     "Working hours must be clearly displayed for child/adolescent workers."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Employing child or young workers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "73",
+   "title": "Register of Child Workers",
+   "chapter_num": "VII",
+   "chapter": "EMPLOYMENT OF YOUNG PERSONS",
+   "fields": {
+    "Legal Provision": [
+     "Factory must maintain child worker records."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Setting shift timings",
+    "Employing child or young workers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "74",
+   "title": "Hours of Work to Correspond with Notice",
+   "chapter_num": "VII",
+   "chapter": "EMPLOYMENT OF YOUNG PERSONS",
+   "fields": {
+    "Summary": [
+     "Same rule applies: actual work must match displayed hours."
+    ]
+   },
+   "activities": [
+    "General compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "75",
+   "title": "Power to Require Medical Examination",
+   "chapter_num": "VII",
+   "chapter": "EMPLOYMENT OF YOUNG PERSONS",
+   "fields": {
+    "Legal Provision": [
+     "Authorities may require medical checkups for young workers."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Getting workers medically certified"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "76",
+   "title": "Power to Make Rules",
+   "chapter_num": "VII",
+   "chapter": "EMPLOYMENT OF YOUNG PERSONS",
+   "fields": {
+    "Summary": [
+     "Government may frame detailed rules for child employment protection."
+    ]
+   },
+   "activities": [
+    "Government rule-making powers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "77",
+   "title": "Certain Other Provisions of Chapter VI Apply",
+   "chapter_num": "VII",
+   "chapter": "EMPLOYMENT OF YOUNG PERSONS",
+   "fields": {
+    "Summary": [
+     "Some working hour rules also apply to young workers."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "78",
+   "title": "Application of Chapter",
+   "chapter_num": "VIII",
+   "chapter": "ANNUAL LEAVE WITH WAGES",
+   "fields": {
+    "Legal Provision": [
+     "Applies to all workers who have worked for at least 240 days in a year."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "79",
+   "title": "Annual Leave with Wages",
+   "chapter_num": "VIII",
+   "chapter": "ANNUAL LEAVE WITH WAGES",
+   "fields": {
+    "Legal Provision": [
+     "Workers are entitled to:",
+     "1 day leave for every 20 days worked"
+    ],
+    "Objective": [
+     "To ensure rest and recovery."
+    ],
+    "HR Significance": [
+     "Important for leave encashment policies",
+     "Mandatory statutory benefit"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Calculating annual leave",
+    "Managing leave with wages"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "80",
+   "title": "Calculation of Leave",
+   "chapter_num": "VIII",
+   "chapter": "ANNUAL LEAVE WITH WAGES",
+   "fields": {
+    "Legal Provision": [
+     "Leave is calculated based on:",
+     "Number of days worked",
+     "Attendance records"
+    ],
+    "Exam Point": [
+     "20 working days = 1 leave day"
+    ]
+   },
+   "activities": [
+    "Calculating annual leave",
+    "Managing leave with wages"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "81",
+   "title": "Payment in Advance in Certain Cases",
+   "chapter_num": "VIII",
+   "chapter": "ANNUAL LEAVE WITH WAGES",
+   "fields": {
+    "Legal Provision": [
+     "Workers must be paid wages before proceeding on leave if requested."
+    ],
+    "Objective": [
+     "To ensure financial security during leave period."
+    ],
+    "HR Significance": [
+     "Payroll must process leave payments in advance",
+     "Prevents employee hardship during absence"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Advance wage payments"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "82",
+   "title": "Mode of Recovery of Unpaid Wages",
+   "chapter_num": "VIII",
+   "chapter": "ANNUAL LEAVE WITH WAGES",
+   "fields": {
+    "Legal Provision": [
+     "Unpaid leave wages can be recovered through legal mechanisms."
+    ],
+    "Explanation": [
+     "If employer fails to pay leave wages:",
+     "Worker can claim legally",
+     "Labour authorities can enforce payment"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Recovering unpaid wages"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "83",
+   "title": "Power to Exempt Factories",
+   "chapter_num": "VIII",
+   "chapter": "ANNUAL LEAVE WITH WAGES",
+   "fields": {
+    "Legal Provision": [
+     "Government can exempt factories from certain leave provisions."
+    ],
+    "Examples": [
+     "Seasonal industries",
+     "Small-scale units under conditions"
+    ]
+   },
+   "activities": [
+    "Handling public emergencies",
+    "Controlling dust and fumes"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "84",
+   "title": "Power to Make Rules",
+   "chapter_num": "VIII",
+   "chapter": "ANNUAL LEAVE WITH WAGES",
+   "fields": {
+    "Legal Provision": [
+     "State governments can frame rules for:",
+     "Leave calculation",
+     "Wage payment procedures",
+     "Record maintenance"
+    ]
+   },
+   "activities": [
+    "Government rule-making powers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "85",
+   "title": "Power to Apply Act to Certain Premises",
+   "chapter_num": "IX",
+   "chapter": "SPECIAL PROVISIONS",
+   "fields": {
+    "Legal Provision": [
+     "Government can extend Factories Act provisions to:",
+     "Workshops",
+     "Small establishments",
+     "Premises not originally classified as factories"
+    ],
+    "Objective": [
+     "To widen labour protection coverage."
+    ]
+   },
+   "activities": [
+    "Applying the Act to special premises"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "86",
+   "title": "Power to Exempt Public Institutions",
+   "chapter_num": "IX",
+   "chapter": "SPECIAL PROVISIONS",
+   "fields": {
+    "Legal Provision": [
+     "Certain public institutions may be exempted from provisions."
+    ],
+    "HR Significance": [
+     "Applied cautiously to ensure essential services continue smoothly."
+    ]
+   },
+   "activities": [
+    "Handling public emergencies",
+    "Applying the Act to special premises"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "87",
+   "title": "Dangerous Operations",
+   "chapter_num": "IX",
+   "chapter": "SPECIAL PROVISIONS",
+   "fields": {
+    "Legal Provision": [
+     "Government may declare any manufacturing process as “dangerous”."
+    ],
+    "Objective": [
+     "To enforce stricter safety measures."
+    ],
+    "Explanation": [
+     "Includes:",
+     "Chemical processing",
+     "Explosives handling",
+     "High-risk industrial activities"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Controlling dust and fumes",
+    "Handling explosive or flammable gas"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "87A",
+   "title": "Power to Prohibit Employment",
+   "chapter_num": "IX",
+   "chapter": "SPECIAL PROVISIONS",
+   "fields": {
+    "Legal Provision": [
+     "Employment may be prohibited in dangerous processes if safety is not ensured."
+    ]
+   },
+   "activities": [
+    "General compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "88",
+   "title": "Notice of Certain Accidents",
+   "chapter_num": "IX",
+   "chapter": "SPECIAL PROVISIONS",
+   "fields": {
+    "Legal Provision": [
+     "All serious accidents must be reported immediately."
+    ],
+    "Examples": [
+     "Death",
+     "Major injury",
+     "Fire or explosion"
+    ],
+    "HR Significance": [
+     "Mandatory incident reporting",
+     "Legal liability if delayed"
+    ]
+   },
+   "activities": [
+    "Fire safety and evacuation",
+    "Reporting workplace accidents"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "89",
+   "title": "Notice of Certain Diseases",
+   "chapter_num": "IX",
+   "chapter": "SPECIAL PROVISIONS",
+   "fields": {
+    "Legal Provision": [
+     "Occupational diseases must be reported."
+    ],
+    "Examples": [
+     "Lung diseases",
+     "Skin diseases due to chemicals",
+     "Hearing loss"
+    ]
+   },
+   "activities": [
+    "Reporting occupational diseases"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "90",
+   "title": "Power to Direct Inquiry",
+   "chapter_num": "IX",
+   "chapter": "SPECIAL PROVISIONS",
+   "fields": {
+    "Legal Provision": [
+     "Government can order investigation into accidents/diseases."
+    ],
+    "HR Significance": [
+     "Internal safety audits required",
+     "Documentation becomes critical evidence"
+    ]
+   },
+   "activities": [
+    "Reporting workplace accidents",
+    "Reporting occupational diseases",
+    "Handling government inquiries"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "91",
+   "title": "Power to Take Samples",
+   "chapter_num": "IX",
+   "chapter": "SPECIAL PROVISIONS",
+   "fields": {
+    "Legal Provision": [
+     "Inspectors may collect samples of:",
+     "Chemicals",
+     "Air",
+     "Dust",
+     "Substances used in factory"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Preparing for a factory inspection",
+    "Dealing with inspectors"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "92",
+   "title": "General Penalty for Offences",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "If any provision is violated:",
+     "Employer can face imprisonment or fine"
+    ],
+    "Explanation": [
+     "This is the main punishment section of the Act."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "93",
+   "title": "Liability of Owner of Premises",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "Owner can also be held liable if violation occurs."
+    ]
+   },
+   "activities": [
+    "Understanding owner liability"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "94",
+   "title": "Enhanced Penalty After Previous Conviction",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "Repeated violations lead to higher penalties."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "95",
+   "title": "Penalty for Obstructing Inspector",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "Blocking inspectors = punishable offence."
+    ]
+   },
+   "activities": [
+    "Preparing for a factory inspection",
+    "Dealing with inspectors",
+    "Handling penalties and offences",
+    "Cooperating with inspectors"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "96",
+   "title": "Penalty for Wrongful Disclosure",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "Misuse or disclosure of confidential information is punishable."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences",
+    "Handling confidential information"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "97",
+   "title": "Offences by Workers",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "Workers violating safety rules may also be penalized."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Handling penalties and offences",
+    "Worker misconduct and offences"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "98",
+   "title": "Power of Court to Order Remedy",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Summary": [
+     "Courts can order corrective actions."
+    ]
+   },
+   "activities": [
+    "Court-ordered remedial action"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "99",
+   "title": "Limitation of Prosecution",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Summary": [
+     "Legal action must be taken within prescribed time limits."
+    ]
+   },
+   "activities": [
+    "Understanding prosecution timelines"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "100",
+   "title": "Cognizance of Offences",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Summary": [
+     "Courts can take action only with proper complaint."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences",
+    "Filing a legal complaint"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "101",
+   "title": "Exemption of Occupier or Manager from Liability",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "An occupier or manager may avoid liability if they prove:",
+     "Offence happened without their knowledge, OR",
+     "They exercised all due diligence to prevent it"
+    ],
+    "Objective": [
+     "To ensure fair liability—punishing negligence, not unavoidable incidents."
+    ],
+    "HR Significance": [
+     "Encourages proper delegation and compliance systems",
+     "Importance of documentation and safety audits"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Handling public emergencies",
+    "Handling penalties and offences"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "102",
+   "title": "Power of Court to Direct Cause of Offence to be Remedied",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "Courts can order:",
+     "Fixing safety defects",
+     "Correcting violations",
+     "Compliance improvements"
+    ],
+    "Objective": [
+     "Not just punishment, but correction of unsafe conditions."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences",
+    "Court-ordered remedial action"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "103",
+   "title": "Presumption as to Employment",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "If a person is found in factory premises:",
+     "They may be presumed as employed unless proven otherwise"
+    ],
+    "HR Significance": [
+     "Importance of accurate attendance and employment records",
+     "Avoids legal ambiguity during inspections"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Proving employment status"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "104",
+   "title": "Onus as to Age",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "Employer must prove that a worker is not a child if age is disputed."
+    ],
+    "Objective": [
+     "Protect children from illegal employment."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Employing child or young workers",
+    "Proving a worker’s age"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "105",
+   "title": "Cognizance of Offences",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "Courts take cognizance only:",
+     "On complaint by Inspector OR",
+     "Authorized government authority"
+    ]
+   },
+   "activities": [
+    "Preparing for a factory inspection",
+    "Dealing with inspectors",
+    "Handling penalties and offences",
+    "Filing a legal complaint"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "106",
+   "title": "Limitation of Prosecutions",
+   "chapter_num": "X",
+   "chapter": "PENALTIES AND PROCEDURE",
+   "fields": {
+    "Legal Provision": [
+     "Legal proceedings must be initiated within:",
+     "3 months from the date of offence (generally)"
+    ],
+    "Objective": [
+     "Prevents delayed prosecution."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences",
+    "Understanding prosecution timelines"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "107",
+   "title": "Appeals",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Appeals can be made against:",
+     "Orders of inspectors",
+     "Certain government decisions"
+    ],
+    "Objective": [
+     "Provides legal remedy and fairness."
+    ]
+   },
+   "activities": [
+    "Preparing for a factory inspection",
+    "Dealing with inspectors",
+    "Court-ordered remedial action",
+    "Appealing an official order"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "108",
+   "title": "Display of Notices",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Factories must display:",
+     "Abstract of the Act",
+     "Notices in local language",
+     "Safety instructions"
+    ],
+    "HR Significance": [
+     "Employee awareness tool",
+     "Mandatory compliance requirement"
+    ]
+   },
+   "activities": [
+    "Displaying statutory notices"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "109",
+   "title": "Service of Notices",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Official notices may be served:",
+     "Personally",
+     "By post",
+     "Or prescribed method"
+    ]
+   },
+   "activities": [
+    "Serving official notices"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "110",
+   "title": "Returns",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Factories must submit periodic returns to government:",
+     "Worker details",
+     "Production data",
+     "Compliance reports"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Filing statutory returns"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "111",
+   "title": "Obligations of Workers",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Workers must:",
+     "Follow safety rules",
+     "Use protective equipment",
+     "Avoid misconduct"
+    ],
+    "HR Significance": [
+     "Shared responsibility between employer and employee"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Worker duties and obligations"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "111A",
+   "title": "Right of Workers",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Workers have the right to:",
+     "Know about safety risks",
+     "Report unsafe conditions",
+     "Participate in safety measures"
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Worker rights on safety"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "112",
+   "title": "General Power to Make Rules",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "State governments can make rules for implementation."
+    ]
+   },
+   "activities": [
+    "Government rule-making powers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "113",
+   "title": "Powers of State Government",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "State governments can:",
+     "Enforce provisions",
+     "Conduct inspections",
+     "Frame safety standards"
+    ]
+   },
+   "activities": [
+    "Government rule-making powers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "114",
+   "title": "Power of Central Government",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Central Government can issue:",
+     "Guidelines",
+     "Model rules",
+     "National standards"
+    ]
+   },
+   "activities": [
+    "Government rule-making powers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "115",
+   "title": "Protection of Action Taken in Good Faith",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Government officials acting in good faith are protected from legal action."
+    ],
+    "Objective": [
+     "Ensures inspectors can act without fear."
+    ]
+   },
+   "activities": [
+    "Preparing for a factory inspection",
+    "Dealing with inspectors",
+    "Protection for official action"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "116",
+   "title": "Effect of Laws and Agreements Inconsistent with the Act",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Any contract violating the Act is invalid."
+    ],
+    "Example": [
+     "Agreement reducing overtime pay below legal limit is void"
+    ]
+   },
+   "activities": [
+    "Setting shift timings",
+    "Paying overtime wages",
+    "Void contracts and agreements"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "117",
+   "title": "Power to Remove Difficulties",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Government may remove practical difficulties in implementation."
+    ]
+   },
+   "activities": [
+    "Resolving implementation issues"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "118",
+   "title": "Repeal and Savings",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Repeals earlier factory-related laws while preserving valid actions."
+    ]
+   },
+   "activities": [
+    "Classifying employees",
+    "Determining who counts as a worker",
+    "Understanding repealed provisions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "119",
+   "title": "Power to Add Schedules",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Summary": [
+     "Government can modify schedules for technical updates."
+    ]
+   },
+   "activities": [
+    "Updating Act schedules"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "120",
+   "title": "Protection of Acts Done in Good Faith (Final Clause)",
+   "chapter_num": "XI",
+   "chapter": "SUPPLEMENTAL",
+   "fields": {
+    "Legal Provision": [
+     "Final protection for actions taken in good faith under the Ac"
+    ]
+   },
+   "activities": [
+    "Protection for official action"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  }
+ ]
+}
