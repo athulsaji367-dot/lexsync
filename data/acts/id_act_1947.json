@@ -1,0 +1,68 @@
+{
+ "slug": "id_act_1947",
+ "title": "The Industrial Disputes Act, 1947",
+ "year": 1947,
+ "type": "act",
+ "status": "pending_verification",
+ "source_url": null,
+ "retrieved_at": "2026-09-30T12:18:50Z",
+ "verification_status": "ai_drafted",
+ "lite_reviewed_flag": true,
+ "chapters": [
+  {
+   "num": "I",
+   "name": "PRELIMINARY"
+  },
+  {
+   "num": "II",
+   "name": "AUTHORITIES UNDER THIS ACT"
+  },
+  {
+   "num": "IIA",
+   "name": "NOTICE OF CHANGE"
+  },
+  {
+   "num": "IIB",
+   "name": "GRIEVANCE REDRESSAL MACHINERY"
+  },
+  {
+   "num": "III",
+   "name": "REFERENCE OF DISPUTES TO BOARDS, COURTS OR TRIBUNALS"
+  },
+  {
+   "num": "IV",
+   "name": "PROCEDURE, POWERS AND DUTIES OF AUTHORITIES"
+  },
+  {
+   "num": "V",
+   "name": "STRIKES AND LOCK-OUTS"
+  },
+  {
+   "num": "VA",
+   "name": "LAY-OFF AND RETRENCHMENT"
+  },
+  {
+   "num": "VB",
+   "name": "SPECIAL PROVISIONS RELATING TO LAY-OFF, RETRENCHMENT AND CLOSURE IN CERTAIN ESTABLISHMENTS"
+  },
+  {
+   "num": "VC",
+   "name": "UNFAIR LABOUR PRACTICES"
+  },
+  {
+   "num": "VI",
+   "name": "PENALTIES"
+  },
+  {
+   "num": "VII",
+   "name": "MISCELLANEOUS"
+  }
+ ],
+ "provisions": [],
+ "parts": [
+  "id_act_1947.p1.json",
+  "id_act_1947.p2.json",
+  "id_act_1947.p3.json",
+  "id_act_1947.p4.json"
+ ]
+}
