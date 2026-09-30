@@ -1,0 +1,396 @@
+{
+ "provisions": [
+  {
+   "number": "87",
+   "title": "Offences by companies",
+   "chapter_num": "VII",
+   "chapter": "PENALTIES",
+   "fields": {
+    "Legal Provision": [
+     "(1) If the person committing an offence under this Act is a company, every person, who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly: Provided that nothing contained in this sub-section shall render any person liable to any punishment, if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence. (2) Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed with the consent or connivance of, or is attributable to, any neglect on the part of, any director or manager, secretary or other officer of the company, such director, manager, secretary or other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly. Explanation.—For the purposes of this section,— - “company” means any body corporate and includes a firm and other associations of individuals; and - “director” in relation to— (a) a company, other than a firm, means the managing director or a whole-time director; (b) a firm means a partner in the firm."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "88",
+   "title": "Exemption of a factory or establishment or class of factories or establishments",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "The appropriate Government, may, by notification in the Official Gazette and subject to such conditions as may be specified in the notification, exempt any factory or establishment or class of factories or establishments in any specified area from the operation of this Act for a period not exceeding one year and may from time to time by like notification renew any such exemption for periods not exceeding one year at a time. [Provided that such exemptions may be granted only if the employees in such factories or establishments are otherwise in receipt of benefits substantially similar or superior to the benefits provided under this Act: Provided further that an application for renewal shall be made three months before the date of expiry of the exemption period and a decision on the same shall be taken by the appropriate Government within two months of receipt of such application."
+    ]
+   },
+   "activities": [
+    "General compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "89",
+   "title": "Exemption of persons or class of persons",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "The appropriate Government may, by notification in the Official Gazette and subject to such conditions as it may deem fit to impose, exempt any persons or class of persons employed in any factory or establishment or class of factories or establishments to which this Act applies from the operation of the Act."
+    ]
+   },
+   "activities": [
+    "General compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "90",
+   "title": "Corporation to make representation",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "No exemption shall be granted or renewed under section 87 or section 88, unless a reasonable opportunity has been given to the Corporation to make any representation it may wish to make in regard to the proposal and such representation has been considered by the appropriate Government."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "90A",
+   "title": "Exemption of factories or establishments belonging to Government or any local authority",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "The appropriate Government may [after consultation with the Corporation,] by notification in the Official Gazette and subject to such conditions as may be specified in the notification, exempt any factory or establishment belonging to any local authority [the operation of this Act], if the employees in any such factory or establishment are otherwise in receipt of benefits substantially similar or superior to the benefits provided under this Act."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "90B",
+   "title": "Exemption from one or more provisions of the Act",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "The appropriate Government may, with the consent of the Corporation, by notification in the Official Gazette, exempt any employees or class of employees in any factory or establishment or class of factories or establishments from one or more of the provisions relating to the benefits provided under this Act. [91A."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "90C",
+   "title": "Exemptions to be either prospective or retrospective",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "Any notification granting exemption under section 87, section 88, section 90 or section 91 may be issued so as to take effect [prospectively] on such date as may be specified therein.] [91AA. Central Government to be appropriate Government.—Notwithstanding anything contained in this Act, in respect of establishments located in the States where medical benefit is provided by the Corporation, the Central Government shall be the appropriate Government.] [91B."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "90D",
+   "title": "Misuse of benefits",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "If the Central Government is satisfied that the benefits under this Act are being misused by insured persons in a factory or establishment, that Government may, by order, published in the Official Gazette, disentitle such persons from such of the benefits as it thinks fit: Provided that no such order shall be passed unless a reasonable opportunity of being heard is given to the concerned factory or establishment, insured persons and the trade unions registered under the Trade Unions Act, 1926 (16 of 1926) having members in the factory or establishment."
+    ]
+   },
+   "activities": [
+    "Registering a trade union"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "91C",
+   "title": "Writing off of losses",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "Subject to the conditions as may be prescribed by the Central Government, where the Corporation is of opinion that the amount of contribution, interest and damages due to the Corporation is irrecoverable, the Corporation may sanction the writing off finally of the said amount."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Paying PF/ESI contributions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "92",
+   "title": "Power of Central Government to give directions",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "[(1)] The Central Government may give directions to a State Government as to the carrying into execution of this Act in the State. [(2) The Central Government may, from time to time, give such directions to the Corporation as it may think fit for the efficient administration of the Act, and if any such direction is given, the Corporation shall comply with such direction."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "93",
+   "title": "Corporation officers and servants to be public servants",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "All officers and servants of the Corporation shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860). [93A."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "94",
+   "title": "Liability in case of transfer of establishment",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "Where an employer, in relation to a factory or establishment, transfers that factory or establishment in whole or in part, by sale, gift, lease or licence or in any other manner whatsoever, the employer and the person to whom the factory or establishment is so transferred shall jointly and severally be liable to pay the amount due in respect of any contribution or any other amount payable under this Act in respect of the periods up to the date of such transfer: Provided that the liability of the transferee shall be limited to the value of the assets obtained by him by such transfer."
+    ]
+   },
+   "activities": [
+    "Paying PF/ESI contributions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "95",
+   "title": "Contributions, etc., due to Corporation to have priority over other debts",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "There shall be deemed to be included among the debts which, under section 49 of the Presidency-towns Insolvency Act, 1909 (3 of 1909) or under section 61 of the Provincial Insolvency Act, 1920 (5 of 1920), [or under any law relating to insolvency in force [in the territories which, immediately before the 1st November, 1956 were comprised in a Part B State]], [or under section 530 of the Companies Act, 1956 (1 of 1956)], are, in the distribution of the property of the insolvent or in the distribution of the assets of a company being wound up, to be paid in priority to all other debts, the amount due in respect of any contribution or any other amount payable under this Act the liability where for accured before the date of the order of adjudication of the insolvent or the date of the winding up, as the case may be. [94A."
+    ]
+   },
+   "activities": [
+    "ESI registration and coverage",
+    "ESI governance and administration",
+    "Paying PF/ESI contributions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "95A",
+   "title": "Delegation of powers",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "The Corporation, and, subject to any regulations made by the Corporation in this behalf, the Standing Committee may direct that all or any of the powers and functions which may be exercised or performed by the Corporation or the Standing Committee, as the case may be, may, in relation to such matters and subject to such conditions, if any, as may be specified, be also exercisable by any officer or authority subordinate to the Corporation."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "95B",
+   "title": "Power of Central Government to make rules",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "(1) The Central Government may, [after consultation with the Corporation and] subject to the condition of previous publication, make rules not inconsistent with this Act for the purpose of giving effect to the provisions thereof. (2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:— [(a) the limit of wages beyond which a person shall not be deemed to be an employee; (ab) the limit of maximum monthly salary for the purpose of sub-section (1) of section 17;] [(ac)] the manner in which [appointments] and elections of members of the Corporation, the Standing Committee and the Medical Benefit Council shall be made; - the quorum at meetings of the Corporation, the Standing Committee and the Medical Benefit Council and the minimum number of meetings of those bodies to be held in a year; - the records to be kept of the transaction of business by the Corporation, the Standing Committee and the Medical Benefit Council; - the powers and duties of the [Director General and the Financial Commissioner] and the conditions of their service; - the powers and duties of the Medical Benefit Council ; [(ea) the types of expenses which may be termed as administrative expenses, the percentage of income of the Corporation which may be spent for such expenses; (eb) the rates of contributions and limits of wages below which employees are not liable to pay contribution; (ec) the manner of calculation of the average daily wage; (ed) the manner of certifying the certificate to recover amount by the Recovery Officer; (ee) the amount of funeral expenses; (ef) the qualifications, conditions, rates and period of sickness, benefit, maternity benefit, disablement benefit and dependents benefit; [(eff) the income of dependant parents from all sources;] (eg) the conditions for grant of medical benefits for insured persons who cease to be in insurable employment on account of permanent disablement; (eh) the conditions for grant of medical benefits for persons who have attained the age of Superannuation;] [(ehh) the conditions under which the medical benefits shall be payable to the insured person and spouse of an insured person who has attained the age of superannuation, the person who retires under Voluntary Retirement Scheme and the person who takes pre-mature retirement;] [ [(ei)] the manner in which and the time within which appeals may be filed to medical appeal tribunals or Employees’ Insurance Courts;] - the procedure to be adopted in the execution of contracts; - the acquisition, holding and disposal of property by the Corporation; - the raising and repayment of loans; - the investment of the funds of the Corporation and of any provident or other benefit fund and their transfer or realisation ; - the basis on which the periodical valuation of the assets and liabilities of the Corporation shall be made; - the bank or banks in which the funds of the Corporation may be deposited, the procedure to be followed in regard to the crediting of moneys accruing or payable to the Corporation and the manner in which any sums may be paid out of the Corporation funds and the officers by whom such payment may be authorised; - the accounts to be maintained by the Corporation and the forms in which such accounts shall be kept and the times at which such accounts shall be audited; - the publication of the accounts of the Corporation and the report of auditors, the action to be taken on the audit report, the powers of auditors to disallow and surcharge items of expenditure and the recovery of sums so disallowed or surcharged; - the preparation of budget estimates and of supplementary estimates and the manner in which such estimates shall be sanctioned and published; - the establishment and maintenance of provident or other benefit fund for officers and servants of the Corporation; [(oa) the period of non-entitlement for cash benefit in case of conviction of an insured person;] - any matter which is required or allowed by this Act to be prescribed by the Central Government. [(2A) The power to make rules conferred by this section shall include the power to give retrospective effect, from a date not earlier than the date of commencement of this Act, to the rules or any of them but no retrospective effect shall be given to any rule so as to prejudicially affect the interest of any person other than the Corporation to whom such rule may be applicable.] (3) Rules made under this section shall be published in the Official Gazette and thereupon shall have effect as if enacted in this Act. [(4) Every rule made under this section shall be laid, as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session [or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid] both Houses agree in making any modification in the rule of both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+    ]
+   },
+   "activities": [
+    "Industrial tribunal proceedings",
+    "ESI registration and coverage",
+    "ESI governance and administration",
+    "Paying PF/ESI contributions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "96",
+   "title": "Power of State Government to make rules",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "(1) The State Government may, [after consultation with the Corporation and] subject to the condition of previous publication, make rules not inconsistent with this Act in regard to all or any of the following matters, namely:— - the constitution of Employees’ Insurance Courts, the qualifications of persons who may be appointed Judges thereof, and the conditions of service of such Judges; - the procedure to be followed in proceedings before such Courts and the execution of orders made by such Courts; - the fee payable in respect of applications made to the Employees’ Insurance Court, the costs incidental to the proceedings in such Court, the form in which applications should be made to it and the particulars to be specified in such applications; - the establishment of hospitals, dispensaries and other institutions, the allotment of insured persons or their families to any such hospital, dispensary or other institution; - the scale of medical benefit which shall be provided at any hospital, clinic, dispensary or institution, the keeping of medical records and the furnishing of statistical returns; [(ee) the organisational structure, functions, powers, activities and other matters for the establishment of the organisation;] - the nature and extent of the staff, equipment and medicine that shall be provided at such hospitals, dispensaries and institutions; - the conditions of service of the staff employed at such hospitals dispensaries and institutions; and - any other matter which is required or allowed by this Act to be prescribed by the State Government. (2) Rules made under this section shall be published in the Official Gazette and thereupon shall have effect as if enacted in this Act. [(3) Every rule made under this section shall be laid as soon as may be after it is made, before each House of the State Legislature where it consists of two Houses, or, where such Legislature consists of one House, before that House."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "97",
+   "title": "Power of Corporation to make regulations",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "(1) The Corporation may, subject to the condition of previous publications, make regulations, not inconsistent with this Act and the rules made thereunder, for the administration of the affairs of the Corporation and for carrying into effect the provisions of this Act. - In particular and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:— - the time and place of meetings of the Corporation, the Standing Committee and the Medical Benefit Council and the procedure to be followed at such meetings; [(ia) the time within which and the manner in which a factory or establishment shall be registered;] - the matters which shall be referred by the Standing Committee to the Corporation for decision; - the manner in which any contribution payable under this Act shall be assessed and collected; [(iiia) the rate of interest higher than twelve per cent. on delayed payment of contributions;] - reckoning of wages for the purpose of fixing the contribution payable under this Act; [(iva) the register of employees to be maintained by the immediate employer; (ivb) the entitlement of sickness benefit or disablement benefit for temporary disablement on any day on which person works or remains on leave or on holiday and in respect of which he receives wages or for any day on which he remains on strike;] - the certification of sickness and eligibility for any cash benefit. [(vi) the method of determining whether an insured person is suffering from one or more of the diseases specified in the Third Schedule;] - the assessing of the money value of any benefit which is not a cash benefit; - the time within which [and the form and manner in which] any claim for a benefit may be made and the particulars to be specified in such claim; - the circumstances in which an employee in receipt of disablement benefit may be dismissed, discharged, reduced or otherwise punished; - the manner in which and the place and time at which any benefit shall be paid; - the method of calculating the amount of cash benefit payable and the circumstances in which and the extent to which commutation of disablement and dependant’s benefits, may be allowed and the method of calculating the commutation value; - the notice of pregnancy or of confinement and notice and proof of sickness; 3[(xiia) specifying the authority competent to give certificate of eligibility for maternity benefit; (xiib) the manner of nomination by an insured woman for payment of maternity benefit in case of her or her child’s death; (xiic) the production of proof in support of claim for maternity benefit or additional maternity benefit;] - the conditions under which any benefit may be suspended; - the conditions to be observed by a person when in receipt of any benefit and the periodical medical examination of such persons; - the appointment of medical practitioners for the purposes of this Act, the duties of such practitioners and the form of medical certificates; 3[(xvia) the qualification and experience which a person should possess for giving certificate of sickness; (xvib) the constitution of medical boards and medical appeal tribunals;] - the penalties for breach of regulations by fine (not exceeding two days’ wages for a first breach and not exceeding three days’ wages for any subsequent breach) which may be imposed on employees; 2[(xviia) the amount of damages to be recovered as penalty; (xviib) the terms and conditions for reduction or waiver of damages in relation to a sick industrial company;] - the circumstances in which and the conditions subject to which any regulation may be relaxed, the extent of such relaxation, and the authority by whom such relaxation may be granted; [(xix) the returns to be submitted and the registers or records to be maintained by the principal and immediate employers, the forms of such returns, registers or records, and the times at which such returns should be submitted and the particulars which such returns, registers and records should contain;] (xx) the duties and powers of [Social Security Officers] and other officers and servants of the Corporation; [(xxa) the constitution of the appellate authority and the interest on amount deposited by the employer with the Corporation.] [(xxi) the method of recruitment, pay and allowances, discipline, superannuation benefits and other conditions of service of the officers and servants of the Corporation other than the [Director General and Financial Commissioner]]; - the procedure to be followed in remitting contributions to the Corporation; and - any matter in respect of which regulations are required or permitted to be made by this Act. [(2A) The condition of previous publication shall not apply to any regulations of the nature specified in clause (xxi) of sub-section (2).] - Regulations made by the Corporation shall be published in the Gazette of India and thereupon shall have effect as if enacted in this Act. [(4) Every regulation shall, as soon as may be, after it is made by the Corporation, be forwarded to the Central Government and that Government shall cause a copy of the same to be laid before each House of Parliament, while it is in session for a total period of thirty days, which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the sessiion immediatly following the session the successive sessions aforesaid, both Houses agree in making any modification in the regulation or both Houses agree that the regulation should not be made, the regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of any thing previously done under that regulation.] 98. [Corporation may undertake duties in Part B. States.] Omitted by the Employees’ State Insurance (Amendment) Act, 1951 (53 of 1951), s. 26. [99."
+    ]
+   },
+   "activities": [
+    "Managing strikes and lock-outs",
+    "Industrial tribunal proceedings",
+    "Handling worker dismissal disputes",
+    "Handling penalties and offences"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "98",
+   "title": "Omitted",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "This section was omitted by a later amendment to the Act."
+    ]
+   },
+   "activities": [
+    "General compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "99",
+   "title": "Medical care for the families of insured persons",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "At any time when its funds so permit, the Corporation may provide or contribute towards the cost of medical care for the families of insured persons.] [99A."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "100",
+   "title": "Power to remove difficulties",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions or give such directions, not inconsistent with the provisions of this Act, as appears to it to be necessary or expedient for removing the difficulty. (2) Any order made under this section shall have effect notwithstanding anything inconsistent therewith in any rules or regulations made under this Act.] [100."
+    ]
+   },
+   "activities": [
+    "General compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "101",
+   "title": "Repeals and savings",
+   "chapter_num": "VIII",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "If, immediately before the day on which this Act comes into force [in any part of the territories which, immediately before the 1st November, 1956, were comprised in a Part B State], there is in force in [that part] any law corresponding to this Act, that law shall, on such day, stand repealed: Provided that the repeal shall not affect— - the previous operations of any such law, or - any penalty, forfeiture or punishment incurred in respect of any offence committed against any such law, or - any investigation or remedy in respect of any such penalty, forfeiture or punishment; and any such investigation, legal proceeding or remedy may be instituted, continued or enforced and any such penalty, forfeiture or punishment may be imposed, as if this Act had not been passed: Provided further that subject to the preceding proviso anything done or any action taken under any such law shall be deemed to have been done or taken under the corresponding provision of this Act and shall continue in force accordingly unless and until superseded by anything done or any action taken under this Act.] ______ [ [THE FIRST SCHEDULE] Omitted by the Employees’ State Insurance (Amendment) Act, 1989 (29 of 1989), s. 46 (w.e.f. 1-2-1991). THE SECOND SCHEDULE [See section 2 (15A) and (15B)] Sl. Description of injury Percentage of No. loss of earning capacity PART I LIST OF INJURIES DEEMED TO RESULT IN PERMANENT TOTAL DISABLEMENT - Loss of both hands or amputation at higher sites. . . . . 100 - Loss of a hand and a foot. . . . . . . 100 - Double amputation through leg or thigh, or amputation through leg or 100 thigh on one side and loss of other foot. . . . . - Loss of sight to such an extent as to render the claimant unable to perform 100 any work for which eye sight is essential. . . . . - Very severe facial disfigurement. . . . . . 100 - Absolute deafness. . . . . . . . 100 PART II LIST OF INJURIES DEEMED TO RESULT IN PERMANENT PARTIAL DISABLEMENT Amputation—Upper limbs (either arm) - Amputation through shoulder joint. . . . . 90 - Amputation below shoulder with stump less than 20.32 cm. from tip 80 of acromion. . . . . . . . - Amputation from 20.32 cm. from tip of acromion to less than 11.43 70 cm. below tip of olecranon. . . . . . - Loss of a hand or of the thumb and four fingers of one hand or 60 amputation from 11.43 cm. below tip of olecranon. . . . . . . . . . . - Loss of thumb. . . . . . . 30 - Loss of thumb and its metacarpal bone. . . 40 - Loss of four fingers of one hand. . . . 50 - Loss of three fingers of one hand. . . . 30 - Loss of two fingers of one hand. . . . . 20 - Loss of terminal phalanx of thumb. . . . 20 [16A. Guillotine amputation of the tip of the thumb without loss of bone. . 10] ### 17. Amputation of both feet resulting in end-bearing stumps. . . . 90 | Sl. No. | Description of injury | Percentage of loss of earning capacity |\n| --- | --- | --- |\n| | Amputation—lower limbs | |\n| 18. | Amputation through both feet proximal to the metatarso-phalangeal joint. . . . . . . . | 80 |\n| 19. | Loss of all toes of both feet through the metatarso-phalangeal joint | 40 |\n| 20. | Loss of all toes of both feet proximal to the proximal inter-phalangeal joint. . . . . . . . | 30 |\n| 21. | Loss of all toes of both feet distal to the proximal inter-phalangeal joint. . . . . . . . | 20 |\n| 22. | Amputation at hip. . . . . . . . | 90 |\n| 23. | Amputation below hip with stump not exceeding 12.70 cm. in length measured from tip of great trenchanter. . . . . . . . | 80 |\n| 24. | Amputation below hip with stump exceeding 12.70 cm. in length measured from tip of great trenchanter but not beyond middle thigh | 70 |\n| 25. | Amputation below middle thigh to 8.89 cm. below knee. . . . . . . | 60 |\n| 26. | Amputation below knee with stump exceeding 8.89 cm. but not exceeding 12.70 cm. . . . . . | 50 |\n| 27. | Amputation below knee with stump exceeding 12.70 cm. | [50] |\n| 28. | Amputation of one foot resulting in end-bearing. . . . . . . . | [1](http://www.manupatrafast.in/ba/dispBotC.aspx?nActCompID=613&iActID=16)[[](http://www.manupatrafast.in/ba/dispBotC.aspx?nActCompID=613&iActID=16)50] |\n| 29. | Amputation through one foot proximal to the metatarso-phalangeal joint. . . . . . . . | [1](http://www.manupatrafast.in/ba/dispBotC.aspx?nActCompID=613&iActID=16)[[](http://www.manupatrafast.in/ba/dispBotC.aspx?nActCompID=613&iActID=16)50] |\n| 30. | Loss of all toes of one foot through the metatarso-phalangeal joint Other Injuries | 20 |\n| 31. | Loss of one eye, without complications, the other being normal, . . | 40 |\n| 32. | Loss of vision of one eye without complications or disfigurement of eye-ball, the other being normal. . . . . | 30 |\n| [32A. | Partial loss of vision of one eye. . . . . Loss of— A.—Fingers of right or left hand Index finger | 10] |\n| 33. | Whole. . . . . . . . | 14 |\n| 34. | Two phalanges. . . . . . . | 11 | | Sl. No. | Description of injury | Percentage of loss of earning capacity |\n| --- | --- | --- |\n| 35. | One phalanx. . . . . . . 9 |\n| 36. | Guillotine amputation of tip without loss of bone . . . 5 Middle finger |\n| 37. | Whole. . . . . . . . 12 |\n| 38. | Two phalanges. . . . . . . 9 |\n| 39. | One phalanx. . . . . . . 7 |\n| 40. | Guillotine amputation of tip without loss of bone 4 Ring or little finger |\n| 41. | Whole. . . . . . . . 7 |\n| 42. | Two phalanges. . . . . . . 6 |\n| 43. | One phalanx. . . . . . . 5 |\n| 44. | Guillotine amputation of tip without loss of bone. . . 2 . . . . . B.—Toes of right or left foot Great toe |\n| 45. | Through metatarso-phalangeal joint. . . . 14 . . . . |\n| 46. | Part, with some loss of bone . . . . . 3 Any other toe |\n| 47. | Through metatarso-phalangeal joint. . . . 3 |\n| 48. | Part, with some loss of bone . . . . . 1 Two toes of one foot, excluding great toe |\n| 49. | Through metatarso-phalangeal joint. . . . 5 . . . . |\n| 50. | Part, with some loss of bone. . . . . 2 Three toes of one foot, excluding great toe |\n| 51. | Through metatarso-phalangeal joint. . . . 6 |\n| 52. | Part, with some loss of bone 3 Four toes of one foot, excluding great toe |\n| 53. | Through metatarso-phalangeal joint. . . . 9 |\n| 54. | Part, with some loss of bone. . . . . 3 |\nNote.—Complete and permanent loss of the use of any limb or member referred to in this Schedule shall be deemed to be the equivalent of the loss of that limb or member. [THE THIRD SCHEDULE (See section 52A) LIST OF OCCUPATIONAL DISEASES | Sl. No. | Occupational disease | Employment |\n| --- | --- | --- |\n| (1) | (2) | (3) |\n| | PART A | |\n| 1. | Infectious and parasitic diseases contracted in an occupation where there is a particular risk of contamination | All work involving exposure to health or laboratory work; All work involving exposure to veterinary work; Work relating to handling animals, animal carcasses, part of such carcasses, or merchandise which may have been contaminated by animals or animal carcasses; Other work carrying a particular risk of contamination. |\n| 2. | Diseases caused by work in compressed air | All work involving exposure to the risk concerned. |\n| 3. | Diseases caused by lead or its toxic compounds | All work involving exposure to the risk concerned. |\n| 4. | Poisoning by nitrous fumes | All work involving exposure to the risk concerned. |\n| 5. | Poisoning by organphosphorus compounds. PART B | All work involving exposure to the risk concerned. |\n| 1. | Diseases caused by phosphorus or its toxic compounds | All work involving exposure to the risk concerned. |\n| 2. | Diseases caused by mercury or its toxic compounds | All work involving exposure to the risk concerned. | | Sl. No. | Occupational disease | Employment |\n| --- | --- | --- |\n| (1) | (2) | (3) |\n| | PART B—Contd. | |\n| 3. | Diseases caused by benzene or its toxic homologues | All work involving exposure to the risk concerned. |\n| 4. | Diseases caused by nitro and amido toxic derivatives of benzene or its homologues. | All work involving exposure to the risk concerned. |\n| 5. | Diseases caused by chromium or its toxic compounds | All work involving exposure to the risk concerned. |\n| 6. | Diseases caused by arsenic or its toxic compounds | All work involving exposure to the risk concerned. |\n| 7. | Diseases caused by radioactive substances and ionising radiations | All work involving exposure to the action of radioactive substances or ionising radiations. |\n| 8. | Primary epithelomatous cancer of the skin caused by tar, pitch, bitumen, mineral oil, anthracene, or the compounds, products of residues of these substances | All work involving exposure to the risk concerned. |\n| 9. | Diseases caused by the toxic halogen derivatives of hydrocarbons (of the aliphatic and aromatic series) | All work involving exposure to the risk concerned. |\n| 10. | Diseases caused by the carbon disulphide | All work involving exposure to the risk concerned. |\n| 11. | Occupational cataract due to infra-red radiations | All work involving exposure to the risk concerned. |\n| 12. | Diseases caused by manganese or its toxic compounds | All work involving exposure to the risk concerned. |\n| 13. | Skin diseases caused by physical, chemical or biological agents not included in other items | All work involving exposure to the risk concerned. |\n| 14. | Hearing impairment caused by noise | All work involving exposure to the risk concerned. |\n| 15. | Poisoning by dinitrophenol or a homologue or by substituted dinitrophenol or by the salts of such substances | All work involving exposure to the risk concerned. | | Sl. No. | Occupational disease | Employment |\n| --- | --- | --- |\n| | (2) | (3) |\n| | Diseases caused by beryllium or its toxic compounds | All work involving exposure to the risk concerned. |\n| 17. | Diseases caused by cadmium or its toxic compounds | All work involving exposure to the risk concerned. |\n| 18. | Occupational asthama caused by recognised sensitising agents inherent to the work process | All work involving exposure to the risk concerned. |\n| 19. | Diseases caused by flourine or its toxic compounds | All work involving exposure to the risk concerned. |\n| 20. | Diseases caused by nitro-glycerine or other nitroacid esters | All work involving exposure to the risk concerned. |\n| 21. | Diseases caused by alcohols and ketones. PART B—Contd. | All work involving exposure to the risk concerned. |\n| 22. | Diseases caused by asphyxiants: carbon monoxide, and its toxic derivatives, hydrogen sulfide | All work involving exposure to the risk concerned. |\n| 23. | Lung cancer and mesotheliomas caused by asbestos. | All work involving exposure to the risk concerned. |\n| 24. | Primary neoplasm of the epithelial, lining of the urinary bladder or the kidney or the ureter PART C | All work involving exposure to the risk concerned. |\n| 1. | Pneumoconioses caused by sclerogenic mineral dust (silicosis, anthraoosilicosis asbestosis) and silico-tuberculosis provided that silicosis is an essential factor in causing the resultant incapacity or death | All work involving exposure to the risk concerned. |\n| 2. | Bagassosis | All work involving exposure to the risk concerned. |\n| 3. | Bronchopulmonary diseases caused by the cotton, flax hemp and sisal dust (Byssinosis) | All work involving exposure to the risk concerned. |\n| 4. | Extrinsic allergic alveelitis caused by the inhalation of organic dusts | All work involving exposure to the risk concerned. |\n| 5. | Bronchopulmonary diseases caused by hard metals | All work involving exposure to the risk concerned.]]. | ANNEXURE Duties on which provisions of the Act came into force in different areas | Date | Provisions | Areas | Notification numbers. etc. |\n| --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 |\n| 1-9-1948 | Chapters I, II, III and VIII | All the Provinces of India | SS. 21(2), dated the 31st August, 1948, Gazette of India, 1948, Extraordinary. |\n| 1-4-1950 | Sections 44 and 45 of Chapter IV and Chapter VII. | All Part A States, Ajmer, Coorg, Delhi and Andaman and Nicobar Islands. | SS. 121(32), dated the 3rd April, 1950, Gazette of India, 1950, Part I, sec. 1. |\n| 1-12-1950 | Chapters I, II, III, VII and VIII and sections 44 and 45 of Chapter IV. | Himachal Pradesh, Bilaspur, Kutch, Bhopal, Tripura, Vindhya Pradesh and Manipur. | SRO 997, dated the 2nd December, 1950, Gazette of India, 1950, Part II, sec. 3. |\n| 24-11-1951 | Do. | All Part B States except the State of Jammu and Kashmir. | SRO 1832, dated the 24th November, 1951, Gazette of India, 1951, Part II, sec. 3. |\n| 24-11-1951 | Chapter VA | Whole of India except the State of Jammu and Kashmir. | Do. |\n| 24-2-1952 | Chapter IV (except sections 44 and 45). Chapter V and Chapter VI. | State of Delhi and Kanpur area of Uttar Pradesh. | SRO 251, dated the 1st February, 1952, Gazette of India, 1952, Part II, sec. 3. |\n| 1-9-1952 | Sub-section (1) of section 76, sections 77, 78, 79 and 81 of Chapter VI. | Whole of India except the State of Jammu and Kashmir, State of Delhi, Kanpur area of Uttar Pradesh. | SRO 1576, dated the 3rd September, 1952, Gazette of India, 1952, Part II, sec. 3. |\n| 1-9-1954 | Chapters I, II, III, V-A, VII, VIII and sections 44 and 45 of Chapter IV. | United Khasi-Jaintia Hills District, Garo Hills District, Lushai Hills District, North Cachar Hills, Mikir Hills. | SRO 2972, dated the 1st September, 1954, Gazette of India, 1954, Part II, sec. 3. |\n| 1-9-1971 | Chapters I, II, III, V-A, VII and VIII and sections 44 and 45 of Chapter IV. | Union territory of Goa, Daman and Diu. | S.O. 3262, dated the 1st September, 1971, Gazette of India, 1971, Extraordinary, Part II, sec. 3(ii). |\n| 20-11-1971 | Chapters I, II, III, VII and VIII and sections 44 and 45 of Chapter IV. | The State of Jammu and Kashmir. | SRO 6163, dated the 26th October, 1971, Gazette of India, 1971, Part II, sec. 3(ii). | For notifications by which Chapter IV (except sections 44 and 45), Chapter V and Chapter VI [except sub-section (1) of section 76, sections 77, 78 and 79 and 81] were brought into force in different areas, cities, towns and industrial area, see Gazette of India, Part II, section 3."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences",
+    "ESI registration and coverage",
+    "Handling workplace accidents",
+    "Occupational disease claims"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  }
+ ]
+}
