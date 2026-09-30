@@ -1,0 +1,1005 @@
+{
+ "provisions": [
+  {
+   "number": "1",
+   "title": "Short title, extent, commencement and application",
+   "chapter_num": "I",
+   "chapter": "PRELIMINARY",
+   "fields": {
+    "Legal Provision": [
+     "(1) This Act may be called the Employees’ State Insurance Act, 1948. - It extends to the whole of India . - It shall come into force on such date or dates as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different provisions of this Act and [for different States or for different parts thereof]. - It shall apply, in the first instance, to all factories (including factories belonging to the Government) other than seasonal factories: [Provided that nothing contained in this sub-section shall apply to a factory or establishment belonging to or under the control of the Government whose employees are otherwise in receipt of benefits substantially similar or superior to the benefits provided under this Act.] - The appropriate Government may, in consultation with the Corporation and [where the appropriate Government is a State Government, with the approval of the Central Government], after giving [one month’s] notice of its intention of so doing by notification in the Official Gazette, extend the provisions of this Act or any of them, to any other establishment or class of establishments, industrial, commercial, agricultural or otherwise: [Provided that where the provisions of this Act have been brought into force in any part of a State, the said provisions shall stand extended to any such establishment or class of establishments within that part if the provisions have already been extended to similar establishment or class of establishments in another part of that State]. 5[(6) A factory or an establishment to which this Act applies shall continue to be governed by this Act notwithstanding that the number of persons employed therein at any time falls below the limit specified by or under this Act or the manufacturing process therein ceases to be carried on with the aid of power."
+    ]
+   },
+   "activities": [
+    "ESI registration and coverage",
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "2",
+   "title": "Definitions",
+   "chapter_num": "I",
+   "chapter": "PRELIMINARY",
+   "fields": {
+    "Legal Provision": [
+     "In this Act, unless there is anything repugnant in the subject or context,— (1) “appropriate Government” means, in respect of establishments under the control of the Central Government or [a railway administration] or a major port or a mine or oilfield, the Central Government, and in all other cases, the State Government; - “confinement” means labour resulting in the issue of a living child or labour after twenty-six weeks of pregnancy resulting in the issue of a child whether alive or dead; - “contribution” means the sum of money payable to the Corporation by the principal employer in respect of an employee and includes any amount payable by or on behalf of the employee in accordance with the provisions of this Act; - “Corporation” means the Employees’ State Insurance Corporation set up under this Act; [(6A) “dependant” means any of the following relatives of a deceased insured person, namely:— [(i) a widow, a legitimate or adopted son who has not attained the age of twenty-five years, an unmarried legitimate or adopted daughter,] [(ia) a widowed, mother;] - if wholly dependent on the earnings of the insured person at the time of his death, a legitimate or adopted son or daughter who has attained the age of [twenty-five years] and is infirm; - if wholly or in part dependent on the earnings of the insured person at the time of his death,— - a parent other than a widowed mother, - a minor illegitimate son, an unmarried illegitimate daughter or a daughter legitimate or adopted or illegitimate if married and a minor or if widowed and a minor, - a minor brother or an unmarried sister or a widowed sister if a minor, - a widowed daughter-in-law, - a minor child of a pre-deceased son, - a minor child of a pre-deceased daughter where no parent of the child is alive, or - a paternal grand-parent if no parent of the insured person is alive;] - “duly appointed” means appointed in accordance with the provisions of this Act or with the rules or regulations made thereunder; [(8) “employment injury” means a personal injury to an employee caused by accident or an occupational disease arising out of and in the course of his employment, being an insurable employment, whether the accident occurs or the occupational disease is contracted within or outside the territorial limits of India;] (9) “employee” means any person employed for wages in or in connection with the work of a factory or establishment to which this Act applies and— - who is directly employed by the principal employer on any work of, or incidental or preliminary to or connected with the work of, the factory or establishment, whether such work is done by the employee in the factory or establishment or elsewhere; or - who is employed by or through an immediate employer on the premises of the factory or establishment or under the supervision of the principal employer or his agent on work which is ordinarily part of the work of the factory or establishment or which is preliminary to the work carried on in or incidental to the purpose of the factory or establishment; or - whose services are temporarily lent or let on hire to the principal employer by the person with whom the person whose services are so lent or let on hire has entered into a contract of service; [and includes any person employed for wages on any work connected with the administration of the factory or establishment or any part, department or branch thereof or with the purchase of raw materials for, or the distribution or sale of the products of, the factory or establishment [or any person engaged as an apprentice, not being an apprentice engaged under the Apprentices Act, 1961 (52 of 1961), or [and includes such person engaged as apprentice whose training period is extended to any length of time] but does not include]— (a) any member of [the Indian] naval, military or air forces; or [(b) any person so employed whose wages (excluding remuneration for overtime work) exceed [such wages as may be prescribed by the Central Government] a month: Provided that an employee whose wages (excluding remuneration for overtime work) exceed 6[such wages as may be prescribed by the Central Government] at any time after (and not before) the beginning of the contribution period, shall continue to be an employee until the end of that period;] (10) “exempted employee” means an employee who is not liable under this Act to pay the employee’s contribution; [(11) “family” means all or any of the following relatives of an insured person, namely:— - a spouse; - a minor legitimate or adopted child dependent upon the insured person; - a child who is wholly dependent on the earnings of the insured person and who is— (a) receiving education, till he or she attains the age of twenty-one years, (b) an unmarried daughter; (iv) a child who is infirm by reason of any physical or mental abnormality or injury and is wholly dependent on the earnings of the insured person, so long as the infirmity continues; [(v) dependant parents, whose income from all sources does not exceed such income as may be prescribed by the Central Government; (vi) in case the insured person is unmarried and his or her parents are not alive, a minor brother or sister wholly dependant upon the earnings of the insured person;] [(12) “factory” means any premises including the precincts thereof whereon ten or more persons are employed or were employed on any day of the preceding twelve months, and in any part of which a manufacturing process is being carried on or is ordinarily so carried on, but does not include a mine subject to the operation of the Mines Act, 1952 (35 of 1952) or a railway running shed;] - “immediate employer”, in relation to employees employed by or through him, means a person who has undertaken the execution, on the premises of a factory or an establishment to which this Act applies or under the supervision of the principal employer or his agent, of the whole, or any part of any work which is ordinarily part of the work of the factory or establishment of the principal employer or is preliminary to the work carried on in, or incidental to the purpose of, any such factory or establishment, and includes a person by whom the services of an employee who has entered into a contract of service with him are temporarily lent or let on hire to the principal employer; [and includes a contractor]; [(13A) “insurable employment” means an employment in a factory or establishment to which this Act applies;] - “insured person” means a person who is or was an employee in respect of whom contributions are or were payable under this Act and who is by reason thereof, entitled to any of the benefits provided by this Act; 3[(14A) “managing agent” means any person appointed or acting as the representative of another person for the purpose of carrying on such other person’s trade or business, but does not include an individual manager subordinate to an employer; [(14AA) “manufacturing process” shall have the meaning assigned to it in the Factories Act, 1948 (63 of 1948);] (14B) “mis-carriage” means expulsion of the contents of a pregnant uterus at any period prior to or during the twenty-sixth week of pregnancy but does not include any miscarriage, the causing of which is punishable under the Indian Penal Code (45 of 1860);] - “occupier” of the factory shall have the meaning assigned to it in the Factories Act, [1948 (63 of 1948)]; 3[(15A) “permanent partial disablement” means such disablement of a permanent nature, as reduces the earning capacity of an employee in every employment which he was capable of undertaking at the time of the accident resulting in the disablement: Provided that every injury specified in Part II of the Second Schedule shall be deemed to result in permanent partial disablement; (15B) “permanent total disablement” means such disablement of a permanent nature as incapacitates an employee for all work which he was capable of performing at the time of the accident resulting in such disablement: Provided that permanent total disablement shall be deemed to result from every injury specified in Part I of the Second Schedule or from any combination of injuries specified in Part II thereof where the aggregate percentage of the loss of earning capacity, as specified in the said Part II against those injuries, amounts to one hundred per cent. or more;] 4[(15C) “power” shall have the meaning assigned to it in the Factories Act, 1948 (53 of 1948);] - “prescribed” means prescribed by rules made under this Act: - “principal employer” means— - in a factory, the owner or occupier of the factory and includes the managing agent of such owner or occupier, the legal representative of a deceased owner or occupier, and where a person has been named as the manager of the factory under [the Factories Act, 1948 (63 of 1948)], the person so named; - in any establishment under the control of any department of any Government in India, the authority appointed by such Government in this behalf or where no authority is so appointed, the head of the department; - in any other establishment, any person responsible for the supervision and control of the establishment; - “regulation” means a regulation made by the Corporation; - “Schedule” means a Schedule to this Act; [(19A) “seasonal factory” means a factory which is exclusively engaged in one or more of the following manufacturing processes, namely, cotton ginning, cotton or jute pressing, decortication of groundnuts, the manufacture of coffee, indigo, lac, rubber, sugar (including gur) or tea or any manufacturing process which is incidental to or connected with any of the aforesaid processes and includes a factory which is engaged for a period not exceeding seven months in a year— - in any process of blending, packing or repacking of tea or coffee; or - in such other manufacturing process as the Central Government may, by notification in the Official Gazette, specify;] - “sickness” means a condition which requires medical treatment and attendance and necessitates abstention from work on medical grounds; - “temporary disablement” means a condition resulting from an employment injury which requires medical treatment and renders an employee, as a result of such injury, temporarily incapable of [doing the work which he was doing prior to or at the time of the injury]; - “wages” means all remuneration paid or payable, in cash to an employee, if the terms of the contract of employment, express or implied, were fulfilled and includes [any payment to an employee in respect of any period of authorised leave, lock-out, strike which is not illegal or lay-off and] other additional remuneration, if any, [paid at intervals not exceeding two months], but does not include— - any contribution paid by the employer to any pension fund or provident fund, or under this Act; - any travelling allowance or the value of any travelling concession; - any sum paid to the person employed to defray special expenses entailed on him by the nature of his employment; or - any gratuity payable on discharge; [(23) “wage period” in relation to an employee means the period in respect of which wages are ordinarily payable to him whether in terms of the contract of employment, express or implied or otherwise;] [(24) all other words and expressions used but not defined in this Act and defined in the Industrial Disputes Act, 1947 (14 of 1947), shall have the meanings respectively assigned to them in that Act.] [2A."
+    ]
+   },
+   "activities": [
+    "Managing strikes and lock-outs",
+    "Handling worker lay-off",
+    "Paying lay-off compensation",
+    "Handling worker dismissal disputes"
+   ],
+   "definitions": [
+    {
+     "term": "appropriate Government",
+     "definition": "Means, in respect of establishments under the control of the Central Government or [a railway administration] or a major port or a mine or oilfield, the Central Government, and in all other cases, the State Government;"
+    },
+    {
+     "term": "confinement",
+     "definition": "Means labour resulting in the issue of a living child or labour after twenty-six weeks of pregnancy resulting in the issue of a child whether alive or dead;"
+    },
+    {
+     "term": "contribution",
+     "definition": "Means the sum of money payable to the Corporation by the principal employer in respect of an employee and includes any amount payable by or on behalf of the employee in accordance with the provisions of this Act;"
+    },
+    {
+     "term": "Corporation",
+     "definition": "Means the Employees’ State Insurance Corporation set up under this Act; ["
+    },
+    {
+     "term": "dependant",
+     "definition": "Means any of the following relatives of a deceased insured person, namely:— [(i) a widow, a legitimate or adopted son who has not attained the age of twenty-five years, an unmarried legitimate or adopted daughter,] [(ia) a widowed, mother;] - if wholly dependent on the earnings of the insured person at the time of his death, a legitimate or adopted son or daughter who has attained the age of [twenty-five years] and is infirm; - if wholly or in part dependent on the earnings of the insured person at the time of his death,— - a parent other than a widowed mother, - a minor illegitimate son, an unmarried illegitimate daughter or a daughter legitimate or adopted or illegitimate if married and a minor or if widowed and a minor, - a minor brother or an unmarried sister or a widowed sister if a minor, - a widowed daughter-in-law, - a minor child of a pre-deceased son, - a minor child of a pre-deceased daughter where no parent of the child is alive, or - a paternal grand-parent if no parent of the insured person is alive;]"
+    },
+    {
+     "term": "duly appointed",
+     "definition": "Means appointed in accordance with the provisions of this Act or with the rules or regulations made thereunder; ["
+    },
+    {
+     "term": "employment injury",
+     "definition": "Means a personal injury to an employee caused by accident or an occupational disease arising out of and in the course of his employment, being an insurable employment, whether the accident occurs or the occupational disease is contracted within or outside the territorial limits of India;]"
+    },
+    {
+     "term": "employee",
+     "definition": "Means any person employed for wages in or in connection with the work of a factory or establishment to which this Act applies and— - who is directly employed by the principal employer on any work of, or incidental or preliminary to or connected with the work of, the factory or establishment, whether such work is done by the employee in the factory or establishment or elsewhere; or - who is employed by or through an immediate employer on the premises of the factory or establishment or under the supervision of the principal employer or his agent on work which is ordinarily part of the work of the factory or establishment or which is preliminary to the work carried on in or incidental to the purpose of the factory or establishment; or - whose services are temporarily lent or let on hire to the principal employer by the person with whom the person whose services are so lent or let on hire has entered into a contract of service; [and includes any person employed for wages on any work connected with the administration of the factory or establishment or any part, department or branch thereof or with the purchase of raw materials for, or the distribution or sale of the products of, the factory or establishment [or any person engaged as an apprentice, not being an apprentice engaged under the Apprentices Act, 1961 (52 of 1961), or [and includes such person engaged as apprentice whose training period is extended to any length of time] but does not include]— (a) any member of [the Indian] naval, military or air forces; or [(b) any person so employed whose wages (excluding remuneration for overtime work) exceed [such wages as may be prescribed by the Central Government] a month: Provided that an employee whose wages (excluding remuneration for overtime work) exceed 6[such wages as may be prescribed by the Central Government] at any time after (and not before) the beginning of the contribution period, shall continue to be an employee until the end of that period;]"
+    },
+    {
+     "term": "exempted employee",
+     "definition": "Means an employee who is not liable under this Act to pay the employee’s contribution; ["
+    },
+    {
+     "term": "family",
+     "definition": "Means all or any of the following relatives of an insured person, namely:— - a spouse; - a minor legitimate or adopted child dependent upon the insured person; - a child who is wholly dependent on the earnings of the insured person and who is— (a) receiving education, till he or she attains the age of twenty-one years, (b) an unmarried daughter; (iv) a child who is infirm by reason of any physical or mental abnormality or injury and is wholly dependent on the earnings of the insured person, so long as the infirmity continues; [(v) dependant parents, whose income from all sources does not exceed such income as may be prescribed by the Central Government; (vi) in case the insured person is unmarried and his or her parents are not alive, a minor brother or sister wholly dependant upon the earnings of the insured person;] ["
+    },
+    {
+     "term": "factory",
+     "definition": "Means any premises including the precincts thereof whereon ten or more persons are employed or were employed on any day of the preceding twelve months, and in any part of which a manufacturing process is being carried on or is ordinarily so carried on, but does not include a mine subject to the operation of the Mines Act, 1952 (35 of 1952) or a railway running shed;]"
+    },
+    {
+     "term": "immediate employer",
+     "definition": "In relation to employees employed by or through him, means a person who has undertaken the execution, on the premises of a factory or an establishment to which this Act applies or under the supervision of the principal employer or his agent, of the whole, or any part of any work which is ordinarily part of the work of the factory or establishment of the principal employer or is preliminary to the work carried on in, or incidental to the purpose of, any such factory or establishment, and includes a person by whom the services of an employee who has entered into a contract of service with him are temporarily lent or let on hire to the principal employer; [and includes a contractor]; ["
+    },
+    {
+     "term": "insurable employment",
+     "definition": "Means an employment in a factory or establishment to which this Act applies;]"
+    },
+    {
+     "term": "insured person",
+     "definition": "Means a person who is or was an employee in respect of whom contributions are or were payable under this Act and who is by reason thereof, entitled to any of the benefits provided by this Act; 3["
+    },
+    {
+     "term": "managing agent",
+     "definition": "Means any person appointed or acting as the representative of another person for the purpose of carrying on such other person’s trade or business, but does not include an individual manager subordinate to an employer; [(14AA) “manufacturing process” shall have the meaning assigned to it in the Factories Act, 1948 (63 of 1948);]"
+    },
+    {
+     "term": "mis-carriage",
+     "definition": "Means expulsion of the contents of a pregnant uterus at any period prior to or during the twenty-sixth week of pregnancy but does not include any miscarriage, the causing of which is punishable under the Indian Penal Code (45 of 1860);]"
+    },
+    {
+     "term": "occupier",
+     "definition": "Of the factory shall have the meaning assigned to it in the Factories Act, [1948 (63 of 1948)]; 3["
+    },
+    {
+     "term": "permanent partial disablement",
+     "definition": "Means such disablement of a permanent nature, as reduces the earning capacity of an employee in every employment which he was capable of undertaking at the time of the accident resulting in the disablement: Provided that every injury specified in Part II of the Second Schedule shall be deemed to result in permanent partial disablement;"
+    },
+    {
+     "term": "permanent total disablement",
+     "definition": "Means such disablement of a permanent nature as incapacitates an employee for all work which he was capable of performing at the time of the accident resulting in such disablement: Provided that permanent total disablement shall be deemed to result from every injury specified in Part I of the Second Schedule or from any combination of injuries specified in Part II thereof where the aggregate percentage of the loss of earning capacity, as specified in the said Part II against those injuries, amounts to one hundred per cent. or more;] 4["
+    },
+    {
+     "term": "power",
+     "definition": "Shall have the meaning assigned to it in the Factories Act, 1948 (53 of 1948);]"
+    },
+    {
+     "term": "prescribed",
+     "definition": "Means prescribed by rules made under this Act:"
+    },
+    {
+     "term": "principal employer",
+     "definition": "Means— - in a factory, the owner or occupier of the factory and includes the managing agent of such owner or occupier, the legal representative of a deceased owner or occupier, and where a person has been named as the manager of the factory under [the Factories Act, 1948 (63 of 1948)], the person so named; - in any establishment under the control of any department of any Government in India, the authority appointed by such Government in this behalf or where no authority is so appointed, the head of the department; - in any other establishment, any person responsible for the supervision and control of the establishment;"
+    },
+    {
+     "term": "regulation",
+     "definition": "Means a regulation made by the Corporation;"
+    },
+    {
+     "term": "Schedule",
+     "definition": "Means a Schedule to this Act; ["
+    },
+    {
+     "term": "seasonal factory",
+     "definition": "Means a factory which is exclusively engaged in one or more of the following manufacturing processes, namely, cotton ginning, cotton or jute pressing, decortication of groundnuts, the manufacture of coffee, indigo, lac, rubber, sugar (including gur) or tea or any manufacturing process which is incidental to or connected with any of the aforesaid processes and includes a factory which is engaged for a period not exceeding seven months in a year— - in any process of blending, packing or repacking of tea or coffee; or - in such other manufacturing process as the Central Government may, by notification in the Official Gazette, specify;]"
+    },
+    {
+     "term": "sickness",
+     "definition": "Means a condition which requires medical treatment and attendance and necessitates abstention from work on medical grounds;"
+    },
+    {
+     "term": "temporary disablement",
+     "definition": "Means a condition resulting from an employment injury which requires medical treatment and renders an employee, as a result of such injury, temporarily incapable of [doing the work which he was doing prior to or at the time of the injury];"
+    },
+    {
+     "term": "wages",
+     "definition": "Means all remuneration paid or payable, in cash to an employee, if the terms of the contract of employment, express or implied, were fulfilled and includes [any payment to an employee in respect of any period of authorised leave, lock-out, strike which is not illegal or lay-off and] other additional remuneration, if any, [paid at intervals not exceeding two months], but does not include— - any contribution paid by the employer to any pension fund or provident fund, or under this Act; - any travelling allowance or the value of any travelling concession; - any sum paid to the person employed to defray special expenses entailed on him by the nature of his employment; or - any gratuity payable on discharge; ["
+    },
+    {
+     "term": "wage period",
+     "definition": "In relation to an employee means the period in respect of which wages are ordinarily payable to him whether in terms of the contract of employment, express or implied or otherwise;] [(24) all other words and expressions used but not defined in this Act and defined in the Industrial Disputes Act, 1947 (14 of 1947), shall have the meanings respectively assigned to them in that Act.] [2A."
+    }
+   ],
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "2A",
+   "title": "Registration of factories and establishments",
+   "chapter_num": "I",
+   "chapter": "PRELIMINARY",
+   "fields": {
+    "Legal Provision": [
+     "Every factory or establishment to which this Act applies shall be registered within such time and in such manner as may be specified in the regulations made in this behalf."
+    ]
+   },
+   "activities": [
+    "General compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "3",
+   "title": "Establishment of Employees’ State Insurance Corporation",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "(1) With effect from such date as the Central Government may, by notification in the Official Gazette, appoint in this behalf, there shall be established for the administration of the scheme of Employees’ State Insurance in accordance with the provisions of this Act a Corporation to be known as the Employees’ State Insurance Corporation. (2) The Corporation shall be a body corporate by the name of Employees’ State Insurance Corporation having perpetual succession and a common seal and shall by the said name sue and be sued."
+    ]
+   },
+   "activities": [
+    "ESI registration and coverage",
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "4",
+   "title": "Constitution of Corporation",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "The Corporation shall consist of the following members, namely:— [(a) a Chairman to be [appointed] by the Central Government; - a Vice-Chairman to be 4[appointed] by the Central Government;] - not more than five persons to be 4[appointed] by the Central Government ; - one person each representing each of the [ [States] in which this Act is in force] to be 4[appointed] by the State Government concerned; - one person to be 4[appointed] by the Central Government to represent the [Union territories]; - [ten] persons representing employers to be 4[appointed] by the Central Government in consultation with such organisations of employers as may be recognised for the purpose by the Central Government; - 9[ten] persons representing employees to be 4[appointed] by the Central Government in consultation with such organisations of employees as may be recognised for the purpose by the Central Government; - two persons representing the medical profession to be 4[appointed] by the Central Government in consultation with such organisations of medical practitioners as may be recognised for the purpose by the Central Government; [(i) three members of Parliament of whom two shall be members of the House of the People (Lok Sabha) and one shall be a member of the Council of States (Rajya Sabha) elected respectively by the members of the House of the People and the members of the Council of States; and (j) the Director General of the Corporation, ex officio."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "5",
+   "title": "Term of office of members of the Corporation",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "(1) Save as otherwise expressly provided in this Act, the term of office of members of the Corporation, other than [the members referred to in clauses (a), (b), (c), (d) and (e) of section 4 and the ex officio member,] shall be four years commencing from the date on which their [appointment] or election is notified: Provided that a member of the Corporation shall, notwithstanding the expiry of the said period of four years, continue to hold office until the 2[appointment] or election of his successor is notified. (2) The members of the Corporation referred to in clauses [(a), (b), (c), (d) and (e)] of section 4 shall hold office during the pleasure of the Government [appointing] them."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "6",
+   "title": "Eligibility for re-appointment or re-election",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "An outgoing member of the Corporation, the Standing Committee, or the Medical Benefit Council shall be eligible for [re-appointment] or re-election as the case may be. [7."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "7",
+   "title": "Authentication of orders, decisions, etc",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "All orders and decisions of the Corporation shall be authenticated by the signature of the Director General of the Corporation and all other instruments issued by the Corporation shall be authenticated by the signature of the Director General or such other officer of the Corporation as may be authorised by him."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "8",
+   "title": "Constitution of Standing Committee",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "A Standing Committee of the Corporation shall be constituted from among its members, consisting of— - a Chairman, [appointed] by the Central Government; - three members of the Corporation, [ 7[appointed] by the Central Government]; [(bb) three members of the Corporation representing such three State Governments thereon as the Central Government may, by notification in the Official Gazette, specify from time to time;] - [eight] members elected by the Corporation as follows:— - [three] members from among the members of the Corporation representing employers; - 12[three] members from among the members of the Corporation representing employees; - one member from among the members of the Corporation representing the medical profession; and - one member from among the members of the Corporation elected by [Parliament]; [(d) the Director General of the Corporation, ex officio."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "9",
+   "title": "Term of office of members of Standing Committee",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "(1) Save as otherwise expressly provided in this Act, the term of office of a member of the Standing Committee, other than a member referred to in clause (a) or [clause (b) or clause (bb)] of section 8, shall be two years from the date on which his election is notified: Provided that a member of the Standing Committee shall, notwithstanding the expiry of the said period of two years, continue to hold office until the election of his successor is notified: Provided further that a member of the Standing Committee shall cease to hold office when he ceases to be a member of the Corporation. (2) A member of the Standing Committee referred to in clause (a) or [clause (b) or clause (bb)] of section 8 shall hold office during the pleasure of the Central Government."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "10",
+   "title": "Medical Benefit Council",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "(1) The Central Government shall constitute a Medical Benefit Council consisting of— [(a) the Director General, the Employees’ State Insurance Corporation, ex officio as Chairman; - a Director-General, Health Services, ex officio, as Co-Chairman;] - the Medical Commissioner of the Corporation, ex officio; - one member each representing each of the 3[ 4[States (other than Union territories)] in which this Act is in force] to be [appointed] by the State Government concerned; - three members representing employers to be 5[appointed] by the Central Government in consultation with such organisations of employers as may be recognised for the purpose by the Central Government; - three members representing employees to be 5[appointed] by the Central Government in consultation with such organisations of employees as may be recognised for the purpose by the Central Government; and - three members, of whom not less than one shall be a woman, representing the medical profession, to be 5[appointed] by the Central Government in consultation with such organisations of medical practitioners as may be recognised for the purpose by the Central Government. - Save as otherwise expressly provided in this Act, the term of office of a member of the Medical Benefit Council, other than a member referred to in any of the clauses (a) to (d) of sub-section (1), shall be four years from the date on which his [appointment] is notified: [Provided that a member of the Medical Benefit Council shall, notwithstanding the expiry of the said period of four years continue to hold office until the 6[appointment] of his successor is notified.] - A member of the Medical Benefit Council referred to in clauses (b) and (d) of sub-section (1) shall hold office during the pleasure of the Government [appointing] him."
+    ]
+   },
+   "activities": [
+    "ESI registration and coverage",
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "11",
+   "title": "Resignation of membership",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "A member of the Corporation, the Standing Committee or the Medical Benefit Council may resign his office by notice in writing to the Central Government and his seat shall fall vacant on the acceptance of the resignation by that Government."
+    ]
+   },
+   "activities": [
+    "ESI registration and coverage",
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "12",
+   "title": "Cessation of membership",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "[(1)] A member of the Corporation, the Standing Committee or the Medical Benefit Council shall cease to be a member of that body if he fails to attend three consecutive meetings thereof: Provided that the Corporation, the Standing Committee or the Medical Benefit Council, as the case may be, may, subject to rules made by the Central Government in this behalf, restore him to membership. [(2) Where in the opinion of the Central Government any person 5[appointed] or elected to represent employers, employees or the medical profession on the Corporation, the Standing Committee or the Medical Benefit Council, as the case may be, has ceased to represent such employers, employees or the medical profession, the Central Government may, by notification in the Official Gazette, declare that with effect from such date as may be specified therein such person shall cease to be a member of the Corporation, the Standing Committee or the Medical Benefit Council, as the case may be.] [(3) A person referred to in clause (i) of section 4 shall cease to be a member on becoming a Minister or Speaker or Deputy Speaker of the House of the People or Deputy Chairman of the Council of States or when he ceases to be a member of Parliament."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "13",
+   "title": "Disqualification",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "A person shall be disqualified for being chosen as or for being a member of the Corporation, the Standing Committee or the Medical Benefit Council— (a) if he is declared to be of unsound mind by a competent Court; or - if he is an undischarged insolvent; or - if he has directly or indirectly by himself or by his partner any interest in a subsisting contract with, or any work being done for, the Corporation except as a medical practitioner or as a shareholder (not being a Director) of a company; or - if before or after the commencement of this Act, he has been convicted of an offence involving moral turpitude."
+    ]
+   },
+   "activities": [
+    "Handling worker dismissal disputes",
+    "Handling penalties and offences",
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "14",
+   "title": "Filling of vacancies",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "(1) Vacancies in the office of [appointed] or elected members of the Corporation, the Standing Committee and the Medical Benefit Council shall be filled by [appointment] or election, as the case may be. (2) A member of the Corporation, the Standing Committee or the Medical Benefit Council 2[appointed] or elected to fill a casual vacancy shall hold office only so long as the member in whose place he is 2[appointed] or elected would have been entitled to hold office if the vacancy had not occurred."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "15",
+   "title": "Fees and allowances",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "Members of the Corporation, the Standing Committee and the Medical Benefit Council shall receive such fees and allowances as may from time to time be prescribed by the Central Government."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "16",
+   "title": "Appointment of a Director General and a Financial Commissioner",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "[(1) The Central Government may, in consultation with the Corporation, appoint a Director General and a Financial Commissioner.] - The Director General shall be the Chief Executive Officer of the Corporation. - [The Director General and The Financial Commissioner] shall be whole-time officers of the Corporation and shall not undertake any work unconnected with their office without the sanction of the Central Government [and of the Corporation]. - 5[The Director General or the Financial Commissioner] shall hold office for such period, not exceeding five years, as may be specified in the order appointing him. An outgoing 5[the Director General or Financial Commissioner] shall be eligible for reappointment if he is otherwise qualified. - 5[The Director General or the Financial Commissioner] shall receive such salary and allowances as may be prescribed by the Central Government. - A person shall be disqualified from being appointed as or for being[ ](http://www.manupatrafast.in/ba/dispBotC.aspx?nActCompID=476&iActID=16)[5](http://www.manupatrafast.in/ba/dispBotC.aspx?nActCompID=476&iActID=16)[[](http://www.manupatrafast.in/ba/dispBotC.aspx?nActCompID=476&iActID=16)the Director General or the Financial Commissioner] if he is subject to any of the disqualifications specified in section 13. - The Central Government may at any time remove[ ](http://www.manupatrafast.in/ba/dispBotC.aspx?nActCompID=476&iActID=16)[5](http://www.manupatrafast.in/ba/dispBotC.aspx?nActCompID=476&iActID=16)[[](http://www.manupatrafast.in/ba/dispBotC.aspx?nActCompID=476&iActID=16)the Director General or the Financial Commissioner] from office and shall do so if such removal is recommended by a resolution of the Corporation passed at a special meeting called for the purpose and supported by the votes of not less than two-thirds of the total strength of the Corporation."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "17",
+   "title": "Staff",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "(1) The Corporation may employ such other staff of officers and servants as may be necessary for the efficient transaction of its business provided that the sanction of the Central Government shall be obtained for the creation of any post [the maximum monthly salary of which [exceeds such salary as may be prescribed by the Central Government].] [(2) (a) The method of recruitment, salary and allowances, discipline and other conditions of service of the members of the staff of the Corporation shall be such as may be specified in the regulations made by the Corporation in accordance with the rules and orders applicable to the officers and employees of the Central Government drawing corresponding scales of pay: Provided that where the Corporation is of the opinion that it is necessary to make a departure from the said rules or orders in respect of any of the matters aforesaid, it shall obtain the prior approval of the Central Government: [Provided further that this sub-section shall not apply to appointment of consultants and specialists in various fields appointed on contract basis.] (b) In determining the corresponding scales of pay of the members of the staff under clause (a), the Corporation shall have regard to the educational qualifications, method of recruitment, duties and responsibilities of such officers and employees under the Central Government and in case of any doubt, the Corporation shall refer the matter to the Central Government whose decision thereon shall be final.] (3) Every appointment to [posts [(other than medical posts)] corresponding to [Group A and Group B] posts under the Central Government] shall be made in consultation with the [Union] Public Service Commission: Provided that this sub-section shall not apply to an officiating or temporary appointment for [a period] not exceeding one year: [Provided further that any such officiating or temporary appointment shall not confer any claim for regular appointment and the services rendered in that capacity shall not count towards seniority or minimum qualifying service specified in the regulations for promotion to next higher grade.] [(4) If any question arises whether a post corresponds to a 7[Group A and Group B] post under the Central Government, the question shall be referred to that Government whose decision thereon shall be final."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "18",
+   "title": "Powers of the Standing Committee",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "(1) Subject to the general superintendence and control of the Corporation, the Standing Committee shall administer the affairs of the Corporation and may exercise any of the powers and perform any of the functions of the Corporation. - The Standing Committee shall submit for the consideration and decision of the Corporation all such cases and matters as may be specified in the regulations made in this behalf. - The Standing Committee may, in its discretion, submit any other case or matter for the decision of the Corporation."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "19",
+   "title": "Corporation’s power to promote measures for health, etc., of insured persons",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "The Corporation may, in addition to the scheme of benefits specified in this Act, promote measures for the improvement of the health and welfare of insured persons and for the rehabilitation and re-employment of insured persons who have been disabled or injured and may incur in respect of such measures expenditure from the funds of the Corporation within such limits as may be prescribed by the Central Government."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "20",
+   "title": "Meetings of Corporation, Standing Committee and Medical Benefit Council",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "Subject to any rules made under this Act, the Corporation, the Standing Committee and the Medical Benefit Council shall meet at such times and places and shall observe such rules or procedure in regard to transaction of business at their meetings as may be specified in the regulations made in this behalf."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "21",
+   "title": "Supersession of the Corporation and Standing Committee",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "(1) If in the opinion of the Central Government, the Corporation or the Standing Committee persistently makes default in performing the duties imposed on it by or under this Act or abuses its powers, that Government may, by notification in the Official Gazette, supersede the Corporation, or in the case of the Standing Committee, supersede, in consultation with the Corporation, the Standing Committee: Provided that before issuing a notification under this sub-section the Central Government shall give a reasonable opportunity to the Corporation or the Standing Committee, as the case may be, to show cause why it should not be superseded and shall consider the explanations and objections, if any, of the Corporation or the Standing Committee, as the case may be. - Upon the publication of a notification under sub-section (1) superseding the Corporation or the Standing Committee, all the members of the Corporation or the Standing Committee, as the case may be, shall, as from the date of such publication, be deemed to have vacated their offices. - When the Standing Committee has been superseded, a new Standing Committee shall be immediately constituted in accordance with section 8. - When the Corporation has been superseded, the Central Government may— - immediately [appoint] or cause to be [appointed] new members to the Corporation in accordance with section 4 and may constitute a new Standing Committee under section 8; - in its discretion, appoint such agency, for such period as it may think fit, to exercise the powers and perform the functions of the Corporation and such agency shall be competent to exercise all the powers and perform all the functions of the Corporation. - The Central Government shall cause a full report of any action taken under this section and the circumstances leading to such action to be laid before [Parliament] at the earliest opportunity and in any case not later than three months from the date of the notification superseding the Corporation or the Standing Committee, as the case may be."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "22",
+   "title": "Duties of Medical Benefit Council",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "The Medical Benefit Council shall— - advise [the Corporation and the Standing Committee] on matters relating to the administration of medical benefit, the certification for purposes of the grant of benefits and other connected matters; - have such powers and duties of investigation as may be prescribed in relation to complaints against medical practitioners in connection with medical treatment and attendance; and - perform such other duties in connection with medical treatment and attendance as may be specified in the regulations."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "23",
+   "title": "Duties of Director General and the Financial Commissioner",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "The 5[Director General and the Financial Commissioner] shall exercise such powers and discharge such duties as may be prescribed. They shall also perform such other functions as may be specified in the regulations."
+    ]
+   },
+   "activities": [
+    "Handling worker dismissal disputes"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "24",
+   "title": "Acts of Corporation, etc., not invalid by reason of defect in constitution, etc",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "No act of the Corporation, the Standing Committee or the Medical Benefit Council shall be deemed to be invalid by reason of any defect in the constitution of the Corporation, the Standing Committee or the Medical Benefit Council, or on the ground that any member thereof was not entitled to hold or continue in office by reason of any disqualification or of any irregularity in his [appointment] or election, or by reason of such act having been done during the period of any vacancy in the office of any member of the Corporation, the Standing Committee or the Medical Benefit Council."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "25",
+   "title": "Regional Boards, Local Committees, Regional and Local Medical Benefit Councils. CHAPTER III",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "The Corporation may appoint Regional Boards, Local Committees and Regional and Local Medical Benefit Councils in such areas and in such manner, and delegate to them such powers and functions, as may be provided by the regulations."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Providing medical benefits"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "26",
+   "title": "Employees’ State Insurance Fund",
+   "chapter_num": "III",
+   "chapter": "FINANCE AND AUDIT",
+   "fields": {
+    "Legal Provision": [
+     "(1) All contributions paid under this Act and all other moneys received on behalf of the Corporation shall be paid into a fund called the Employees’ State Insurance Fund which shall be held and administered by the Corporation for the purposes of this Act. (2) The Corporation may accept grants, donations and gifts from the Central or any State Government, local authority, or any individual or body whether incorporated or not, for all or any of the purposes of this Act. [(3) Subject to the other provisions contained in this Act and to any rules or regulations made in this behalf, all moneys accruing or payable to the said Fund shall be paid into the Reserve Bank of India or such other bank as may be approved by the Central Government to the credit of an account styled the account of the Employees’ State Insurance Fund.] (4) Such account shall be operated on by such officers as may be authorised by the Standing Committee with the approval of the Corporation. - [Grant by the Central Government.] Omitted by the Employees’ State Insurance (Amendment) Act, 1966 (44 of 1966) s. 12 (w.e.f. 17-6- 1967)."
+    ]
+   },
+   "activities": [
+    "ESI registration and coverage",
+    "ESI governance and administration",
+    "Paying PF/ESI contributions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "27",
+   "title": "Omitted",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "This section was omitted by a later amendment to the Act."
+    ]
+   },
+   "activities": [
+    "General compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "28",
+   "title": "Purposes for which the Fund may be expended",
+   "chapter_num": "III",
+   "chapter": "FINANCE AND AUDIT",
+   "fields": {
+    "Legal Provision": [
+     "Subject to the provisions of this Act and of any rules made by the Central Government in that behalf, the Employees’ State Insurance Fund shall be expended only for the following purposes, namely:— - payment of benefits and provision of medical treatment and attendance to insured persons and, where the medical benefit is extended to their families, the provision of such medical benefit to their families, in accordance with the provisions of this Act and defraying the charges and costs in connection therewith; - payment of fees and allowances to members of the Corporation, the Standing Committee and the Medical Benefit Council, the Regional Boards, Local Committees and Regional and Local Medical Benefit Councils; - payment of salaries, leave and joining time allowances, travelling and compensatory allowances, gratuities and compassionate allowances, pensions, contributions to provident or other benefit fund of officers and servants of the Corporation and meeting the expenditure in respect of offices and other services set up for the purpose of giving effect to the provisions of this Act; - establishment and maintenance of hospitals, dispensaries and other institutions and the provision of medical and other ancillary services for the benefit of insured persons and, where the medical benefit is extended to their families, their families; - payment of contributions to any State Government, local authority or any private body or individual, towards the cost of medical treatment and attendance provided to insured persons and, where the medical benefit is extended to their families, their families, including the cost of any building and equipment, in accordance with any agreement entered into by the Corporation; - defraying the cost (including all expenses) of auditing the accounts of the Corporation and of the valuation of its assets and liabilities; - defraying the cost (including all expenses) of the Employees’ Insurance Courts set up under this Act; - payment of any sums under any contract entered into for the purposes of this Act by the Corporation or the Standing Committee or by any officer duly authorized by the Corporation or the Standing Committee in that behalf; - payment of sums under any decree, order or award of any Court or Tribunal against the Corporation or any of its officers or servants for any act done in the execution of his duty or under a compromise or settlement of any suit or other legal proceeding or claim instituted or made against the Corporation; - defraying the cost and other charges of instituting or defending any civil or criminal proceedings arising out of any action taken under this Act; - defraying expenditure, within the limits prescribed, on measures for the improvement of the health welfare of insured persons and for the rehabilitation and re-employment of insured persons who have been disabled or injured; and - such other purposes as may be authorized by the Corporation with the previous approval of the Central Government. [28A."
+    ]
+   },
+   "activities": [
+    "Industrial tribunal proceedings",
+    "Implementing settlements and awards",
+    "ESI registration and coverage",
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "29",
+   "title": "Administrative expenses",
+   "chapter_num": "III",
+   "chapter": "FINANCE AND AUDIT",
+   "fields": {
+    "Legal Provision": [
+     "The types of expenses which may be termed as administrative expenses and the percentage of the income of the Corporation which may be spent for such expenses shall be such as may be prescribed by the Central Government and the Corporation shall keep its administrative expenses within the limit so prescribed by the Central Government."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "30",
+   "title": "Holding of property, etc",
+   "chapter_num": "III",
+   "chapter": "FINANCE AND AUDIT",
+   "fields": {
+    "Legal Provision": [
+     "(1) The Corporation may, subject to such conditions as may be prescribed by the Central Government, acquire and hold property both movable and immovable, sell or otherwise transfer any movable or immovable property which may have become vested in or have been acquired by it and do all things necessary for the purposes for which the Corporation is established. - Subject to such conditions as may be prescribed by the Central Government, the Corporation may from time to time invest any moneys which are not immediately required for expenses properly defrayable under this Act and may, subject as aforesaid, from time to time re-invest or realise such investments. - The Corporation may, with the previous sanction of the Central Government and on such terms as may be prescribed by it, raise loans and take measures for discharging such loans. - The Corporation may constitute for the benefit of its staff or any class of them, such provident or other benefit fund as it may think fit."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "31",
+   "title": "Vesting of the property in the Corporation",
+   "chapter_num": "III",
+   "chapter": "FINANCE AND AUDIT",
+   "fields": {
+    "Legal Provision": [
+     "All property acquired before the establishment of the Corporation shall vest in the Corporation and all income derived and expenditure incurred in this behalf shall be brought into the books of the Corporation. - [Expenditure by Central Government to be treated as a loan.] Omitted by the Employees’ State Insurance (Amendment) Act, 1966 (44 of 1966). s. 12 (w.e.f. 17-6-1967)."
+    ]
+   },
+   "activities": [
+    "ESI registration and coverage",
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "32",
+   "title": "Omitted",
+   "chapter_num": "II",
+   "chapter": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL",
+   "fields": {
+    "Legal Provision": [
+     "This section was omitted by a later amendment to the Act."
+    ]
+   },
+   "activities": [
+    "General compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "33",
+   "title": "Budget estimates",
+   "chapter_num": "III",
+   "chapter": "FINANCE AND AUDIT",
+   "fields": {
+    "Legal Provision": [
+     "The Corporation shall in each year frame a budget showing the probable receipts and the expenditure which it proposes to incur during the following year and shall submit a copy of the budget for the approval of the Central Government before such date as may be fixed by it in that behalf. The budget shall contain provisions adequate in the opinion of the Central Government for the discharge of the liabilities incurred by the Corporation and for the maintenance of a working balance. - Accounts.—The Corporation shall maintain correct accounts of its income and expenditure in such form and in such manner as may be prescribed by the Central Government. [34."
+    ]
+   },
+   "activities": [
+    "Handling worker dismissal disputes",
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "34",
+   "title": "Audit",
+   "chapter_num": "III",
+   "chapter": "FINANCE AND AUDIT",
+   "fields": {
+    "Legal Provision": [
+     "(1) The accounts of the Corporation shall be audited annually by the Comptroller and Auditor-General of India and any expenditure incurred by him in connection with such audit shall be payable by the Corporation to the Comptroller and Auditor-General of India. - The Comptroller and Auditor-General of India and any person appointed by him in connection with the audit of the accounts of the Corporation shall have the same rights and privileges and authority in connection with such audit as the Comptroller and Auditor-General has, in connection with the audit of Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Corporation. - The accounts of the Corporation as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded to the Corporation which shall forward the same to the Central Government along with its comments on the report of the Comptroller and Auditor-General."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "35",
+   "title": "Annual report",
+   "chapter_num": "III",
+   "chapter": "FINANCE AND AUDIT",
+   "fields": {
+    "Legal Provision": [
+     "The Corporation shall submit to the Central Government an annual report of its work and activities."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "36",
+   "title": "Budget, audited accounts and the annual report to be placed before Parliament",
+   "chapter_num": "III",
+   "chapter": "FINANCE AND AUDIT",
+   "fields": {
+    "Legal Provision": [
+     "The annual report, the audited accounts of the Corporation [together with the [the report of the Comptroller and Auditor-General of India thereon and the comments of the Corporation on such report] under section 34] and the budget as finally adopted by the Corporation shall be placed before [Parliament] ."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "37",
+   "title": "Valuation of assets and liabilities",
+   "chapter_num": "III",
+   "chapter": "FINANCE AND AUDIT",
+   "fields": {
+    "Legal Provision": [
+     "The Corporation shall, at intervals of [three years], have a valuation of its assets and liabilities made by a valuer appointed with the approval of the Central Government: Provided that it shall be open to the Central Government to direct a valuation to be made at such other times as it may consider necessary."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "38",
+   "title": "All employees to be insured",
+   "chapter_num": "IV",
+   "chapter": "CONTRIBUTIONS",
+   "fields": {
+    "Legal Provision": [
+     "Subject to the provisions of this Act, all employees in factories, or establishments to which this Act applies shall be insured in the manner provided by this Act."
+    ]
+   },
+   "activities": [
+    "General compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "39",
+   "title": "Contributions",
+   "chapter_num": "IV",
+   "chapter": "CONTRIBUTIONS",
+   "fields": {
+    "Legal Provision": [
+     "(1) The contribution payable under this Act in respect of an employee shall comprise contribution payable by the employer (hereinafter referred to as the employer’s contribution) and contribution payable by the employee (hereinafter referred to as the employee’s contribution) and shall be paid to the Corporation. [(2) The contributions shall be paid at such rates as may be prescribed by the Central Government: Provided that the rates so prescribed shall not be more than the rates which were in force immediately before the commencement of the Employees’ State Insurance (Amendment) Act, 1989 (29 of 1989).] [(3) The wage period in relation to an employee shall be the unit in respect of which all contributions shall be payable under this Act.] (4) The contributions payable in respect of each [wage period] shall ordinarily for due on the last day of the 2[wage period] and where an employee is employed for part of the 2[wage period] or is employed under two or more employers during the same 2[wage period] the contribution shall fall due on such days as may be specified in the regulations. [(5) (a) If any contribution payable under this Act is not paid by the principal employer on the date on which such contribution has become due, he shall be liable to pay simple interest at the rate of twelve per cent. per annum or at such higher rate as may be specified in the regulation till the date of its actual payment: Provided that higher interest specified in the regulations shall not exceed the lending rate of interest charged by any scheduled bank. (b) Any interest recoverable under clause (a) may be recovered as an arrear of land revenue or under section 45C to section 45-I. Explanation.—In this sub-section, “scheduled bank” means a bank for the time being included in the Second Schedule to the Reserve Bank of India Act, 1934 (2 of 1934)."
+    ]
+   },
+   "activities": [
+    "ESI registration and coverage",
+    "ESI governance and administration",
+    "Paying PF/ESI contributions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "40",
+   "title": "Principal employer to pay contributions in the first instance",
+   "chapter_num": "IV",
+   "chapter": "CONTRIBUTIONS",
+   "fields": {
+    "Legal Provision": [
+     "(1) The principal employer shall pay in respect of every employee, whether directly employed by him or by or through an immediate employer, both the employer’s contribution and the employee’s contribution. - Notwithstanding anything contained in any other enactment but subject to the provisions of this Act and the regulations, if any, made thereunder, the principal employer shall, in the case of an employee directly employed by him (not being an exempted employee), be entitled to recover from the employee the employee’s contribution by deduction from his wages and not otherwise: Provided that no such deduction shall be made from any wages other than such as relate to the period or part of the period in respect of which the contribution is payable, or in excess of the sum representing the employee’s contribution for the period. - Notwithstanding any contract to the contrary, neither the principal employer nor the immediate employer shall be entitled to deduct the employer’s contribution from any wages payable to an employee or otherwise to recover it from him. - Any sum deducted by the principal employer from wages under this Act shall be deemed to have been entrusted to him by the employee for the purpose of paying the contribution in respect of which it was deducted. - The principal employer shall bear the expenses of remitting the contributions to the Corporation."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Paying PF/ESI contributions",
+    "Provident fund compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "41",
+   "title": "Recovery of contribution from immediate employer",
+   "chapter_num": "IV",
+   "chapter": "CONTRIBUTIONS",
+   "fields": {
+    "Legal Provision": [
+     "(1) A principal employer, who has paid contribution in respect of an employee employed by or through an immediate employer, shall be entitled to recover the amount of the contribution so paid (that is to say the employer’s contribution as well as the employee’s contribution, if any) from the immediate employer, either by deduction from any amount payable to him by the principal employer under any contract, or as a debt payable by the immediate employer. [(1A) The immediate employer shall maintain a register of employees employed by or through him as provided in the regulations and submit the same to the principal employer before the settlement of any amount payable under sub-section (1).] (2) In the case referred to in sub-section (1), the immediate employee shall be entitled to recover the employee’s contribution from the employee employed by or through him by deduction from wages and not otherwise, subject to the conditions specified in the proviso to sub-section (2) of section 40."
+    ]
+   },
+   "activities": [
+    "Implementing settlements and awards",
+    "Paying PF/ESI contributions",
+    "Provident fund compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "42",
+   "title": "General provisions as to payment of contribution",
+   "chapter_num": "IV",
+   "chapter": "CONTRIBUTIONS",
+   "fields": {
+    "Legal Provision": [
+     "(1) No employee’s contribution shall be payable by or on behalf of an employee whose average daily wages [during a wage period are below [such wages as may be prescribed by the Central Government]]. Explanation.—The average daily wages of an employee shall be calculated [in such manner as may be prescribed by the Central Government.] (2) Contribution (both the employer’s contribution and the employee’s contribution) shall be payable by the principal employer for each [wage period] [in respect of the whole or part of which wages are payable to the employee and not otherwise]."
+    ]
+   },
+   "activities": [
+    "Paying PF/ESI contributions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "43",
+   "title": "Method of payment of contributions",
+   "chapter_num": "IV",
+   "chapter": "CONTRIBUTIONS",
+   "fields": {
+    "Legal Provision": [
+     "Subject to the provisions of this Act, the Corporation may make regulations for any matter relating or incidental to the payment and collection of contributions payable under this Act and without prejudice to the generality of the foregoing power such regulations may provide for— - the manner and time of payment of contributions; - the payment of contributions by means of adhesive or other stamps affixed to or impressed upon books, cards or otherwise and regulating the manner, times and conditions in, at and under which, such stamps are to be affixed or impressed; [(bb) the date by which evidence of contributions having been paid is to be received by the Corporation;] - the entry in or upon books or cards of particulars of contributions paid and benefits distributed in the case of the insured persons to whom such books or cards relate; and - the issue, sale, custody, production, inspection and delivery of books or cards and the replacement of books or cards which have been lost, destroyed or defaced. [44."
+    ]
+   },
+   "activities": [
+    "ESI registration and coverage",
+    "ESI governance and administration",
+    "Paying PF/ESI contributions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "44",
+   "title": "Employers to furnish returns and maintain registers in certain cases",
+   "chapter_num": "IV",
+   "chapter": "CONTRIBUTIONS",
+   "fields": {
+    "Legal Provision": [
+     "(1) Every principal and immediate employer shall submit to the Corporation or to such officer of the Corporation as it may direct such returns in such form and containing such particulars relating to persons employed by him or to any factory or establishment in respect of which he is the principal or immediate employer as may be specified in regulations made in this behalf. - Where in respect of any factory or establishment the Corporation has reason to believe that a return should have been submitted under sub-section (1) but has not been so submitted, the Corporation may require any person in charge of the factory or establishment to furnish such particulars as it may consider necessary for the purpose of enabling the Corporation to decide whether the factory or establishment is a factory or establishment to which this Act applies. - Every principal and immediate employer shall maintain such registers or records in respect of his factory or establishment as may be required by regulations made in this behalf.] 45."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "45",
+   "title": "Social Security Officers, their functions and duties",
+   "chapter_num": "IV",
+   "chapter": "CONTRIBUTIONS",
+   "fields": {
+    "Legal Provision": [
+     "(1) The Corporation may appoint such persons as inspectors, as it thinks fit, for the purposes of this Act, within such local limits as it may assign to them. - Any [Social Security Officer] appointed by the Corporation under sub-section (1) (hereinafter referred to as 2[Social Security Officer]), or other official of the Corporation authorised in this behalf by it may, for the purposes of enquiring into the correctness of any of the particulars stated in any return referred to in section 44 or for the purpose of ascertaining whether any of the provisions of this Act has been complied with— - require any principal or immediate employer to furnish to him such information as he may consider necessary for the purposes of this Act; or - at any reasonable time enter any office, establishment, factory or other premises occupied by such principal or immediate employer and require any person found in charge thereof to produce to such 2[Social Security Officer] or other official and allow him to examine such accounts, books and other documents relating to the employment of persons and payment of wages or to furnish to him such information as he may consider necessary; or - examine, with respect to any matter relevant to the purposes aforesaid, the principal or immediate employer, his agent or servant, or any person found in such factory, establishment, office or other premises, or any person whom the said 2[Social Security Officer] or other official has reasonable cause to believe to be or to have been an employee; [(d) make copies of, or take extracts from, any register, account book or other document maintained in such factory, establishment, office or other premises; (e) exercise such other powers as may be prescribed.] - An 2[Social Security Officer] shall exercise such functions and perform such duties as may be authorized by the Corporation or as may be specified in the regulations. [(4) Any officer of the Corporation authorised in this behalf by it may, carry out re-inspection or test inspection of the records and returns submitted under section 44 for the purpose of verifying the correctness and quality of the inspection carried out by a Social Security Officer.] [45A."
+    ]
+   },
+   "activities": [
+    "Preparing for a compliance inspection",
+    "ESI governance and administration"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "45A",
+   "title": "Determination of contributions in certain cases",
+   "chapter_num": "IV",
+   "chapter": "CONTRIBUTIONS",
+   "fields": {
+    "Legal Provision": [
+     "(1) Where in respect of a factory or establishment no returns, particulars, registers or records are submitted, furnished or maintained in accordance with the provisions of section 44 or any 2[Social Security Officer] or other official of the Corporation referred to in sub-section (2) of section 45 is [prevented in any manner] by the principal or immediate employer or any other person, in exercising his functions or discharging his duties under section 45, the Corporation may, on the basis of information available to it, by order, determine the amount of contributions payable in respect of the employees of that factory or establishment: [Provided that no such order shall be passed by the Corporation unless the principal or immediate employer or the person in charge of the factory or establishment has been given a reasonable opportunity of being heard.] [Provided further that no such order shall be passed by the Corporation in respect of the period beyond five years from the date on which the contribution shall become payable.] (2) An order made by the Corporation under sub-section (1) shall be sufficient proof of the claim of the Corporation under section 75 or for recovery of the amount determined by such order as an arrear of land revenue under section 45B [or the recovery under section 45C to section 45-I]. [45AA. Appellate authority.[—](http://www.manupatrafast.in/ba/dispbotC.aspx?nActCompID=137052&iActID=16)[1](http://www.manupatrafast.in/ba/dispbotC.aspx?nActCompID=137052&iActID=16)[[](http://www.manupatrafast.in/ba/dispbotC.aspx?nActCompID=137052&iActID=16)If an employer is not satisfied with the order referred to in section 45A, he may prefer an appeal to an appellate authority as may be provided by regulation, within sixty days of the date of such order after depositing twenty-five per cent. of the contribution so ordered or the contribution as per his own calculation, whichever is higher, with the Corporation: Provided that if the employer finally succeeds in the appeal, the Corporation shall refund such deposit to the employer together with such interest as may be specified in the regulation."
+    ]
+   },
+   "activities": [
+    "ESI governance and administration",
+    "Paying PF/ESI contributions",
+    "Appealing an official order"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  }
+ ]
+}
