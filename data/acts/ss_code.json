@@ -1,0 +1,78 @@
+{
+ "slug": "ss_code",
+ "title": "The Code on Social Security, 2020",
+ "year": 2020,
+ "type": "code",
+ "status": "pending_verification",
+ "source_url": null,
+ "retrieved_at": "2026-09-30T12:18:50Z",
+ "verification_status": "ai_drafted",
+ "lite_reviewed_flag": false,
+ "chapters": [
+  {
+   "num": "I",
+   "name": "PRELIMINARY"
+  },
+  {
+   "num": "II",
+   "name": "SOCIAL SECURITY ORGANISATIONS"
+  },
+  {
+   "num": "III",
+   "name": "EMPLOYEES’ PROVIDENT FUND"
+  },
+  {
+   "num": "IV",
+   "name": "EMPLOYEES STATE INSURANCE CORPORATION"
+  },
+  {
+   "num": "V",
+   "name": "GRATUITY"
+  },
+  {
+   "num": "VI",
+   "name": "MATERNITY BENEFIT"
+  },
+  {
+   "num": "VII",
+   "name": "EMPLOYEE'S COMPENSATION"
+  },
+  {
+   "num": "VIII",
+   "name": "SOCIAL SECURITY AND CESS IN RESPECT OF BUILDING AND OTHER CONSTRUCTION WORKERS"
+  },
+  {
+   "num": "IX",
+   "name": "SOCIAL SECURITY FOR UNORGANISED WORKERS, GIG WORKERS AND PLATFORM WORKERS"
+  },
+  {
+   "num": "X",
+   "name": "FINANCE AND ACCOUNTS"
+  },
+  {
+   "num": "XI",
+   "name": "AUTHORITIES, ASSESSMENT, COMPLIANCE AND RECOVERY"
+  },
+  {
+   "num": "XII",
+   "name": "OFFENCES AND PENALTIES"
+  },
+  {
+   "num": "XIII",
+   "name": "EMPLOYMENT INFORMATION AND MONITORING"
+  },
+  {
+   "num": "XIV",
+   "name": "MISCELLANEOUS"
+  }
+ ],
+ "provisions": [],
+ "parts": [
+  "ss_code.p1.json",
+  "ss_code.p2.json",
+  "ss_code.p3.json",
+  "ss_code.p4.json",
+  "ss_code.p5.json",
+  "ss_code.p6.json"
+ ]
+}
