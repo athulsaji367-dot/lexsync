@@ -1,0 +1,77 @@
+{
+ "slug": "osh_code",
+ "title": "The Occupational Safety, Health and Working Conditions Code, 2020",
+ "year": 2020,
+ "type": "code",
+ "status": "source_located",
+ "source_url": "https://dgfasli.gov.in/public/Admin/Cms/AllPdf/OSH_Gazette.pdf",
+ "retrieved_at": "2026-09-30T12:33:07Z",
+ "verification_status": "ai_drafted",
+ "lite_reviewed_flag": false,
+ "chapters": [
+  {
+   "num": "I",
+   "name": "PRELIMINARY"
+  },
+  {
+   "num": "II",
+   "name": "REGISTRATION"
+  },
+  {
+   "num": "III",
+   "name": "DUTIES OF EMPLOYER AND EMPLOYEES, ETC"
+  },
+  {
+   "num": "IV",
+   "name": "OCCUPATIONAL SAFETY AND HEALTH"
+  },
+  {
+   "num": "V",
+   "name": "HEALTH, SAFETY AND WORKING CONDITIONS"
+  },
+  {
+   "num": "VI",
+   "name": "WELFARE PROVISIONS"
+  },
+  {
+   "num": "VII",
+   "name": "HOURS OF WORK AND ANNUAL LEAVE WITH WAGES"
+  },
+  {
+   "num": "VIII",
+   "name": "MAINTENANCE OF REGISTERS, RECORDS AND RETURNS"
+  },
+  {
+   "num": "IX",
+   "name": "INSPECTOR-CUM-FACILITATORS AND OTHER AUTHORITY"
+  },
+  {
+   "num": "X",
+   "name": "SPECIAL PROVISION RELATING TO EMPLOYMENT OF WOMEN"
+  },
+  {
+   "num": "XI",
+   "name": "SPECIAL PROVISIONS FOR CONTRACT LABOUR AND INTER-STATE MIGRANT WORKER, ETC"
+  },
+  {
+   "num": "XII",
+   "name": "OFFENCES AND PENALTIES"
+  },
+  {
+   "num": "XIII",
+   "name": "SOCIAL SECURITY FUND"
+  },
+  {
+   "num": "XIV",
+   "name": "MISCELLANEOUS"
+  }
+ ],
+ "provisions": [],
+ "parts": [
+  "osh_code.p1.json",
+  "osh_code.p2.json",
+  "osh_code.p3.json",
+  "osh_code.p4.json",
+  "osh_code.p5.json"
+ ]
+}

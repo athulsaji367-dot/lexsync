@@ -1,0 +1,926 @@
+{
+ "provisions": [
+  {
+   "number": "63",
+   "title": "Illegal strikes and lock-outs",
+   "chapter_num": "VIII",
+   "chapter": "STRIKES AND LOCK-OUTS",
+   "fields": {
+    "Legal Provision": [
+     "(1) A strike or lock-out shall be illegal, if it is— - commenced or declared in contravention of section 62; or - continued in contravention of an order made under sub-section (7) of section 42. - Where a strike or lock-out in pursuance of an industrial dispute has already commenced and is in existence at the time of the filing of the application relating to such industrial dispute in the Tribunal or of the reference of such industrial dispute to an arbitrator or a National Industrial Tribunal, the continuance of such strike or lock-out shall not be deemed to be illegal, provided that such strike or lock-out was not at its commencement in contravention of the provisions of this Code or the continuance thereof was not prohibited under sub-section (7) of section 42. - A lock-out declared in consequence of an illegal strike or a strike declared in consequence of an illegal lock-out shall not be deemed to be illegal."
+    ],
+    "Objective": [
+     "Defines what makes a strike or lock-out 'illegal' by reference to the restrictions in section 62."
+    ],
+    "HR Significance": [
+     "Determines whether HR can treat industrial action as unlawful (with associated consequences for pay, discipline) or must treat it as protected activity."
+    ]
+   },
+   "activities": [
+    "Referring disputes to arbitration",
+    "Industrial tribunal proceedings",
+    "Managing strikes and lock-outs"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "64",
+   "title": "Prohibition of financial aid to illegal strikes or lock-outs",
+   "chapter_num": "VIII",
+   "chapter": "STRIKES AND LOCK-OUTS",
+   "fields": {
+    "Legal Provision": [
+     "No person shall knowingly spend or apply any money in direct furtherance or support of any illegal strike or lock-out."
+    ],
+    "Objective": [
+     "Prohibits any person from knowingly providing financial aid to sustain an illegal strike or lock-out."
+    ],
+    "HR Significance": [
+     "Relevant to HR/finance if there's any risk of funds being used to support unlawful industrial action."
+    ]
+   },
+   "activities": [
+    "Managing strikes and lock-outs"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "65",
+   "title": "Application of sections 67 to 69",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "(1) Sections 67 to 69 (both inclusive) shall not apply to industrial establishments to which Chapter X applies; or - to industrial establishments in which less than fifty workers on an average per working day have been employed in the preceding calendar month; or - to industrial establishments which are of a seasonal character or in which work is performed intermittently. (2) If a question arises whether an industrial establishment is of a seasonal character or whether work is performed therein only intermittently, the decision of the appropriate Government thereon shall be final. Explanation.—In this section and in sections 67, 68 and 69, industrial establishment shall mean a— - factory as defined in clause (m) of section 2 of the Factories Act, 1948 (63 of 1948); or - mine as defined in clause (j) of sub-section (1) of section 2 of the Mines Act, 1952 (35 of 1952); or - plantation as defined in clause (f) of section 2 of the Plantations Labour Act, 1951 (69 of 1951)."
+    ],
+    "Objective": [
+     "Clarifies which establishments sections 67–69 (lay-off compensation) apply to."
+    ],
+    "HR Significance": [
+     "Threshold-setting section — confirms coverage before HR applies the lay-off compensation rules that follow."
+    ]
+   },
+   "activities": [
+    "Handling worker lay-off",
+    "Paying lay-off compensation"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "66",
+   "title": "Definition of continuous service",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "In this Chapter, continuous service in relation to a worker, means the uninterrupted service of such worker, including his service which may be interrupted on account of sickness or authorised leave or an accident or a strike which is not illegal or a lock-out or a cessation of work which is not due to any fault on the part of the worker. Explanation 1.—For the purposes of this section, where a worker is not in continuous service for a period of one year or six months, he shall be deemed to be in continuous service under an employer— - for a period of one year, if the worker during a period of twelve months preceding the date with reference to which calculation is to be made has actually worked under the employer for not less than— - one hundred and ninety days in the case of a worker employed below ground in a mine; and - two hundred and forty days, in any other case; - for a period of six months, if the worker during a period of six months preceding the date with reference to which calculation is to be made has actually worked under the employer for not less than— - ninety-five days in the case of worker employed below ground in a mine; and (ii) one hundred and twenty days, in any other case. Explanation 2.—For the purposes of Explanation 1, the number of days on which a worker has actually worked under an employer shall include the days on which— - he has been laid-off under an agreement or as permitted by or under this Code or any other law applicable to the industrial establishment for the time being in force; or - he has been on leave on full wages earned in the previous years; or - he has been absent due to temporary disablement caused by accident arising out of and in the course of his employment; or - in the case of a female, she has been on maternity leave, so however, that the total period of such maternity leave does not exceed the period as specified in the Maternity Benefit Act, 1961 (53 of 1961)."
+    ],
+    "Objective": [
+     "Defines 'continuous service' for the purpose of calculating a worker's eligibility for lay-off compensation and related benefits."
+    ],
+    "HR Significance": [
+     "A calculation HR needs to get right — continuous service (including certain interruptions like sickness or authorised leave) determines eligibility thresholds."
+    ]
+   },
+   "activities": [
+    "Handling worker lay-off",
+    "Paying lay-off compensation",
+    "Understanding statutory employee benefits",
+    "Managing maternity leave"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "67",
+   "title": "Rights of workers laid-off for compensation, etc",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "Whenever a worker (other than a badli worker or a casual worker) whose name is borne on the muster rolls of an industrial establishment and who has completed not less than one year of continuous service under an employer is laid-off, whether continuously or intermittently, he shall be paid by the employer for all days during which he is so laidoff, except for such weekly holidays as may intervene, compensation which shall be equal to fifty per cent. of the total of the basic wages and dearness allowance that would have been payable to him, had he not been so laid-off: Provided that if during any period of twelve months, a worker is so laid-off for more than forty-five days, no such compensation shall be payable in respect of any period of the lay-off after the expiry of the first forty-five days, if there is an agreement to that effect between the worker and the employer: Provided further that it shall be lawful for the employer in any case falling within the foregoing proviso to retrench the worker in accordance with the provisions contained in section 70 at any time after the expiry of the first forty-five days of the lay-off and when he does so, any compensation paid to the worker for having been laid-off during the preceding twelve months may be set off against the compensation payable for retrenchment. Explanation.— For the purposes of this section “badli worker” means a worker who is employed in an industrial establishment in the place of another worker whose name is borne on the muster rolls of the establishment, but shall cease to be regarded as such, if he has completed one year of continuous service in the establishment."
+    ],
+    "Objective": [
+     "Entitles laid-off workers to compensation (generally 50% of wages) subject to conditions on continuous service."
+    ],
+    "HR Significance": [
+     "Direct payroll obligation — HR must calculate and pay lay-off compensation correctly when workers are laid off, not just when they're retrenched."
+    ]
+   },
+   "activities": [
+    "Handling worker lay-off",
+    "Paying lay-off compensation",
+    "Maintaining worker muster rolls",
+    "Retrenching workers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "68",
+   "title": "Duty of an employer to maintain muster rolls of workers",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "Notwithstanding that workers in any industrial establishment have been laid-off. it shall be the duty of every employer to maintain for the purposes of this Chapter a muster roll, and to provide for the making of entries therein by workers who may present themselves for work at the establishment at the appointed time during normal working hours."
+    ],
+    "Objective": [
+     "Requires employers to maintain muster rolls recording the presence/lay-off status of workers."
+    ],
+    "HR Significance": [
+     "A basic recordkeeping compliance item — muster rolls are the evidentiary backbone for any lay-off compensation dispute."
+    ]
+   },
+   "activities": [
+    "Handling worker lay-off",
+    "Paying lay-off compensation",
+    "Maintaining worker muster rolls"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "69",
+   "title": "Workers not entitled for compensation in certain cases",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "No compensation shall be paid to a worker who has been laid-off— - if he refuses to accept any alternative employment in the same establishment from which he has been laid-off, or in any other establishment belonging to the same employer situate in the same town or village or situate within a radius of eight kilometres from the establishment to which he belongs, if, in the opinion of the employer, such alternative employment does not call for any special skill or previous experience and can be done by the worker, provided that the wages which would normally have been paid to the worker are offered for the alternative employment also; - if he does not present himself for work at the establishment at the appointed time during normal working hours at least once a day; - if such laying-off is due to a strike or slowing-down of production on the part of workers in another part of the establishment."
+    ],
+    "Objective": [
+     "Lists circumstances (e.g. refusal of alternative employment, strikes) where a worker is not entitled to lay-off compensation."
+    ],
+    "HR Significance": [
+     "HR should check these exceptions before assuming compensation is automatically payable in every lay-off scenario."
+    ]
+   },
+   "activities": [
+    "Handling worker lay-off",
+    "Paying lay-off compensation"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "70",
+   "title": "Conditions precedent to retrenchment of workers",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "No worker employed in any industry who has been in continuous service for not less than one year under an employer shall be retrenched by that employer until— - the worker has been given one month’s notice in writing indicating the reasons for retrenchment and the period of notice has expired, or the worker has been paid in lieu of such notice, wages for the period of the notice; - the worker has been paid, at the time of retrenchment, compensation which shall be equivalent to fifteen days' average pay, or average pay of such days as may be notified by the appropriate Government, for every completed year of continuous service or any part thereof in excess of six months; and - notice in such manner as may be prescribed is served on the appropriate Government or such authority as may be specified by the appropriate Government by notification."
+    ],
+    "Objective": [
+     "Sets preconditions for retrenchment — notice or pay in lieu, and retrenchment compensation — for establishments below the Chapter X threshold."
+    ],
+    "HR Significance": [
+     "Core retrenchment-compliance section: HR must ensure notice/compensation requirements are met before any retrenchment proceeds, or it risks being challenged as invalid."
+    ]
+   },
+   "activities": [
+    "Retrenching workers",
+    "Retrenchment compensation",
+    "Paying building & construction worker cess"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "71",
+   "title": "Procedure for retrenchment",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "Where any worker in an industrial establishment who is a citizen of India, is to be retrenched and he belongs to a particular category of workers in that establishment, then, in the absence of any agreement between the employer and the worker in this behalf, the employer shall ordinarily retrench the worker who was the last person to be employed in that category, unless for reasons to be recorded the employer retrenches any other worker."
+    ],
+    "Objective": [
+     "Sets the retrenchment procedure, including the 'last-come-first-go' principle within a category unless there's a valid reason to depart from it."
+    ],
+    "HR Significance": [
+     "Directly shapes how HR must select which workers to retrench — seniority within category is the default rule, not management discretion alone."
+    ]
+   },
+   "activities": [
+    "Retrenching workers",
+    "Retrenchment compensation"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "72",
+   "title": "Re-employment of retrenched worker",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "Where any worker is retrenched and the employer proposes to take into his employment any person within one year of such retrenchment, he shall, in such manner as may be prescribed, give an opportunity to the retrenched workers who are citizens of India to offer themselves for re-employment and such retrenched workers who offer themselves for reemployment shall have preference over other persons."
+    ],
+    "Objective": [
+     "Gives retrenched workers a preferential right to re-employment if the employer is hiring again for the same category of work."
+    ],
+    "HR Significance": [
+     "HR must offer vacancies to eligible retrenched workers first before external hiring for the same role category."
+    ]
+   },
+   "activities": [
+    "Retrenching workers",
+    "Retrenchment compensation"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "73",
+   "title": "Compensation to workers in case of transfer of establishment",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "Where the ownership or management of an establishment is transferred, whether by agreement or by operation of law, from the employer in relation to that establishment to a new employer, every worker who has been in continuous service for not less than one year in that establishment immediately before such transfer shall be entitled to notice and compensation in accordance with the provisions of section 70 as if the worker had been retrenched: Provided that nothing in this section shall apply to a worker in any case where there has been a change of employers by reason of the transfer, if— - the service of the worker has not been interrupted by such transfer; - the terms and conditions of service applicable to the worker after such transfer are not in any way less favourable to the worker than those applicable to them immediately before the transfer; and - the new employer is, under the terms of such transfer or otherwise, legally liable to pay to the worker, in the event of his retrenchment, compensation on the basis that his service has been continuous and has not been interrupted by the transfer."
+    ],
+    "Objective": [
+     "Requires compensation to workers when an undertaking is transferred to a new owner, unless service continues on the same terms."
+    ],
+    "HR Significance": [
+     "Relevant in M&A/business-transfer scenarios — HR needs to plan for compensation liability unless continuity of service and terms is preserved."
+    ]
+   },
+   "activities": [
+    "Retrenching workers",
+    "Retrenchment compensation",
+    "Business/establishment transfer compliance"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "74",
+   "title": "Sixty days’ notice to be given of intention to close down any undertaking",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "(1) An employer who intends to close down an undertaking shall serve, at least sixty days before the date on which the intended closure is to become effective, a notice, in such manner as may be prescribed, on the appropriate Government stating clearly the reasons for the intended closure of the undertaking: Provided that nothing in this section shall apply to— - an industrial establishment in which less than fifty workers are employed or were employed on any day in the preceding twelve months; - an industrial establishment set up for the construction of buildings, bridges, roads, canals, dams or for other construction work or project. (2) Notwithstanding anything contained in sub-section (1), the appropriate Government may, if it is satisfied that owing to such exceptional circumstances as accident in the undertaking or death of the employer or an extraordinary situation such as natural calamities or the like, it is necessary so to do, by order, direct that the provisions of sub-section (1) shall not apply in relation to such undertaking for such period, as may be specified in the order."
+    ],
+    "Objective": [
+     "Requires 60 days' notice before closing down an undertaking, with exceptions for certain cases (e.g. unforeseen circumstances)."
+    ],
+    "HR Significance": [
+     "A key timeline HR must build into any closure planning, alongside the compensation obligations in the next section."
+    ]
+   },
+   "activities": [
+    "Closing down an establishment",
+    "Paying building & construction worker cess"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "75",
+   "title": "Compensation to workers in case of closing down of undertakings",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "(1) Where an establishment is closed down for any reason whatsoever, every worker who has been in continuous service for not less than one year in that undertaking immediately before such closure shall, subject to the provisions of sub-section (2), be entitled to notice and compensation in accordance with the provisions of section 70, as if the worker had been retrenched: Provided that where the undertaking is closed down on account of unavoidable circumstances beyond the control of the employer, the compensation to be paid to the worker under clause (b) of section 70, shall not exceed his average pay for three months. Explanation.—An industrial establishment which is closed down by reason merely of— - financial difficulties (including financial losses); or - accumulation of un-disposed stocks; or - the expiry of the period of the lease or license granted to it; or - in case where the undertaking is engaged in mining operations, exhaustion of the minerals in the area in which operations are carried on, shall not be deemed to be closed down on account of unavoidable circumstances beyond the control of the employer within the meaning of the proviso to this sub-section. - Notwithstanding anything contained in sub-section (1), where an undertaking engaged in mining operations is closed down by reason merely of exhaustion of the minerals in the area in which such operations are carried on, no worker referred to in that sub-section shall be entitled to any notice or compensation in accordance with the provisions of section 70, if— - the employer provides the worker, at the place located within a radius of twenty kilometres from such undertaking engaged in mining operation is closed down, with alternative employment with effect from the date of closure at the same remuneration as he was entitled to receive, and on the same terms and conditions of service as were applicable to him, immediately before the closure; - the service of the worker has not been interrupted by such alternative employment; and (c) the employer is, under the terms of such alternative employment or otherwise, legally liable to pay to the worker, in the event of his retrenchment, compensation on the basis that his service has been continuous and has not been interrupted by such alternative employment. - For the purposes of sub-sections (1) and (2), the expressions “minerals” and “mining operations” shall have the meanings respectively assigned to them in clauses (a) and (d) of section 3 of the Mines and Minerals (Regulation and Development) Act, 1957 (67 of 1957). - Where any undertaking set up for the construction of buildings, bridges, roads, canals, dams or other construction work is closed down on account of the completion of the work within two years from the date on which the undertaking had been set up, no worker employed therein shall be entitled to any compensation under clause (b) of section 70, but if the construction work is not so completed within two years, he shall be entitled to notice and compensation under that section for every completed year of continuous service or any part thereof in excess of six months."
+    ],
+    "Objective": [
+     "Entitles workers to compensation on closure of an undertaking, calculated similarly to retrenchment compensation."
+    ],
+    "HR Significance": [
+     "Direct payroll/finance planning item for any closure — compensation is owed even though jobs are ending for business reasons, not misconduct."
+    ]
+   },
+   "activities": [
+    "Retrenching workers",
+    "Retrenchment compensation",
+    "Closing down an establishment",
+    "Paying building & construction worker cess"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "76",
+   "title": "Effect of laws inconsistent with this Chapter",
+   "chapter_num": "IX",
+   "chapter": "LAY-OFF, RETRENCHMENT AND CLOSURE",
+   "fields": {
+    "Legal Provision": [
+     "(1) The provisions of this Chapter shall have effect notwithstanding anything inconsistent therewith contained in any other law including standing orders made under Chapter IV: Provided that where under the provisions of any other Act or rules, orders or notifications issued thereunder or under any standing orders or any award, contract or service or otherwise, a worker is entitled to benefits in respect of any matter which are more favourable to him than those to which he would be entitled under this Code, the worker shall continue to be entitled to the more favourable benefits in respect of that matter, notwithstanding that he receives benefits in respect of other matters under this Chapter. (2) For the removal of doubts, it is hereby declared that nothing contained in this Chapter shall be deemed to affect the provisions of any other law for the time being in force in any State in so far as that law provides for the settlement of industrial disputes, but the rights and liabilities of employers and workers in so far as they relate to lay-off and retrenchment shall be determined in accordance with the provisions of this Chapter. CHAPTER X SPECIAL PROVISIONS RELATING TO LAY-OFF, RETRENCHMENT AND CLOSURE IN CERTAIN ESTABLISHMENTS"
+    ],
+    "Objective": [
+     "Clarifies that this Chapter's provisions prevail over any inconsistent law, contract, or standing order."
+    ],
+    "HR Significance": [
+     "Confirms HR can't rely on a contract clause or company policy to lower these statutory protections."
+    ]
+   },
+   "activities": [
+    "Drafting or certifying standing orders",
+    "Handling worker lay-off",
+    "Paying lay-off compensation",
+    "Retrenching workers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "77",
+   "title": "Application of this Chapter",
+   "chapter_num": "X",
+   "chapter": "SPECIAL PROVISIONS RELATING TO LAY-OFF, RETRENCHMENT AND CLOSURE IN CERTAIN ESTABLISHMENTS",
+   "fields": {
+    "Legal Provision": [
+     "(1) The provisions of this Chapter shall apply to an industrial establishment (not being an establishment of a seasonal character or in which work is performed only intermittently) in which not less than three hundred workers, or such higher number of workers as may be notified by the appropriate Government, were employed on an average per working day in the preceding twelve months. - If a question arises whether an industrial establishment is of a seasonal character or whether work is performed therein only intermittently, the decision of the appropriate Government thereon shall be final. - For the purposes of this Chapter, “industrial establishment” means— - a factory as defined in clause (m) of section 2 of the Factories Act, 1948 (63 of 1948); - a mine as defined in clause (j) of sub-section (1) of section 2 of the Mines Act, 1952 (35 of 1952); or (iii) a plantation as defined in clause (f) of section 2 of the Plantations Labour Act, 1951 (69 of 1951)."
+    ],
+    "Objective": [
+     "Defines which establishments Chapter X's special lay-off/retrenchment/closure regime applies to — generally those with 300+ workers."
+    ],
+    "HR Significance": [
+     "Determines whether the stricter government-permission regime (rather than the general Chapter IX rules) applies to a given establishment."
+    ]
+   },
+   "activities": [
+    "Handling worker lay-off",
+    "Paying lay-off compensation",
+    "Retrenching workers",
+    "Retrenchment compensation"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "78",
+   "title": "Prohibition of lay-off",
+   "chapter_num": "X",
+   "chapter": "SPECIAL PROVISIONS RELATING TO LAY-OFF, RETRENCHMENT AND CLOSURE IN CERTAIN ESTABLISHMENTS",
+   "fields": {
+    "Legal Provision": [
+     "(1) No worker (other than a badli worker or a casual worker) whose name is borne on the muster rolls of an industrial establishment to which this Chapter applies shall be laid-off by his employer except with the prior permission of the appropriate Government, obtained on an application made in this behalf, unless such lay-off is due to shortage of power, natural calamity, and in the case of a mine, such lay-off is due to fire, flood, excess of inflammable gas or explosion. - An application for permission under sub-section (1) shall be made by the employer electronically or otherwise in the prescribed manner stating clearly the reasons for the intended lay-off and a copy of such application shall also be served simultaneously on the workers concerned in such manner as may be prescribed. - Where the workers (other than badli workers or casual workers) of industrial establishment, being a mine, have been laid-off under sub-section (1) for reasons of fire, flood or excess of inflammable gas or explosion, the employer, in relation to such establishment, shall, within a period of thirty days from the date of commencement of such lay-off, apply, in such manner as may be prescribed, to the appropriate Government for permission to continue the lay-off. - Where an application for permission under sub-section (1) or sub-section (3) has been made, the appropriate Government, after making such enquiry as it thinks fit and after giving a reasonable opportunity of being heard to the employer, the workers concerned and the persons interested in such lay-off, may, having regard to the genuineness and adequacy of the reasons for such lay-off, the interests of the workers and all other relevant factors, by order and for reasons to be recorded in writing, grant or refuse to grant such permission and a copy of such order shall be communicated to the employer and the workers. - Where an application for permission under sub-section (1) or sub-section (3) has been made and the appropriate Government does not communicate the order granting or refusing to grant permission to the employer within a period of sixty days from the date on which such application is made, the permission applied for shall be deemed to have been granted as applied for on the expiration of the said period of sixty days and the application shall be deemed to have been disposed of accordingly by the appropriate Government. - An order of the appropriate Government granting or refusing to grant permission shall, subject to the provisions of sub-section (7), be final and binding on all the parties concerned and shall remain in force for one year from the date of such order. - The appropriate Government may, either on its own motion or on the application made by the employer or any worker, review its order granting or refusing to grant permission under sub-section (4) within the prescribed time from the date on which such order is made or refer the matter or, as the case may be, cause it to be referred, to a Tribunal for adjudication: Provided that where a reference has been made to a Tribunal under this sub-section, it shall pass an award within a period of thirty days from the date of such reference. - Where no application for permission under sub-section (1) is made, or where no application for permission under sub-section (3) is made within the period specified therein, or where the permission for any lay-off has been refused, such lay-off shall be deemed to be illegal from the date on which the workers had been laid-off and the workers shall be entitled to all the benefits under any law for the time being in force as if they had not been laid-off. - Notwithstanding anything contained in the foregoing provisions of this section, the appropriate Government may, if it is satisfied that owing to such exceptional circumstances as accident in the establishment or death of the employer or the like, it is necessary so to do, by order, direct that the provisions of sub-section (1), or, as the case may be, sub-section (3) shall not apply in relation to such establishment for such period as may be specified in the order. - The provisions of section 67 (other than the second proviso thereto) shall apply to cases of layoff referred to in this section. Explanation.—For the purposes of this section, a worker shall not be deemed to be laid-off by an employer if such employer offers any alternative employment (which in the opinion of the employer does not call for any special skill or previous experience and can be done by the worker) in the same establishment from which he has been laid-off or in any other establishment belonging to the same employer, situate in the same town or village, or situate within such distance from the establishment to which he belongs that the transfer will not involve undue hardship to the worker having regard to the facts and circumstances of his case, subject to the condition that the wages which would normally have been paid to the worker are offered for the alternative appointment also."
+    ],
+    "Objective": [
+     "Prohibits lay-off of workers in covered establishments without prior permission from the appropriate Government, except in specified emergencies."
+    ],
+    "HR Significance": [
+     "A major compliance gate for larger employers — HR cannot simply lay off workers; government permission must be sought and obtained first."
+    ]
+   },
+   "activities": [
+    "Industrial tribunal proceedings",
+    "Handling worker lay-off",
+    "Paying lay-off compensation",
+    "Maintaining worker muster rolls"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "79",
+   "title": "Conditions precedent to retrenchment of workers to which Chapter X applies",
+   "chapter_num": "X",
+   "chapter": "SPECIAL PROVISIONS RELATING TO LAY-OFF, RETRENCHMENT AND CLOSURE IN CERTAIN ESTABLISHMENTS",
+   "fields": {
+    "Legal Provision": [
+     "(1) No worker employed in any industrial establishment to which this Chapter applies, who has been in continuous service for not less than one year under an employer shall be retrenched by that employer until,— - the worker has been given three month’s notice in writing indicating the reasons for retrenchment and the period of notice has expired, or the worker has been paid in lieu of such notice, wages for the period of the notice; and - the prior permission of the appropriate Government has been obtained on an application made in this behalf. - An application for permission under sub-section (1) shall be made by the employer electronically or otherwise in the prescribed manner stating clearly the reasons for the intended retrenchment and a copy of such application shall also be served simultaneously on the workers concerned in such manner as may be prescribed. - Where an application for permission under sub-section (1) has been made, the appropriate Government, after making such enquiry as it thinks fit and after giving a reasonable opportunity of being heard to the employer, the workers concerned and the persons interested in such retrenchment, may, having regard to the genuineness and adequacy of the reasons stated by the employer, the interests of the workers and all other relevant factors, by order and for reasons to be recorded in writing, grant or refuse to grant such permission and a copy of such order shall be communicated to the employer and the workers. - Where an application for permission has been made under sub-section (1) and the appropriate Government does not communicate the order granting or refusing to grant permission to the employer within a period of sixty days from the date on which such application is made, the permission applied for shall be deemed to have been granted on the expiration of the said period of sixty days and the application shall be deemed to have been disposed of accordingly by the appropriate Government. - An order of the appropriate Government granting or refusing to grant permission shall, subject to the provisions of sub-section (6), be final and binding on all the parties concerned and shall remain in force for one year from the date of such order. - The appropriate Government may, either on its own motion or on the application made by the employer or any worker, review its order granting or refusing to grant permission under sub-section (3) within the prescribed time from the date on which such order is made or refer the matter or, as the case may be, cause it to be referred to a Tribunal for adjudication: Provided that where a reference has been made to a Tribunal under this sub-section, it shall pass an award within a period of thirty days from the date of such reference. - Where no application for permission under sub-section (1) is made, or where the permission for any retrenchment has been refused, such retrenchment shall be deemed to be illegal from the date on which the notice of retrenchment was given to the worker and the worker shall be entitled to all the benefits under any law for the time being in force as if no notice had been given to him. - Notwithstanding anything contained in the foregoing provisions of this section, the appropriate Government may, if it is satisfied that owing to such exceptional circumstances as accident in the establishment or death of the employer or the like, it is necessary so to do, by order, direct that the provisions of sub-section (1) shall not apply in relation to such establishment for such period as may be specified in the order. - Where permission for retrenchment has been granted under sub-section (3) or where permission for retrenchment is deemed to be granted under sub-section (4), every worker who is employed in that establishment immediately before the date of application for permission under this section shall be entitled to receive, at the time of retrenchment, compensation which shall be equivalent to fifteen days average pay, or average pay of such days as may be notified by the appropriate Government, for every completed year of continuous service or any part thereof, in excess of six months."
+    ],
+    "Objective": [
+     "Requires prior government permission before retrenchment in establishments covered by this Chapter."
+    ],
+    "HR Significance": [
+     "Same 'permission-first' regime as lay-off — HR must factor in approval timelines before any retrenchment in a covered establishment."
+    ]
+   },
+   "activities": [
+    "Industrial tribunal proceedings",
+    "Handling worker lay-off",
+    "Paying lay-off compensation",
+    "Retrenching workers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "80",
+   "title": "Procedure for closing down an industrial establishment",
+   "chapter_num": "X",
+   "chapter": "SPECIAL PROVISIONS RELATING TO LAY-OFF, RETRENCHMENT AND CLOSURE IN CERTAIN ESTABLISHMENTS",
+   "fields": {
+    "Legal Provision": [
+     "(1) An employer who intends to close down an undertaking of an industrial establishment to which this Chapter applies shall, electronically or otherwise, apply in such manner as may be prescribed, for prior permission at least ninety days before the date on which the intended closure is to become effective, to the appropriate Government, stating clearly the reasons for the intended closure of the undertaking and a copy of such application shall also be served simultaneously on the representatives of the workers in such manner as may be prescribed: Provided that nothing in this sub-section shall apply to an undertaking set up for the construction of buildings, bridges, roads, canals, dams or for other construction work. - Where an application for permission has been made under sub-section (1), the appropriate Government, after making such enquiry as it thinks fit and after giving a reasonable opportunity of being heard to the employer, the workers and the persons interested in such closure may, having regard to the genuineness and adequacy of the reasons stated by the employer, the interests of the general public and all other relevant factors, by order and for reasons to be recorded in writing, grant or refuse to grant such permission and a copy of such order shall be communicated to the employer and the workers. - Where an application has been made under sub-section (1) and the appropriate Government does not communicate the order granting or refusing to grant permission to the employer within a period of sixty days from the date on which such application is made, the permission applied for shall be deemed to have been granted as applied for on the expiration of the said period of sixty days and the application shall be deemed to have been disposed of accordingly by the appropriate Government. - An order of the appropriate Government granting or refusing to grant permission shall, subject to the provisions of sub-section (5), be final and binding on all the parties and shall remain in force for one year from the date of such order. - The appropriate Government may, either on its own motion or on the application made by the employer or any worker, review its order granting or refusing to grant permission under sub-section (2) within the prescribed time from the date on which such order is made or refer the matter to a Tribunal for adjudication: Provided that where a reference has been made to a Tribunal under this sub-section, it shall pass an award within a period of thirty days from the date of such reference. - Where no application for permission under sub-section (1) is made within the period specified therein, or where the permission for closure has been refused, the closure of the undertaking shall be deemed to be illegal from the date of closure and the workers shall be entitled to all the benefits under any law for the time being in force as if the undertaking had not been closed down. - Notwithstanding anything contained in the foregoing provisions of this section, the appropriate Government may, if it is satisfied that owing to such exceptional circumstances as accident in the undertaking or death of the employer or the like it is necessary so to do, by order, direct that the provisions of sub-section (1) shall not apply in relation to such undertaking for such period as may be specified in the order. - Where an undertaking is permitted to be closed down under sub-section (2) or where permission for closure is deemed to be granted under sub-section (3), every worker who is employed in that undertaking immediately before the date of application for permission under this section, shall be entitled to receive compensation which shall be equivalent to fifteen days average pay, or average pay of such days as may be notified by the appropriate Government, for every completed year of continuous service or any part thereof in excess of six months."
+    ],
+    "Objective": [
+     "Requires prior government permission before closing down an industrial establishment covered by this Chapter, with limited exceptions."
+    ],
+    "HR Significance": [
+     "Closure planning for larger employers must include a formal permission application, not just notice — a materially higher bar than Chapter IX."
+    ]
+   },
+   "activities": [
+    "Industrial tribunal proceedings",
+    "Closing down an establishment",
+    "Understanding statutory employee benefits",
+    "Paying building & construction worker cess"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "81",
+   "title": "Duty of an employer to maintain muster rolls of workers",
+   "chapter_num": "X",
+   "chapter": "SPECIAL PROVISIONS RELATING TO LAY-OFF, RETRENCHMENT AND CLOSURE IN CERTAIN ESTABLISHMENTS",
+   "fields": {
+    "Legal Provision": [
+     "Notwithstanding that workers in any industrial establishment have been laid-off, it shall be the duty of every employer to maintain for the purposes of this Chapter a muster roll, and to provide for the making of entries therein by workers who may present themselves for work at the establishment at the appointed time during normal working hours."
+    ],
+    "Objective": [
+     "Requires employers in covered establishments to maintain muster rolls, mirroring the section 68 requirement for this stricter regime."
+    ],
+    "HR Significance": [
+     "Same recordkeeping discipline as section 68, applicable to larger establishments under this Chapter."
+    ]
+   },
+   "activities": [
+    "Handling worker lay-off",
+    "Paying lay-off compensation",
+    "Maintaining worker muster rolls"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "82",
+   "title": "Certain provisions of Chapter IX to apply to industrial establishment to which this Chapter applies",
+   "chapter_num": "X",
+   "chapter": "SPECIAL PROVISIONS RELATING TO LAY-OFF, RETRENCHMENT AND CLOSURE IN CERTAIN ESTABLISHMENTS",
+   "fields": {
+    "Legal Provision": [
+     "The provisions of sections 66, 71, 72, 73 and section 76 in Chapter IX shall, so far as may be, apply also in relation to an industrial establishment to which the provisions of this Chapter apply. CHAPTER XI WORKER RE-SKILLING FUND 83. Worker reskilling fund.—(1) The appropriate Government shall, by notification, set up a fund to be called the worker re-skilling fund (hereafter in this section referred to as “fund”). - The fund shall consist of— - the contribution of the employer of an industrial establishment an amount equal to fifteen days wages last drawn by the worker immediately before the retrenchment, or such other number of days as may be notified by the Central Government, for every retrenched worker in case of retrenchment only; - the contribution from such other sources as may be prescribed by the appropriate Government. - The fund shall be utilised by crediting fifteen days wages last drawn by the worker to his account who is retrenched, within forty-five days of such retrenchment, in such manner as may be prescribed. CHAPTER XII UNFAIR LABOUR PRACTICES 84. Prohibition of unfair labour practice.—No employer or worker or a Trade Union, whether registered under this Code, or not, shall commit any unfair labour practice specified in the Second Schedule."
+    ],
+    "Objective": [
+     "Applies certain Chapter IX provisions (e.g. compensation calculation, re-employment rights) to establishments covered by this stricter Chapter X regime."
+    ],
+    "HR Significance": [
+     "Confirms HR should read Chapters IX and X together — the permission requirement is additional to, not a replacement for, the underlying compensation rules."
+    ]
+   },
+   "activities": [
+    "Retrenching workers",
+    "Retrenchment compensation",
+    "Worker re-skilling support",
+    "Avoiding unfair labour practices"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "83",
+   "title": "Worker re-skilling fund",
+   "chapter_num": "XI",
+   "chapter": "WORKER RE-SKILLING FUND",
+   "fields": {
+    "Legal Provision": [
+     "The appropriate Government shall, by notification, set up a fund to be called the worker re-skilling fund (hereafter in this section referred to as \"fund\")."
+    ],
+    "Objective": [
+     "Requires the Government to set up a Worker Re-skilling Fund to support retrenched workers."
+    ],
+    "HR Significance": [
+     "Relevant context for HR/L&D — retrenched workers may have access to government-backed re-skilling support, which can factor into severance communications."
+    ]
+   },
+   "activities": [
+    "Retrenching workers",
+    "Retrenchment compensation",
+    "Worker re-skilling support",
+    "Paying building & construction worker cess"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "84",
+   "title": "Prohibition of unfair labour practice",
+   "chapter_num": "XII",
+   "chapter": "UNFAIR LABOUR PRACTICES",
+   "fields": {
+    "Legal Provision": [
+     "No employer or worker or a Trade Union, whether registered under this Code, or not, shall commit any unfair labour practice specified in the Second Schedule."
+    ],
+    "Objective": [
+     "Prohibits unfair labour practices by employers, workers, or unions as specified in the Second Schedule to the Code."
+    ],
+    "HR Significance": [
+     "Important boundary-setting section — HR should review the Second Schedule's list of prohibited practices (e.g. victimisation for union activity) to avoid exposure."
+    ]
+   },
+   "activities": [
+    "Avoiding unfair labour practices"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "85",
+   "title": "Power of officers of appropriate Government to impose penalty in certain cases",
+   "chapter_num": "XIII",
+   "chapter": "OFFENCES AND PENALTIES",
+   "fields": {
+    "Legal Provision": [
+     "(1) Notwithstanding anything contained in section 84, for the purpose of imposing penalty under subsections (3), (5), (7), (8), (9), (10), (11) and (20) of section 86 and sub-section (7) of section 89, the appropriate Government may appoint any officer not below the rank of Under Secretary to the Government of India or an officer of equivalent rank in the State Government, as the case may be, for holding enquiry in such manner, as may be prescribed by the Central Government. - While holding the enquiry, the officer referred to in sub-section (1) shall have the power to summon and enforce attendance of any person acquainted with the facts and circumstances of the case to give evidence or to produce any document, which in the opinion of such officer, may be useful for or relevant to the subject matter of the enquiry and if, on such enquiry, he is satisfied that the person has committed any offence under the provisions referred to in sub-section (1), he may impose such penalty as he thinks fit in accordance with such provisions. - Where a person fails to pay the penalty referred to in sub-section (2) within a period of ninety days from the date of receipt of the copy of the order, he shall be punishable with fine which shall not be less than fifty thousand rupees but may extend up to two lakh rupees."
+    ],
+    "Objective": [
+     "Empowers designated officers of the appropriate Government to impose penalties directly in certain minor offence cases, without a full prosecution."
+    ],
+    "HR Significance": [
+     "Means some compliance lapses can result in a summary penalty process rather than lengthy litigation — still a real financial/compliance risk."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences",
+    "Paying building & construction worker cess"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "86",
+   "title": "Penalties",
+   "chapter_num": "XIII",
+   "chapter": "OFFENCES AND PENALTIES",
+   "fields": {
+    "Legal Provision": [
+     "(1) An employer who contravenes the provisions of section 78 or section 79 or section 80 shall be punishable with fine which shall not be less than one lakh rupees, but which may extend to ten lakh rupees. - An employer who after conviction for an offence under section 78 or section 79 or section 80 again commits the same offence under section 78 or section 79 or section 80, then, he shall for the second or subsequent offence be punishable with fine which shall not be less than five lakh rupees, but which may extend up to twenty lakh rupees or with imprisonment for a term which may extend to six months, or with both. - An employer who contravenes the provisions of section 67 or section 70 or section 73 or section 75 shall be punishable with fine which shall not be less than fifty thousand rupees, but which may extend to two lakh rupees. - An employer who after conviction for an offence under section 67 or section 70 or section 73 or section 75 again commits the same offence under section 67 or section 70 or section 73 or section 75, then, he shall for the second or subsequent offence be punishable with fine which shall not be less than one lakh rupees, but which may extend to five lakh rupees or with imprisonment for a term which may extend to six months, or with both. - Any person who commits any unfair labour practice as specified in the Second Schedule shall be punishable with fine which shall not be less than ten thousand rupees, but which may extend to two lakh rupees. - Any person who after conviction for any unfair labour practice again commits the same offence, then, he shall, for committing the second or subsequent offence, be punishable with fine which shall not be less than fifty thousand rupees, but which may extend to five lakh rupees or with imprisonment for a term which may extend to three months, or with both. - If default is made on the part of any registered Trade Union in giving any notice or sending any statement or other document as required by or under any of the provisions of this Code, every officebearer or other person bound by the rules of the Trade Union to give or send the same, or, if there is no such office-bearer or person, every member of the executive of the Trade Union, shall be punishable with fine which shall not be less than one thousand rupees, but which may extend to ten thousand rupees and any continuing default shall be punishable with an additional penalty of fifty rupees per day so long as the default continues. - Any person who wilfully makes, or causes to be made, any false entry in, or any omission from, the general statement required by section 26 or in or from any copy of rules or of alterations of rules sent to the Registrar under that section, shall be punishable with fine which shall not be less than two thousand rupees, but which may extend to twenty thousand rupees. - Any person who, with intent to deceive, gives to any member of a registered Trade Union or to any person intending or applying to become a member of such Trade Union any document purporting to be a copy of the rules of the Trade Union or of any alterations to the same which he knows, or has reason to believe, is not a correct copy of such rules or alterations as are for the time being in force, or any person who, with the intent, gives a copy of any rules of an unregistered Trade Union to any person on the pretence that such rules are the rules of a registered Trade Union, shall be punishable with fine which shall not be less than five thousand rupees, but which may extend to twenty thousand rupees. - An employer who fails to submit draft standing orders as required by section 30, or who modifies his standing orders otherwise than in accordance with section 35, shall be punishable with fine which shall not be less than fifty thousand rupees, but which may extend to two lakh rupees and in the case of a continuing offence with an additional fine of two thousand rupees per day till the offence continues. - An employer who does any act in contravention of the standing orders finally certified under this Code shall be punishable with fine which shall not be less than one lakh rupees, but which may extend to two lakh rupees. - Any person who after conviction under sub-section (11) again commits the same offence, then, he shall, for committing the second or subsequent offence be punishable with fine which shall not be less than two lakh rupees, but which may extend to four lakh rupees or with imprisonment for a term which may extend to three months, or with both. - Any worker who commences, continues or otherwise acts in furtherance of a strike which is illegal under this Code, shall be punishable with fine which shall not be less than one thousand rupees, but which may extend up to ten thousand rupees or with imprisonment for a term which may extend to one month, or with both. - Any employer who commences, continues, or otherwise acts in furtherance of a lock-out which is illegal under this Code, shall be punishable with fine which shall not be less than fifty thousand rupees, but which may extend to one lakh rupees or with imprisonment for a term which may extend to one month, or with both. - Any person who instigates or incites others to take part in, or otherwise acts in furtherance of, a strike or lock-out which is illegal under this Code, shall be punishable with fine which shall not be less than ten thousand rupees, but which may extend to fifty thousand rupees or with imprisonment for a term which may extend to one month, or with both. - Any person who knowingly spends or applies any money in direct furtherance or support of any illegal strike or lock-out shall be punishable with fine which shall not be less than ten thousand rupees, but which may extend to fifty thousand rupees or with imprisonment for a term which may extend to one month, or with both. - Any person who commits a breach of any term of any settlement or award, which is binding on him under this Code, shall be punishable with fine which shall not be less than twenty thousand rupees, but which may extend to two lakh rupees or with imprisonment for a term which may extend to three months, or with both. - Where the breach under sub-section (17) is a continuing one, the offender shall be punishable with an additional fine which may extend to one thousand rupees for every day during which the breach continues after the first conviction and the court trying the offence, if it fines the offender, may direct that the whole or any part of the fine realised from him shall be paid, by way of compensation, to any person who, in its opinion, has been affected by such breach. - Any person who wilfully discloses any such information as is referred to in section 61 in contravention of the provisions of that section shall, on a complaint made by or on behalf of the Trade Union or individual business affected, be punishable with fine which may extend to twenty thousand rupees, or with imprisonment for a term which may extend to one month, or with both. - Any person who contravenes any other provision of this Code not covered under sub-sections (1) to (19) or the rules or regulations framed under this Code shall be punishable with fine which may extend to one lakh rupees."
+    ],
+    "Objective": [
+     "Prescribes penalties (fines and, for repeat/serious offences, imprisonment) for violations of the Code's provisions."
+    ],
+    "HR Significance": [
+     "HR/compliance should treat this as the consequence backdrop for every substantive obligation in the Code — non-compliance isn't just a labour-relations risk, it's a punishable offence."
+    ]
+   },
+   "activities": [
+    "Drafting or certifying standing orders",
+    "Avoiding unfair labour practices",
+    "Handling penalties and offences"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "87",
+   "title": "Cognizance of offences",
+   "chapter_num": "XIII",
+   "chapter": "OFFENCES AND PENALTIES",
+   "fields": {
+    "Legal Provision": [
+     "(1) No court shall take cognizance of any offence punishable under this Code, save on a complaint made by or under the authority of the appropriate Government. (2) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), no court inferior to that of the Metropolitan Magistrate or Judicial Magistrate of the first class shall try the offences under this Code."
+    ],
+    "Objective": [
+     "Restricts courts from taking cognizance of offences under the Code except on a complaint by specified authorities within a limited time."
+    ],
+    "HR Significance": [
+     "Procedural safeguard — relevant to legal/HR if facing or considering a complaint under the Code."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "88",
+   "title": "Offences by companies",
+   "chapter_num": "XIII",
+   "chapter": "OFFENCES AND PENALTIES",
+   "fields": {
+    "Legal Provision": [
+     "(1) If the person committing an offence under this Code is a company, every person who, at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly: Provided that nothing contained in this sub-section shall render any such person liable to any punishment if he proves that the offence was committed without his knowledge and that he exercised all due diligence to prevent the commission of such offence. (2) Notwithstanding anything contained in sub-section (1), where an offence under this Code has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly. Explanation.—For the purposes of this section,— - “company” means any body corporate and includes— - a firm; or - a limited liability partnership registered under the Limited Liability Partnership Act, 2008 (6 of 2009); or - other association of individuals; and - “director” in relation to a firm means a partner in the firm."
+    ],
+    "Objective": [
+     "Extends liability for offences by a company to persons in charge of and responsible to the company for its conduct of business."
+    ],
+    "HR Significance": [
+     "Directly relevant to leadership/HR exposure — individual officers (not just the corporate entity) can be held liable for the company's non-compliance."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences",
+    "Company/officer liability for offences"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "89",
+   "title": "Composition of offences",
+   "chapter_num": "XIII",
+   "chapter": "OFFENCES AND PENALTIES",
+   "fields": {
+    "Legal Provision": [
+     "(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), any offence punishable under this Code, not being an offence punishable with imprisonment only, or with imprisonment and also with fine, may, on an application of the accused person, either before or after the institution of any prosecution, be compounded by a Gazetted Officer, as the appropriate Government may, by notification, specify, for a sum of fifty per cent. of the maximum fine provided for such offence punishable with fine only and for a sum of seventy-five per cent. provided for such offence punishable with imprisonment for a term which is not more than one year or with fine, in the manner as may be prescribed: Provided that such amount of composition shall be credited to the Social Security Fund established under section 141 of the Social Security Code, 2020. - Nothing contained in sub-section (1) shall apply to an offence committed by a person for the second time or thereafter within a period of three years from the date— (a) of commission of a similar offence which was earlier compounded; (b) of commission of similar offence for which such person was earlier convicted. - Every officer referred to in sub-section (1) shall exercise the powers to compound an offence, subject to the direction, control and supervision of the appropriate Government. - Every application for the compounding of an offence shall be made in such manner as may be prescribed. - Where any offence is compounded before the institution of any prosecution, no prosecution shall be instituted in relation to such offence, against the offender in relation to whom the offence is so compounded. - Where the composition of any offence is made after the institution of any prosecution, such composition shall be brought by the officer referred to in sub-section (1) in writing, to the notice of the adjudicating officer appointed under sub-section (1) of section 85 before whom the prosecution is pending and on such notice of the composition of the offence being given, the person against whom the offence is so compounded shall be discharged. - Any person who fails to comply with an order made by the officer referred to in sub-section (1), shall be liable to pay a sum equivalent to twenty per cent. of the maximum fine provided for the offence, in addition to such fine. - No offence punishable under the provisions of this Code shall be compounded except under and in accordance with the provisions of this section."
+    ],
+    "Objective": [
+     "Allows certain offences under the Code to be compounded (settled by payment) instead of prosecuted."
+    ],
+    "HR Significance": [
+     "Gives HR/legal a potential route to resolve minor compliance lapses without full prosecution, where eligible."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences",
+    "Social security fund for gig/unorganised workers"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "90",
+   "title": "Conditions of service, etc., to remain unchanged under certain circumstances during pendency of proceedings",
+   "chapter_num": "XIV",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "(1) Where an industrial dispute pertaining to an establishment or undertaking is already pending before a conciliation officer or an Arbitrator or a Tribunal or a National Industrial Tribunal, as the case may be, with regard to matters not covered by the notice of change issued by an employer under section 40, no employer shall— - in regard to any matter connected with such dispute, alter to the prejudice of the workers concerned in such dispute the conditions of service applicable to them immediately before the commencement of such proceedings; or - for any misconduct connected with the dispute, discharge or punish, whether by dismissal or otherwise any worker concerned in such dispute, save with the express permission in writing of the authority before which the proceeding is pending. - During the pendency of any such proceeding in respect of an industrial dispute referred in subsection (1), the employer may, in accordance with standing orders applicable to a worker concerned in such dispute or, where there are no such standing orders, in accordance with the terms of the contract, whether express or implied, between him and the worker— - alter, in regard to any matter not connected with the dispute, the conditions of service applicable to that worker immediately before the commencement of such proceeding; or - for any misconduct not connected with the dispute, discharge or punish, whether by dismissal or otherwise, that worker: Provided that no such worker shall be discharged or dismissed, unless he has been paid wages for one month and an application has been made by the employer to the authority before which the proceeding is pending for approval of the action taken by the employer. - Notwithstanding anything contained in sub-section (2), no employer shall, during the pendency of any proceeding in respect of an industrial dispute, take any action against any protected worker concerned in such dispute— - by altering, to the prejudice of such protected worker, the conditions of service applicable to him immediately before the commencement of such proceeding; or - by discharging or punishing, whether by dismissal or otherwise, such protected worker, save with the express permission in writing of the authority before which the proceeding is pending. Explanation.—For the purposes of this sub-section, a \"protected worker\" in relation to an establishment, means a worker who, being a member of the executive or other office-bearer of a registered Trade Union connected with the establishment, is recognised as such in accordance with rules made in this behalf. - In every establishment, the number of workers to be recognised as protected workers for the purposes of sub-section (3) shall be one per cent. of the total number of workers employed therein subject to a minimum number of five protected workers and a maximum number of one hundred protected workers and for the aforesaid purpose, the appropriate Government may make rules providing for the distribution of such protected workers among various Trade Unions, if any, connected with the establishment and the manner in which the workers may be chosen and recognised as protected workers. - Where an employer makes an application to conciliation officer, arbitrator, Tribunal or National Industrial Tribunal, as the case may be, under the proviso to sub-section (2) for approval of the action taken by him, the authority concerned shall, without delay, hear such application and pass, within a period of three months from the date of receipt of such application, such order in relation thereto as it deems fit: Provided that where any such authority considers it necessary or expedient so to do, it may, for reasons to be recorded in writing, extend such period by such further periods as it may think fit: Provided further that no proceedings before any such authority shall lapse merely on the ground that any period specified in this sub-section had expired without such proceedings being completed."
+    ],
+    "Objective": [
+     "Freezes conditions of service and prohibits punishing workers connected to a dispute while conciliation/adjudication proceedings are pending, without government/authority permission."
+    ],
+    "HR Significance": [
+     "A significant constraint on HR discretion — changing terms or taking disciplinary action against workers involved in a pending dispute generally requires prior permission."
+    ]
+   },
+   "activities": [
+    "Drafting or certifying standing orders",
+    "Changing employee service conditions",
+    "Referring disputes to arbitration",
+    "Handling industrial dispute conciliation"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "91",
+   "title": "Special provision for adjudication as to whether conditions of service, etc., changed during pendency of proceedings",
+   "chapter_num": "XIV",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "Where an employer contravenes the provisions of section 90 during the pendency of proceedings before conciliation officer, arbitrator, Tribunal or National Industrial Tribunal, as the case may be, any employee aggrieved by such contravention, may make a complaint in writing in such manner as may be prescribed— - to such conciliation officer, and the conciliation officer shall take such complaint into account in mediating in, and promoting the settlement of, such industrial dispute; and - to such arbitrator, Tribunal or National Industrial Tribunal and on receipt of such complaint, the arbitrator, Tribunal or National Industrial Tribunal, as the case may be, shall adjudicate upon the complaint as if it were a dispute referred to or pending before it, in accordance with the provisions of this Code and shall submit his or its award to the appropriate Government and the provisions of this Code shall apply accordingly."
+    ],
+    "Objective": [
+     "Provides a special, faster adjudication route specifically to decide whether conditions of service were changed in violation of section 90."
+    ],
+    "HR Significance": [
+     "Gives HR a defined (and relatively quick) forum if a worker alleges a prohibited change was made during pendency of proceedings."
+    ]
+   },
+   "activities": [
+    "Referring disputes to arbitration",
+    "Handling industrial dispute conciliation",
+    "Industrial tribunal proceedings"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "92",
+   "title": "Power to transfer certain proceedings",
+   "chapter_num": "XIV",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "(1) The appropriate Government may, by order in writing and for reasons to be stated therein, withdraw any proceeding under this Code pending before a Tribunal and transfer the same to another Tribunal, as the case may be, for the disposal of the proceeding and the Tribunal to which the proceeding is so transferred may, subject to special directions in the order of transfer, proceed either de novo or from the stage at which it was so transferred. - The Central Government may, by order in writing and for reasons to be stated therein, withdraw any proceeding pending under this Code before a Tribunal constituted by the Central Government or the State Government and transfer to a National Industrial Tribunal for disposal of the proceeding and the National Industrial Tribunal to which the proceeding is so transferred may, subject to special directions in the order of transfer, proceed either de novo or from the stage at which it was so transferred. - The Central Government may, by notification, and for reasons to be stated therein, empower a Tribunal constituted by the State Government to entertain and dispose of the cases arising within their respective jurisdiction under the provisions of this Code where the appropriate Government is the Central Government."
+    ],
+    "Objective": [
+     "Allows the appropriate Government to transfer proceedings from one Tribunal to another."
+    ],
+    "HR Significance": [
+     "Administrative; relevant mainly to multi-location employers with proceedings that could be consolidated or relocated."
+    ]
+   },
+   "activities": [
+    "Industrial tribunal proceedings"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "93",
+   "title": "Protection of persons",
+   "chapter_num": "XIV",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "(1) No person refusing to take part or to continue to take part in any strike or lock-out which is illegal under this Code shall, by reason of such refusal or by reason of any action taken by him under this section, be subject to expulsion from any Trade Union or society, or to any fine or penalty, or to deprivation of any right or benefit to which he or his legal representatives would otherwise be entitled, or be liable to be placed in any respect, either directly or indirectly, under any disability or at any disadvantage as compared with other members of the Union or society, anything to the contrary in rules of a Trade Union or society notwithstanding. (2) Nothing in the rules of a Trade Union or society requiring the settlement of dispute in any manner shall apply to any proceeding for enforcing any right or exemption secured by this section, and in any such proceeding the civil court may, in lieu of ordering a person who has been expelled from membership of a Trade Union or society to be restored to membership, order that he be paid out of the funds of the Trade Union or society such sum by way of compensation or damages as that court thinks just."
+    ],
+    "Objective": [
+     "Protects workers from being penalised for refusing to take part in, or for ending participation in, an illegal strike or lock-out."
+    ],
+    "HR Significance": [
+     "HR should be careful not to treat non-participation in illegal industrial action as grounds for any adverse action — it's protected conduct."
+    ]
+   },
+   "activities": [
+    "Handling penalties and offences",
+    "Interest and damages for late payment"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "94",
+   "title": "Representation of parties",
+   "chapter_num": "XIV",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "(1) A worker who is a party to a dispute shall be entitled to be represented in any proceeding under this Code by— - any member of the executive or other office-bearer of a registered Trade Union of which he is a member; - any member of the executive or other office-bearer of a federation of Trade Unions to which the Trade Union referred to in clause (a) is affiliated; - where the worker is not a member of any Trade Union, any member of the executive or other office-bearer of any Trade Union connected with, or by any other worker employed in the industry in which the worker is employed and authorised in such manner as may be prescribed. (2) An employer who is a party to a dispute shall be entitled to be represented in any proceeding under this Code by— - an officer of an association of employer of which he is a member; - an officer of a federation of associations of employers to which the association referred to in clause (a) is affiliated; - where the employer is not a member of any association of employers, an officer of any association of employers connected with, or by any other employer engaged in, the industry in which the employer is engaged and authorised in such manner as may be prescribed. - No party to a dispute shall be entitled to be represented by a legal practitioner in any conciliation proceedings under this Code or any proceedings before Tribunal or National Industrial Tribunal. - Notwithstanding anything contained in sub-section (3), in any proceeding before a Tribunal or a National Industrial Tribunal, a party to a dispute may be represented by a legal practitioner with the consent of the other parties to the proceeding and with the leave of the Tribunal or National Industrial Tribunal, as the case may be."
+    ],
+    "Objective": [
+     "Sets out who may represent parties (workers, employers) in proceedings before conciliation officers, Boards, or Tribunals."
+    ],
+    "HR Significance": [
+     "Confirms whether HR can rely on internal representatives or must engage external counsel/officers for a given proceeding."
+    ]
+   },
+   "activities": [
+    "Handling industrial dispute conciliation",
+    "Industrial tribunal proceedings"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "95",
+   "title": "Removal of doubts in interpretation of award or settlement",
+   "chapter_num": "XIV",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "(1) If, in the opinion of the appropriate Government, any difficulty or doubt arises as to the interpretation of any provision of an award or settlement, it may refer the question to such Tribunal or National Industrial Tribunal as it may think fit. (2) A Tribunal or National Industrial Tribunal to which such question is referred shall, after giving the parties an opportunity of being heard, decide such question and its decision shall be final and binding on all such parties."
+    ],
+    "Objective": [
+     "Allows any difficulty or doubt in interpreting an award or settlement to be referred back to the relevant authority for clarification."
+    ],
+    "HR Significance": [
+     "A practical route if HR is genuinely uncertain how to apply a settlement/award's terms, rather than guessing and risking a breach."
+    ]
+   },
+   "activities": [
+    "Industrial tribunal proceedings"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "96",
+   "title": "Power to exempt",
+   "chapter_num": "XIV",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "(1) Where the appropriate Government is satisfied in relation to any industrial establishment or undertaking or any class of industrial establishments or undertakings that adequate provisions exist to fulfil the objects of any provision of this Code, it may, by notification, exempt, conditionally or unconditionally such establishment or undertaking or, class of establishments or undertakings from that provision of this Code. (2) Notwithstanding anything contained in sub-section (1), where the appropriate Government is satisfied in relation to any new industrial establishment or new undertaking or class of new industrial establishments or new undertakings that it is necessary in the public interest so to do, it may, by notification, exempt, conditionally or unconditionally, any such new establishment or new undertaking or class of new establishments or new undertakings from all or any of the provisions of this Code for such period from the date of establishment of such new industrial establishment or new undertaking or class of new establishments or new undertakings, as the case may be, as may be specified in the notification: Provided that any notification issued by a State Government under the Industrial Disputes Act, 1947 (14 of 1947), prior to the commencement of this Code, to achieve the purpose as is specified in this subsection in the State, shall remain in force after such commencement for its remaining period as if the provisions of this Code have not been brought into force to the extent they defeat any purpose to be achieved by such notification issued by that State Government. Explanation.—For the purposes of this sub-section, the expression \"new industrial establishment or new undertaking or class of new industrial establishments or new undertakings\" means such industrial establishment or undertaking or class of industrial establishments or undertakings which are established within a period as may be specified in the notification."
+    ],
+    "Objective": [
+     "Allows the appropriate Government to exempt an industrial establishment from provisions of this Chapter in the public interest."
+    ],
+    "HR Significance": [
+     "Worth checking whether a specific exemption notification applies before assuming full Chapter obligations in every case."
+    ]
+   },
+   "activities": [
+    "Paying building & construction worker cess",
+    "Applying for compliance exemptions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "97",
+   "title": "Jurisdiction of civil courts barred",
+   "chapter_num": "XIV",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "No civil court shall have jurisdiction in respect of any matter to which any provision of this Code applies and no injunction shall be granted by any civil court in respect of anything which is done or intended to be done by or under this Code."
+    ],
+    "Objective": [
+     "Bars civil courts from hearing matters that fall within the Code's jurisdiction."
+    ],
+    "HR Significance": [
+     "Confirms disputes under the Code must go through the Code's own mechanisms (conciliation, Tribunals) rather than ordinary civil litigation."
+    ]
+   },
+   "activities": [
+    "Industrial tribunal proceedings"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  },
+  {
+   "number": "98",
+   "title": "Protection of action taken in good faith",
+   "chapter_num": "XIV",
+   "chapter": "MISCELLANEOUS",
+   "fields": {
+    "Legal Provision": [
+     "No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done in pursuance of this Code or any rules made thereunder."
+    ],
+    "Objective": [
+     "Protects persons acting in good faith under the Code from being sued, prosecuted, or otherwise held legally liable for that action."
+    ],
+    "HR Significance": [
+     "Gives HR/management some reassurance that good-faith compliance actions (even if later disputed) carry a degree of legal protection."
+    ]
+   },
+   "activities": [
+    "Legal protection for good-faith actions"
+   ],
+   "definitions": null,
+   "verification_status": "ai_drafted",
+   "source_url": null,
+   "retrieved_at": null
+  }
+ ]
+}
