@@ -1,0 +1,84 @@
+{
+ "extracted_at": "2026-09-30T12:18:50Z",
+ "source_file": "lexsync-lite__1.html",
+ "laws": [
+  {
+   "slug": "factories",
+   "title": "The Factories Act, 1948",
+   "provisions": 121,
+   "chapters": 12,
+   "file": "acts/factories.json"
+  },
+  {
+   "slug": "id_act_1947",
+   "title": "The Industrial Disputes Act, 1947",
+   "provisions": 76,
+   "chapters": 12,
+   "file": "acts/id_act_1947.json"
+  },
+  {
+   "slug": "tu_act_1926",
+   "title": "The Trade Unions Act, 1926",
+   "provisions": 34,
+   "chapters": 5,
+   "file": "acts/tu_act_1926.json"
+  },
+  {
+   "slug": "so_act_1946",
+   "title": "The Industrial Employment (Standing Orders) Act, 1946",
+   "provisions": 20,
+   "chapters": 1,
+   "file": "acts/so_act_1946.json"
+  },
+  {
+   "slug": "gratuity_act_1972",
+   "title": "The Payment of Gratuity Act, 1972",
+   "provisions": 19,
+   "chapters": 1,
+   "file": "acts/gratuity_act_1972.json"
+  },
+  {
+   "slug": "esi_act_1948",
+   "title": "The Employees’ State Insurance Act, 1948",
+   "provisions": 132,
+   "chapters": 9,
+   "file": "acts/esi_act_1948.json"
+  },
+  {
+   "slug": "pf_act_1925",
+   "title": "The Provident Funds Act, 1925",
+   "provisions": 9,
+   "chapters": 1,
+   "file": "acts/pf_act_1925.json"
+  },
+  {
+   "slug": "wages_code",
+   "title": "The Code on Wages, 2019",
+   "provisions": 69,
+   "chapters": 9,
+   "file": "acts/wages_code.json"
+  },
+  {
+   "slug": "osh_code",
+   "title": "The Occupational Safety, Health and Working Conditions Code, 2020",
+   "provisions": 143,
+   "chapters": 14,
+   "file": "acts/osh_code.json"
+  },
+  {
+   "slug": "ir_code",
+   "title": "The Industrial Relations Code, 2020",
+   "provisions": 104,
+   "chapters": 14,
+   "file": "acts/ir_code.json"
+  },
+  {
+   "slug": "ss_code",
+   "title": "The Code on Social Security, 2020",
+   "provisions": 164,
+   "chapters": 14,
+   "file": "acts/ss_code.json"
+  }
+ ],
+ "total_provisions": 891
+}

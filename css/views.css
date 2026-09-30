@@ -1,0 +1,175 @@
+/* ============================================================
+   LexSync FULL — css/views.css
+   Styles for the new views (applicability, checklists, xrefs,
+   assistant extras, update checker, footer). Palette and type
+   follow the lite app (navy / slate / amber / green).
+   ============================================================ */
+
+mark{background:#FFF3C4;border-radius:3px;padding:0 1px;}
+
+/* ---------- verification badges on light backgrounds ---------- */
+.prov-badge{
+  font-family:var(--mono);font-size:10px;letter-spacing:0.4px;text-transform:uppercase;
+  border-radius:20px;padding:2px 9px;white-space:nowrap;vertical-align:middle;
+}
+.unreviewed-badge.prov-badge{color:var(--amber);background:var(--amber-bg);border:1px solid #EAD3A6;}
+.reviewed-badge.prov-badge{color:var(--green);background:var(--green-bg);border:1px solid #BFE3CF;}
+
+.era-badge{
+  font-family:var(--mono);font-size:10.5px;letter-spacing:0.4px;text-transform:uppercase;
+  border-radius:20px;padding:2px 9px;
+}
+.era-code{color:#9DB4E8;background:#1B3A75;border:1px solid #34508C;}
+.era-precode{color:#C9B8E8;background:#2A1F3D;border:1px solid #4A3A6B;}
+
+.src-link{color:#9DB4E8;font-size:12px;}
+.detail-badge-row{margin-bottom:10px;}
+
+.stub-notice{
+  background:#fff;border:1px dashed var(--line);border-radius:var(--radius);
+  padding:26px;text-align:center;max-width:640px;margin:20px auto;
+}
+.stub-notice-title{font-family:var(--serif);font-size:17px;font-weight:600;color:var(--navy);margin-bottom:8px;}
+.stub-notice-body{font-size:13.5px;color:var(--ink-soft);line-height:1.6;}
+
+/* ---------- cross-references ---------- */
+.xref-block{
+  margin-top:14px;background:var(--blue-light);border:1px solid var(--line);
+  border-radius:var(--radius);padding:14px 16px;
+}
+.xref-title{font-size:13px;font-weight:700;color:var(--navy);margin-bottom:8px;}
+.xref-curated{
+  font-family:var(--mono);font-size:10px;letter-spacing:0.5px;text-transform:uppercase;
+  color:var(--ink-faint);border:1px solid var(--line);border-radius:12px;padding:1px 8px;margin-left:6px;
+}
+.xref-group{margin-top:8px;}
+.xref-topic{font-size:12.5px;font-weight:600;color:var(--ink);}
+.xref-note{font-size:12px;color:var(--ink-soft);margin:2px 0 6px;}
+.xref-links{display:flex;flex-wrap:wrap;gap:8px;}
+.xref-link{
+  font-size:12px;font-weight:600;color:var(--blue);background:#fff;
+  border:1px solid var(--line);border-radius:20px;padding:5px 12px;cursor:pointer;
+}
+.xref-link:hover{border-color:var(--blue);}
+
+/* ---------- assistant extras ---------- */
+.mode-badge{
+  display:inline-block;font-size:11.5px;font-weight:600;border-radius:20px;padding:3px 12px;margin:4px 0;
+}
+.mode-badge.local{color:var(--green);background:var(--green-bg);border:1px solid #BFE3CF;}
+.mode-badge.api{color:var(--amber);background:var(--amber-bg);border:1px solid #EAD3A6;}
+
+.key-warning{
+  background:var(--amber-bg);border:1px solid #EAD3A6;border-radius:9px;
+  padding:12px 14px;font-size:12.5px;line-height:1.6;color:#7A4E0E;margin-bottom:14px;
+}
+.key-btn{
+  background:var(--navy);color:#fff;border:none;border-radius:8px;
+  padding:9px 16px;font-size:13px;font-weight:600;cursor:pointer;
+}
+.key-btn.danger{background:#C0392B;}
+.key-btn.ghost{background:#fff;color:var(--ink-soft);border:1px solid var(--line);}
+
+/* ---------- calculators ---------- */
+.calc-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;}
+@media(max-width:760px){.calc-grid{grid-template-columns:1fr;}}
+.calc-card{padding:20px;}
+.calc-label{display:block;font-size:12.5px;color:var(--ink-soft);font-weight:600;margin-bottom:2px;}
+.calc-input{
+  width:100%;padding:9px 12px;border:1px solid var(--line);border-radius:8px;
+  margin:6px 0 14px;font-size:14px;font-family:var(--sans);background:#fff;color:var(--ink);
+}
+.calc-result{font-size:13.5px;line-height:1.9;color:#333;}
+.calc-total{border-top:1px solid var(--line);margin-top:6px;padding-top:6px;}
+.calc-note{font-size:11px;color:var(--ink-faint);margin-top:10px;line-height:1.5;}
+.calc-na{font-size:13px;color:var(--ink-soft);line-height:1.6;}
+.calc-disclaimer{margin-top:20px;font-size:12px;color:var(--ink-faint);text-align:center;line-height:1.6;}
+.calc-extra-input{margin-top:0;}
+
+/* ---------- applicability engine ---------- */
+.appr-form{
+  background:#fff;border:1px solid var(--line);border-radius:var(--radius);
+  padding:22px;max-width:640px;margin-bottom:20px;
+}
+.appr-field{margin-bottom:4px;}
+.appr-field label{display:block;font-size:12.5px;color:var(--ink-soft);font-weight:600;}
+.appr-go{
+  background:var(--navy);color:#fff;border:none;border-radius:9px;
+  padding:11px 22px;font-size:14px;font-weight:700;cursor:pointer;margin-top:8px;
+}
+.appr-go:hover{background:var(--navy-deep);}
+.appr-section{margin-bottom:18px;}
+.appr-section-title{font-family:var(--serif);font-size:16px;font-weight:700;margin-bottom:10px;}
+.appr-section-title.applies{color:var(--green);}
+.appr-section-title.maybe{color:var(--amber);}
+.appr-section-title.no{color:var(--ink-faint);}
+.appr-row{
+  background:#fff;border:1px solid var(--line);border-left:4px solid var(--line);
+  border-radius:var(--radius);padding:14px 16px;margin-bottom:10px;
+}
+.appr-row.applies{border-left-color:var(--green);}
+.appr-row.maybe{border-left-color:var(--amber);}
+.appr-row.no{border-left-color:var(--ink-faint);opacity:0.85;}
+.appr-row-head{display:flex;align-items:center;gap:8px;margin-bottom:6px;}
+.appr-name{font-weight:700;font-size:14px;color:var(--ink);}
+.appr-why{font-size:13px;color:var(--ink-soft);line-height:1.6;margin-bottom:8px;}
+.basis-row{margin-top:6px;}
+.basis-link{
+  font-size:12px;font-weight:600;color:var(--blue);background:var(--blue-light);
+  border:1px solid var(--line);border-radius:20px;padding:5px 12px;cursor:pointer;
+}
+.basis-link:hover{border-color:var(--blue);}
+.basis-note{font-size:12px;color:var(--amber);margin-top:6px;line-height:1.5;}
+.legal-counsel-box{
+  background:#FFF8E8;border:1px solid #EAD3A6;border-radius:var(--radius);
+  padding:16px 18px;font-size:13px;line-height:1.7;color:#5A3E0C;margin-top:22px;
+}
+.legal-counsel-box a{color:var(--blue);}
+
+/* ---------- checklists ---------- */
+.checklist{max-width:760px;}
+.check-item{
+  display:flex;gap:12px;align-items:flex-start;background:#fff;border:1px solid var(--line);
+  border-radius:var(--radius);padding:14px 16px;margin-bottom:10px;cursor:pointer;
+}
+.check-item.done{opacity:0.65;}
+.check-item.done .check-task{text-decoration:line-through;}
+.check-box{margin-top:3px;width:17px;height:17px;accent-color:var(--green);flex-shrink:0;}
+.check-num{
+  font-family:var(--mono);font-size:11px;color:var(--ink-faint);flex-shrink:0;
+  background:var(--bg);border-radius:50%;width:24px;height:24px;display:flex;align-items:center;justify-content:center;
+}
+.check-body{flex:1;}
+.check-task{display:block;font-size:13.5px;line-height:1.6;color:var(--ink);margin-bottom:6px;}
+.check-meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;}
+.check-link{
+  font-size:12px;font-weight:600;color:var(--blue);background:var(--blue-light);
+  border:1px solid var(--line);border-radius:20px;padding:4px 12px;cursor:pointer;
+}
+.check-missing{font-size:12px;color:var(--amber);}
+.check-progress{font-size:13px;font-weight:600;color:var(--green);margin-top:12px;}
+
+/* ---------- footer ---------- */
+.footer-note{
+  background:var(--navy-deep);color:#9DB4E8;font-size:12px;line-height:1.7;
+  padding:22px 24px;margin-top:40px;
+}
+.footer-note-inner{max-width:1120px;margin:0 auto;}
+.footer-note a{color:#BFD0F5;}
+.footer-update{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-top:12px;}
+#updateBtn{
+  background:#1B3A75;color:#BFD0F5;border:1px solid #34508C;border-radius:20px;
+  padding:6px 16px;font-size:12px;font-weight:600;cursor:pointer;
+}
+#updateBtn:hover{background:#23478A;}
+.upd-note{font-size:12px;color:#9DB4E8;}
+.upd-ok{font-size:12px;color:#8CE0AC;}
+.upd-newer{font-size:12.5px;color:#F5CD8C;background:#3A2C10;border:1px solid #6B4E1D;border-radius:9px;padding:10px 14px;}
+.upd-changelog{margin:8px 0 0;padding-left:18px;font-size:12px;}
+#dataVersionLine{font-family:var(--mono);font-size:11px;color:#7E93C4;margin-top:10px;}
+
+.boot-error{max-width:640px;margin:80px auto;padding:30px;background:#fff;border-radius:12px;text-align:center;}
+.boot-error code{background:var(--bg);padding:2px 8px;border-radius:6px;}
+
+.activity-result-link{cursor:pointer;}
+.activity-result-link:hover{border-color:var(--blue);}

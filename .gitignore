@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Note: dist/ is intentionally COMMITTED (single-file hosting, e.g. GitHub Pages).
+# Uncomment the next line if you ever want to stop committing built output.
+# dist/

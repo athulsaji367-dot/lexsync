@@ -1,0 +1,55 @@
+{
+ "slug": "esi_act_1948",
+ "title": "The Employees’ State Insurance Act, 1948",
+ "year": 1948,
+ "type": "act",
+ "status": "pending_verification",
+ "source_url": null,
+ "retrieved_at": "2026-09-30T12:18:50Z",
+ "verification_status": "ai_drafted",
+ "lite_reviewed_flag": true,
+ "chapters": [
+  {
+   "num": "I",
+   "name": "PRELIMINARY"
+  },
+  {
+   "num": "II",
+   "name": "CORPORATION, STANDING COMMITTEE AND MEDICAL BENEFIT COUNCIL"
+  },
+  {
+   "num": "III",
+   "name": "FINANCE AND AUDIT"
+  },
+  {
+   "num": "IV",
+   "name": "CONTRIBUTIONS"
+  },
+  {
+   "num": "V",
+   "name": "BENEFITS"
+  },
+  {
+   "num": "VA",
+   "name": "SCHEME FOR OTHER BENEFICIARIES"
+  },
+  {
+   "num": "VI",
+   "name": "ADJUDICATION OF DISPUTE AND CLAIMS"
+  },
+  {
+   "num": "VII",
+   "name": "PENALTIES"
+  },
+  {
+   "num": "VIII",
+   "name": "MISCELLANEOUS"
+  }
+ ],
+ "provisions": [],
+ "parts": [
+  "esi_act_1948.p1.json",
+  "esi_act_1948.p2.json",
+  "esi_act_1948.p3.json"
+ ]
+}
