@@ -1,0 +1,54 @@
+{
+ "slug": "wages_code",
+ "title": "The Code on Wages, 2019",
+ "year": 2019,
+ "type": "code",
+ "status": "pending_verification",
+ "source_url": null,
+ "retrieved_at": "2026-09-30T12:18:50Z",
+ "verification_status": "ai_drafted",
+ "lite_reviewed_flag": false,
+ "chapters": [
+  {
+   "num": "I",
+   "name": "PRELIMINARY"
+  },
+  {
+   "num": "II",
+   "name": "MINIMUM WAGES"
+  },
+  {
+   "num": "III",
+   "name": "PAYMENT OF WAGES"
+  },
+  {
+   "num": "IV",
+   "name": "PAYMENT OF BONUS"
+  },
+  {
+   "num": "V",
+   "name": "ADVISORY BOARD"
+  },
+  {
+   "num": "VI",
+   "name": "PAYMENT OF DUES, CLAIMS AND AUDIT"
+  },
+  {
+   "num": "VII",
+   "name": "INSPECTORY-CUM-FACILITATOR"
+  },
+  {
+   "num": "VIII",
+   "name": "OFFENCES AND PENALTIES"
+  },
+  {
+   "num": "IX",
+   "name": "MISCELLANEOUS"
+  }
+ ],
+ "provisions": [],
+ "parts": [
+  "wages_code.p1.json",
+  "wages_code.p2.json"
+ ]
+}
