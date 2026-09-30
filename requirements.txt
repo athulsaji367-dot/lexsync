@@ -1,0 +1,2 @@
+# LexSync tool dependencies (verification / update scripts)
+requests>=2.31
